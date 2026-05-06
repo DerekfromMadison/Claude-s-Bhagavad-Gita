@@ -3,972 +3,499 @@ chapter: 14
 sanskrit_name: Gunatraya Vibhaga Yoga
 english_name: The Yoga of the Three Modes of Nature
 author: Claude (Anthropic)
-status: draft-1-complete
+status: draft-2-rewritten
 ---
 
 # Chapter 14 — *Gunatraya Vibhaga Yoga*
 
-**The Yoga of the Three Modes of Nature.** A chapter about the
-weather of the soul: three pervasive currents — clarity, drive,
-inertia — that pass through every person, every day, and the
-question of who watches them pass.
-
----
-
-## § 1. The dialogue
-
-Embodied life is woven of three strands. *Sattva*, *rajas*,
-*tamas* — three modes of nature, born of *prakriti*, that bind
-the immutable self within the changing body. They constitute
-every state of mind, every action, every preference. They are
-not three classes of person. They are three movements that
-contend in every person.
-
-Krishna returns to a teaching he says he has given before — the
-highest of knowledges, by which the sages reached perfection. The
-frame is compact: a teacher, an attentive student, a diagnosis to
-deliver.
-
-Krishna characterizes each. Sattva is luminous and stainless; it
-binds by attachment to happiness and to knowledge. Rajas is
-passion and craving; it binds by attachment to action. Tamas,
-born of ignorance, deludes through heedlessness, indolence, and
-sleep. Each binds — each holds the self inside a body and a
-story.
-
-He gives the signs. When the gates of the body are illuminated by
-knowledge — perception clean, attention steady, judgment unclouded
-— sattva has prevailed. When greed, restlessness, the impulse to
-begin work, the longing for results arise — rajas is ascendant.
-When dullness, lack of effort, negligence, and confusion appear —
-tamas has come up.
-
-He gives the fruits. From sattva, knowledge; from rajas, greed;
-from tamas, negligence and delusion. He gives the trajectories.
-Those abiding in sattva go upward; in rajas, middle; in tamas,
-downward.
-
-Then Arjuna asks the necessary question. By what marks is one
-known who has gone beyond the three? How does such a one behave?
-How is the going-beyond accomplished?
-
-Krishna's answer is the heart of the chapter. The *gunatita* does
-not hate the gunas when they arise nor long for them when they
-pass. Sits as if indifferent. Knows that it is the gunas alone
-that act. Is steady in pleasure and pain, equal toward a clod, a
-stone, or gold, equal toward dear and unfriendly, praise and
-blame, honor and dishonor, friend and foe. Has abandoned all
-undertakings — not in the sense of inaction, but in the sense of
-no longer being identified with the doer.
-
-The chapter closes with the path. The one who serves Krishna
-through unwavering devotion (*avyabhicarena bhakti-yogena*),
-having transcended these three modes, becomes fit for the state
-of *Brahman*. Krishna identifies himself as the foundation of
-*Brahman*, of immortality, of eternal *dharma*, of unending joy.
-
-The chapter looks like cosmology. It is about the weather of one's
-life and the discovery of a place that is not the weather.
-
----
-
-## § 2. The core concepts
-
-**The three gunas (*guna*: literally "strand" or "constituent").**
-The doctrine is older than the Gita; it belongs to the Samkhya
-school, where *prakriti* — the material-and-mental nature of the
-world — is constituted by three mutually interacting strands:
-*sattva* (goodness, lucidity, harmony, light), *rajas* (passion,
-energy, drive, activity), and *tamas* (darkness, inertia,
-dullness). Every material-mental state has all three in shifting
-proportions. The gunas are not psychological types laid on a
-neutral substrate; they are the substrate. Different states arise
-depending on which strand is, in this moment, ascendant.
-
-The Gita inherits this picture and uses it. Philological
-translations preserve the strand-of-the-rope metaphor; literary
-translations reach for ordinary English at the cost of some
-technical specificity. Both moves are defensible.
-
-**Binding (*nibandha*).** Each guna binds the embodied self in a
-characteristic way. Krishna's own characterization of sattva, in
-14.6:
-
-> *"Sattva — pure, luminous, and free from sorrow — binds us with
-> attachment to happiness and wisdom."*
-
-(Easwaran trans., *The Bhagavad Gita*, 14.6, Nilgiri Press 2007
-ed.; wording flagged for word-by-word verification.)
-
-Miller's literary rendering is more austere:
-
-> *"Of these, lucidity, being untainted, is luminous and
-> unblemished; Arjuna, it binds one with attachment to joy and to
-> knowledge."*
-
-(Miller trans., *The Bhagavad-Gita: Krishna's Counsel in Time of
-War*, Bantam 1986, 14.6; wording flagged.)
-
-Even *sattva* binds — by attachment to happiness, by attachment
-to knowledge. Rajas binds by attachment to action and its fruits.
-Tamas binds by negligence, indolence, and sleep — by foreclosure
-of attention. Even clarity, even what feels like spiritual
-progress, is a binding, because it produces an attachment.
-Becoming a "good person" can be its own subtle prison.
-
-**Hierarchy and trajectory.** The three are not equally weighted.
-Sattva tends upward, rajas toward middle, tamas downward. Different
-traditions read "upward" and "downward" differently — literally as
-cosmographic realms (Prabhupada), psychologically as states
-(Easwaran, Aurobindo), ethically as moral trajectories (Gandhi).
-What every reading agrees on: sattva is preferable to rajas is
-preferable to tamas, *as a state of operation*, while none of the
-three is the destination.
-
-**Manifestation in life (food, work, mood).** The Gita returns to
-this in chapters 17 and 18: the gunas show up not in some abstract
-inner sphere but in *what one eats, how one works, what kind of
-faith one carries, what kind of pleasure one prefers*. The signs in
-14.11–14.13 — illumination of the senses, restless undertaking of
-work, dullness and confusion — are observable in lived behavior,
-not just interior states. The chapter offers a *diagnostic
-vocabulary* for one's actual days. This is what makes it usable.
-
-**Going beyond (*gunatita*).** The destination is the place that
-sees the three operating without being identified with any. Not a
-fourth guna; the gunas exhaust the modes of prakriti. A stance of
-*recognition* — knowing the gunas as gunas, knowing oneself as the
-witness of their movement, no longer taking the rise of one or the
-fall of another as a fact about who one is. The marks in
-14.22–14.25 are strong: equal in pleasure and pain, equal toward
-gold and a clod of earth, equal in praise and blame. The bar is
-high. Whether anyone fully clears it is a question the chapter
-does not press; the trajectory is what matters.
-
-A note on translation. Every English rendering of the gunas
-already commits to an interpretive frame. "Sattva" as "goodness"
-carries a moral charge; as "lucidity," epistemic; as "purity,"
-ritual; as "harmony" or "light," aesthetic. "Rajas" as "passion"
-leans psychological; as "energy" or "activity," descriptive.
-"Tamas" as "ignorance" makes the mode cognitive; as "darkness" or
-"inertia," broader. The reader who knows that translation choices
-have already been made is in a better position to judge what the
-chapter is saying. Throughout this chapter the translations are
-set side by side rather than any one adopted as canonical.
-
----
-
-## § 3. The traditions speak
-
-The Gita's chapter on the gunas has been read in radically
-different ways. The disagreements concern what the gunas *are*,
-whether the bondage is finally real, and what kind of practice is
-called for.
-
-### § 3.1 Advaita Vedanta — Sankara
-
-Sankara, reading through Advaita.
-
-Sankara's *Bhagavad Gita Bhasya*, in English through A. Mahadeva
-Sastri (1897) and Swami Gambhirananda (Advaita Ashrama), treats
-14.5 carefully. The verse says the gunas, born of prakriti, bind
-the imperishable embodied one. Sankara argues, in substance, that
-this binding is *as if*: the imperishable self cannot really be
-bound, because if it were, its imperishability would be
-compromised. What is bound is the *embodied* form of the self —
-the self insofar as it identifies with body, mind, intellect. The
-atman, considered as atman, is never touched.
-
-(Sankara, *Bhagavad Gita Bhasya*, on 14.5; cf. Mahadeva Sastri
-1897 trans. and Gambhirananda's Advaita Ashrama trans.; specific
-English wording flagged; substance is the consensus reading.)
-
-The reading places the witness at the center: the gunas are real
-as properties of prakriti, the self that watches them is not made
-of them, and 14.22–14.25's going-beyond is the recognition of
-that distinction rather than its manufacture. The chapter's
-transformative language — modes rising and falling, sattva
-cultivated, practice doing real work — is accommodated as
-preparation but does not get the prominence the verses warrant.
-The full reading rests on the larger Advaita metaphysics of
-*maya*, which a reader who finds it implausible will not take as
-the chapter's last word. (On why this manuscript keeps the
-witness-distinction while setting the full metaphysics aside, see
-Ch. 5 and Ch. 7.)
-
-### § 3.2 Vishishtadvaita — Ramanuja
-
-Ramanuja, reading through qualified non-dualism.
-
-Ramanuja's *Gita Bhasya* (English: Swami Adidevananda, Sri
-Ramakrishna Math, Madras), reads 14.5 in substance: the three
-gunas, products of real material nature, really bind the embodied
-self through real beginningless contact, and the way out is real
-surrender to the real Lord whose grace cuts the bondage.
-(Paraphrase; specific page locator pending.)
-
-What this reading puts at the center is realism and devotion. The
-gunas are not metaphysical decoration; they are the actual
-condition of the actual self, and 14.26's unwavering devotion
-(*avyabhicarena bhakti-yogena*) is the operational answer to a
-real problem. The yogic-philosophical psychology that other
-readers foreground can be given an account of, but the
-gravitational center is the relationship-with-the-Lord on which
-the chapter ends — a theological realism with strong sectarian
-implications.
-
-### § 3.3 Gaudiya / ISKCON Vaishnava — Prabhupada
-
-Prabhupada, reading through Gaudiya Vaishnava theology in a
-translation-and-purport format that fixes the interpretive frame
-in advance.
-
-His translation of 14.5:
-
-> *"Material nature consists of three modes — goodness, passion
-> and ignorance. When the eternal living entity comes in contact
-> with nature, O mighty-armed Arjuna, he becomes conditioned by
-> these modes."*
-
-(Prabhupada, *Bhagavad-gita As It Is*, 14.5, BBT ed.)
-
-Sattva as "goodness," rajas as "passion," tamas as "ignorance." He
-is consistent across the chapter:
-
-> *"O son of Bharata, the mode of goodness conditions one to
-> happiness; passion conditions him to fruitive action; and
-> ignorance, covering his knowledge, binds him to madness."*
-
-(Prabhupada, 14.9, BBT ed.)
-
-The signature move is the purport on 14.26, hammering devotion
-into a univocal soteriology:
-
-> *"One who engages in pure devotional service, transcending the
-> modes of material nature, is at once elevated to the spiritual
-> platform."*
-
-(Prabhupada, 14.26 purport, BBT ed.)
-
-The strength is affective depth: Prabhupada is right, against any
-merely intellectual reading, that simply *understanding* the gunas
-does not transcend them — something with the heat of devotion is
-required. Yogic discipline, philosophical discrimination, ethical
-cultivation get subordinated, in the purports, to direct
-devotional service to Krishna; where the text leaves multiple
-doors open, Prabhupada closes all but one. A reader outside
-ISKCON's specific theology can take the affective-depth insight
-while declining the conclusion that one specific devotional form
-is the only path.
-
-### § 3.4 Activist *karma-yoga* — Tilak and Gandhi
-
-Tilak and Gandhi, reading through activist *karma-yoga*.
-
-Tilak's *Gita Rahasya* (1915, English trans. B. S. Sukthankar
-1935) treats the Gita as the manual of *energetic action* — the
-work of an anti-colonial nationalist arguing against renunciatory
-readings that, in his view, served quietism. On chapter 14, Tilak
-takes the gunas as the moral atmosphere of the actor, with sattva
-as the disposition in which one's *karma* is best performed.
-(Paraphrase; *Gita Rahasya*, ch. on the gunas, vol. II, Tilak
-Bros, Poona, 1935; edition pending.)
-
-Gandhi, working from his Gujarati *Anasakti Yoga* and the
-*Discourses on the Gita* (Mahadev Desai, *The Gita According to
-Gandhi*, Navajivan, 1946), reads chapter 14 as a moral psychology
-for daily life. He emphasizes sattvic intake — sattvic food,
-speech, association — as the practice of the chapter, not as
-decoration. The gunas describe the actual texture of one's days,
-and the cultivation of sattva is a discipline of self-rule.
-(Gandhi, *Anasakti Yoga*, introduction, Desai 1946; quotation
-pending validation.)
-
-What this reading offers is the practical register: the gunas as
-categories for use, with what you eat, who you talk to, what you
-read, and how you work as the field on which the gunas act and on
-which the practitioner acts back. The deeper question of what the
-gunas finally *are* gets pushed to the side — Tilak and Gandhi are
-ethicists, not ontologists — and the lens carries a particular
-ethical-political orientation inseparable from Tilak's nationalist
-context and Gandhi's ethical-political experiment. That is the
-lens.
-
-### § 3.5 Integral / evolutionary — Aurobindo
-
-Aurobindo, reading through Integral Yoga.
-
-Aurobindo argues, in substance, that the three gunas are not
-classes of person but *modes, movements, and moods* through which
-nature operates in every soul. There is no person who is purely
-sattvic, rajasic, or tamasic; there is a soul in which the three
-contend, and the work of yoga is to elevate the *action* of the
-gunas into something the higher self can inhabit. The path beyond
-is not the abolition of the gunas — that is impossible while
-embodied — but their transformation, through self-offering, into
-instruments of a higher consciousness. (Aurobindo, *Essays on the
-Gita*, "The Three Gunas" and "Beyond the Gunas"; specific page
-locator pending. Paraphrase.)
-
-The reading is dynamic: the gunas are active, not classificatory,
-and yoga is the transformation of their action rather than an
-escape from it. The strong renunciatory note in 14.22–14.25 gets
-absorbed by reading the going-beyond as the soul's
-self-recognition while still embodied, with the gunas now serving
-the higher purpose rather than binding it — a specific
-theological-philosophical move, defensible but not neutral. The
-larger evolutionary spiritual metaphysics is not one all readers
-will accept; the psychological insight — gunas as movements rather
-than types — is portable for readers who decline the framework.
-
-### § 3.6 Comparative / academic philological — Edgerton, Zaehner, Johnson, Patton
-
-Edgerton, Zaehner, Johnson, and Patton, reading through academic
-philology — situating the gunas in their historical context as
-inherited Samkhya cosmology, translating with care.
-
-Franklin Edgerton's 1944 translation (Harvard) is austere and
-direct; his philosophical introduction situates the gunas as part
-of the pre-existing Samkhya framework. R. C. Zaehner, in *The
-Bhagavad-Gita With a Commentary Based on the Original Sources*
-(Oxford, 1969), reads comparatively, with attention to the
-moral-psychological consequences.
-
-W. J. Johnson, in his Oxford World's Classics translation (1994),
-renders 14.5 with characteristic precision:
-
-> *"Sattva, rajas and tamas — those strands, born of material
-> nature, bind the imperishable embodied one fast in the body,
-> mighty-armed Arjuna."*
-
-(Johnson trans., OUP 1994, 14.5; wording flagged.)
-
-Johnson's choice of "strands" is philologically careful; *guna*
-literally means a strand of a rope. The Samkhya picture is of
-three strands twisted together to constitute prakriti — a metaphor
-the philological translation preserves where the literary
-translations replace it.
-
-Laurie Patton's Penguin Classics translation (2008) foregrounds
-the dialogic frame and reads chapter 14 as part of Krishna's
-pedagogical ladder for Arjuna. (Patton, Penguin 2008; specific
-verse rendering pending.)
-
-The reading's gift is locatedness: the chapter is not sui generis,
-it inherits a vocabulary and uses it. Theological commitment
-recedes — academic translation is not prescriptive about practice,
-and a reader looking for a *path* will not find one here. The lens
-is scholarly restraint, a corrective to overconfident interpretive
-claims.
-
-### § 3.7 Literary-universalist — Mascaró and Miller
-
-Mascaró and Miller, reading through literary universalism — two
-translators setting the chapter into accessible English with very
-different tonal choices.
-
-Juan Mascaró (Penguin Classics, 1962) renders the gunas as the
-*constituents of nature* and reads in a register continuous with
-his governing universalism — the Gita as one of the great wisdom
-texts of humanity. His 14.5, in substance: *Sattva, rajas, and
-tamas — these are the three constituents of nature; they appear
-in the soul of man and they bind him to his perishable body*
-(Mascaró, Penguin 1962, 14.5; paraphrase, flagged). His gunatita
-description: *He who knows that the powers of nature are the only
-doers; who beholds all from on high, beyond the storm; who has the
-same regard for friend and foe, for honour and dishonour, for
-pleasure and pain, for praise and blame — that man, in truth, has
-gone beyond.* (Mascaró, 14.22–14.25, paraphrase.)
-
-Barbara Stoler Miller (*The Bhagavad-Gita: Krishna's Counsel in
-Time of War*, Bantam, 1986) reads as a literary scholar with
-attention to the dramatic frame. Her signature triplet for the
-gunas — *lucidity, passion, dark inertia* — is a translator's
-commitment with consequences. Her 14.5:
-
-> *"Lucidity, passion, and dark inertia are the qualities that
-> nature creates; they bind the immutable self to the body."*
-
-(Miller trans., Bantam 1986, 14.5; wording flagged.)
-
-Her 14.18:
-
-> *"Men of lucidity rise upward, men of passion abide in
-> between, men of dark inertia, in the lowest mode, sink down."*
-
-(Miller, 14.18; wording flagged.)
-
-The gift here is accessibility. A reader meeting the Gita for the
-first time can hold "lucidity, passion, dark inertia" or
-"constituents of nature" in ordinary English where "sattva, rajas,
-tamas" remain technical terms — at the cost of some technical
-specificity, since *guna* as "constituent" loses the
-strand-of-the-rope metaphor and *sattva* as "lucidity" foregrounds
-clarity at the cost of the moral-purity register. The lens is the
-universalist project. Mascaró, Miller, and Easwaran in his
-contemplative-pastoral mode are writing for an audience that may
-not have the philological training but does have the existential
-question.
-
-A glance at 14.18 shows how much rendering shapes meaning. Where
-Easwaran has "those who live in sattva go upwards; those in rajas
-remain where they are. But those immersed in tamas sink
-downwards," Prabhupada renders the same verse cosmographically:
-"those situated in the mode of goodness gradually go upward to the
-higher planets... those in the abominable mode of ignorance go
-down to the hellish worlds" (Prabhupada, 14.18, BBT ed.). The
-Sanskrit allows both; the rendering is the reader's first
-interpretive choice, made by the translator.
-
-Comparative attention pays off most on the *gunatita* description
-in 14.22–14.25:
-
-> *"They live free from the action of the gunas. When sattva,
-> rajas, and tamas arise, such people neither shun them nor
-> pursue them; unattached, neutral, indifferent — knowing it is
-> only the gunas that act, they remain unmoved."*
-> (Easwaran trans., 14.22–14.25, Nilgiri 2007; flagged.)
-
-> *"Indifferent to lucidity, passion, or dark inertia, when they
-> emerge or recede; standing apart from the qualities, unmoved,
-> like a witness, knowing only that qualities are at work, he
-> stands firm and is unshaken."*
-> (Miller trans., 14.22–14.25, Bantam 1986; flagged.)
-
-> *"He who does not hate illumination, attachment, and delusion
-> when they are present, nor longs for them when they disappear;
-> who is unwavering and undisturbed through all these reactions
-> of the material qualities, remaining neutral and transcendental,
-> knowing that the modes alone are active... such a person is said
-> to have transcended the modes of nature."*
-> (Prabhupada trans., 14.22–14.25, BBT ed.)
-
-Easwaran foregrounds the witnessing stance. Miller's "like a
-witness" preserves the same posture more economically; "standing
-apart from the qualities" is philologically careful. Prabhupada's
-longer cadence keeps every classical commitment visible —
-*illumination, attachment, and delusion* mapping to sattva, rajas,
-tamas; *transcendental* doing much theological work. None is
-wrong. A reader who holds all three in view is closer to the
-Sanskrit than a reader who has chosen any one.
-
----
-
-## § 4. Modern counterpoints
-
-### § 4.1 Virtue ethics on character — Alasdair MacIntyre
-
-The chapter is sometimes read — in popular glosses — as a
-typology: people *are* sattvic, rajasic, or tamasic. The strong
-reading of MacIntyre's virtue ethics challenges any such typology
-by replacing essence with practice.
-
-Alasdair MacIntyre's *After Virtue* (1981; 3rd ed., Notre Dame,
-2007) is the seminal late-twentieth-century recovery of virtue
-ethics in the Aristotelian-Thomistic tradition. His central
-definition:
-
-> *"A virtue is an acquired human quality the possession and
-> exercise of which tends to enable us to achieve those goods
-> which are internal to practices and the lack of which
-> effectively prevents us from achieving any such goods."*
-
-(MacIntyre, *After Virtue*, 3rd ed., Notre Dame, 2007, ch. 14, p.
-191; substance confirmed, page locator flagged.)
-
-"Acquired human quality" does the work. A virtue is *not* a
-temperamental endowment; it is acquired through participation in
-a practice over time. *Practice*, for MacIntyre, is technical — a
-coherent, complex, socially established cooperative activity
-through which goods internal to it are realized. Virtues are the
-dispositions that enable participation. Courage, justice,
-truthfulness, patience: not personality traits one is born with
-or without. Acquired through doing the activities that require
-them, with people who already embody them, in a tradition that
-gives them shape.
-
-The implication for the gunas is direct. If the chapter is read as
-a typology — *I am tamasic, you are rajasic, she is sattvic* — it
-commits a category mistake. It mistakes a *state* for an *essence*.
-A more defensible reading: the gunas describe states susceptible
-to *cultivation through practice*. To say someone "lives in sattva"
-cannot mean "she is born sattvic." It must mean "her habits, her
-practices, her inputs, her tradition have shaped her dispositions
-toward clarity, steadiness, and truthful perception." That kind of
-sattva is not given. It is grown.
-
-A typology offers a label. A practice offers a path.
-
-### § 4.2 Modern personality frameworks — the Big Five (with care)
-
-The dominant framework in late-twentieth-century personality
-psychology is the *Five-Factor Model*: Openness, Conscientiousness,
-Extraversion, Agreeableness, Neuroticism. Formalized in the 1980s
-and 1990s, primarily by Paul Costa and Robert McCrae (Costa &
-McCrae, *Revised NEO Personality Inventory (NEO-PI-R) and NEO
-Five-Factor Inventory Professional Manual*, Psychological
-Assessment Resources, 1992).
-
-The temptation, on first contact, is to map the gunas onto the
-Big Five — sattva onto Conscientiousness, rajas onto Extraversion,
-tamas onto Neuroticism. Resist it. The Big Five and the gunas do
-different work in different frameworks.
-
-The Big Five is *descriptive without normative ladder*: high
-Conscientiousness is not *better than* low Conscientiousness; the
-framework says traits cluster and predict behavior. The gunas, in
-the Gita's frame, are *normatively ranked*: sattva is preferable to
-rajas to tamas, *as a state of operation*.
-
-The Big Five is also *trait-level*: stable dispositions over time.
-The gunas are *state-and-trait at once*: the chapter speaks of
-moments and seasons in which one mode rises and another falls
-(14.10–14.13), as well as overall trajectories (14.18). The Big
-Five maps the trajectory; it does not capture the moment-by-moment
-shifting the chapter takes for granted.
-
-Used carefully, the Big Five does two things in conversation with
-the chapter. First, it provides empirical evidence that *there are
-real, measurable, stable dispositional patterns in people*. The
-gunas are not arbitrary; the Gita points at something modern
-personality psychology also finds. Second, it disciplines any move
-from the gunas to a *biological* or *fixed-essence* reading: even
-the most empirically grounded modern personality framework treats
-traits as patterned dispositions rather than essences, so the
-typological reading of the gunas is at minimum unsupported by the
-empirically better-grounded modern frameworks.
-
-The careful use of the Big Five does not say *the gunas are the
-Big Five*. It says: a modern reader trained to think of personality
-in measurable trait terms can hold the gunas as a complementary
-frame — descriptively similar, normatively distinct, metaphysically
-divergent — without collapsing one into the other.
-
-### § 4.3 A Buddhist counterpoint — Bhikkhu Bodhi
-
-The Buddhist tradition does not use the language of the gunas. But
-its vocabulary of the *kilesas* — defilements or afflictions —
-sits in close structural proximity. The three classical kilesas
-are *lobha* (greed), *dosa* (hatred), and *moha* (delusion):
-forces that distort cognition, condition action, and bind beings
-to suffering. They are diagnosed, classically, in order to be
-uprooted.
-
-Bhikkhu Bodhi, the contemporary American Theravada monk and
-prolific translator of the Pali canon, has done as much as any
-single voice to make early Buddhist psychology accessible. His
-anthology *In the Buddha's Words* (Wisdom Publications, 2005)
-gathers the sutta literature with introductions naming the
-structural commitments. Bodhi emphasizes that the early Buddhist
-teaching is *therapeutic*: the kilesas are diagnosed in order to
-be reduced and finally eliminated through practice. Not categories
-of person. Forces in the mind. (Bodhi, *In the Buddha's Words*, ch.
-8 and introductions, Wisdom Publications, 2005; specific page
-locator pending. Paraphrase.)
+Practice has a body. The chapter on the three *gunas* — *sattva*,
+*rajas*, *tamas* — is most often read as a typology of persons or as
+a philosophy of pure inwardness, and it is neither. It is a chapter
+about how the texture of a Tuesday afternoon depends on what
+happened on Monday night. Sleep, food, light, exercise, the loop of
+inputs into the eyes and ears: these are not the field on which
+spiritual practice happens after the conditions are right. They
+*are* part of the practice. Willpower against substrate is the wrong
+frame, and most of the people who have tried it know that already
+without quite admitting it. The Gita's chapter on the three modes
+gives them language for what they have been bumping into.
+
+The three modes Krishna names — *sattva* as clarity, *rajas* as
+drive, *tamas* as dullness — are presented in the older Samkhya
+vocabulary as the constituent strands of *prakriti*, the
+material-mental nature out of which all states are woven. Every
+state has all three; what shifts is the proportion. Krishna is
+clear that even *sattva* binds — by attachment to clarity itself,
+by the pleasure of feeling lucid — and that *rajas* binds by
+attachment to action, *tamas* by foreclosure of attention through
+sleep, indolence, heedlessness (14.5–14.9). He gives the signs by
+which each is recognized when ascendant: illuminated perception
+when sattva is up, restless undertaking when rajas is up, dullness
+and confusion when tamas is up (14.11–14.13). He gives a
+trajectory: those who live mostly in sattva tend upward, those in
+rajas remain at middle, those in tamas tend downward (14.18). And
+when Arjuna asks how the one who has gone beyond the three behaves,
+Krishna's answer is precise. The *gunatita* does not hate the modes
+when they arise nor pursue them when they pass; sits as if
+indifferent; knows that it is only the modes that act; remains
+unmoved in pleasure and pain, in honor and dishonor, equal toward
+friend and stranger (14.22–14.25).
+
+That is the chapter's content. The reading I am pressing is that
+the chapter has been mostly mis-read for the last hundred years in
+two opposite directions, and the corrective is to put substrate
+first.
+
+## Two mis-readings
+
+The first mis-reading is the typological one. Pop spirituality and
+some serious commentaries treat the three modes as character types:
+*you are sattvic, your sister is rajasic, your boss is tamasic*. On
+this reading, the chapter becomes an inventory tool for sorting
+people. Self-knowledge becomes self-classification. Other-knowledge
+becomes diagnosis at a distance.
+
+Aurobindo, in his *Essays on the Gita*, is the cleanest voice
+against this. He argues, in substance, that the three are not
+classes of person but movements through which nature operates in
+every soul. There is no person who is purely *sattvic, rajasic*, or
+*tamasic*; there is a soul in which all three contend, in shifting
+proportions, hour by hour and season by season. The yoga is not the
+discovery of one's type. It is the cultivation of the conditions in
+which sattva can rise more often, and the development of a
+witnessing stance from which the rise and fall of all three can be
+seen as the weather of the body-mind rather than as facts about
+who one is. This is the load-bearing reading: gunas as movements,
+not as labels.
+
+The strongest support for this comes from the chapter itself.
+Krishna keeps using temporal and proportional language —
+*increases*, *prevails*, *predominates over the other two*. When he
+gives the signs in 14.11–14.13, he names what shows when a guna is
+ascendant. The implication is that ascendance shifts. A reader who
+has been awake for sixteen hours feels the difference. The
+typological reading flattens this dynamism into a static label, and
+in doing so loses the chapter's most usable feature: that you can
+*notice* which mode is up, and that noticing is itself the first
+move of the practice.
+
+The second mis-reading is the opposite excess. Faced with the
+language of *binding* and *transcending*, some readers make the
+chapter purely interior. The gunas become entirely psychological,
+the substrate falls away, and the practice reduces to a kind of
+sustained metacognition: notice your states, do not identify with
+them, and you are done. The witness is everything; the body is
+nothing.
+
+This reading misses what the Gita itself says next. Chapters 17 and
+18 take the three-mode framework and apply it to *food, speech,
+work, faith, sacrifice, gift, austerity*. The gunas are about what
+a person eats and how a person sleeps and what a person does on a
+Tuesday morning before the workday begins. The chapter that
+introduces them is followed immediately by a chapter that locates
+them in lived behavior. To read 14 as a chapter of pure inwardness
+is to ignore that the text itself moves outward in 17. The
+substrate is part of the chapter even when 14 does not say so in
+those words.
+
+## The substrate the chapter is talking about
+
+The 3 p.m. crash is not a moral failure. You are at the desk. You
+have been at the desk since nine. By 3 p.m. blood glucose is in a
+trough, the prefrontal cortex is running on borrowed reserves, the
+eyes have done six hours of close work, and the muscles have not
+moved the body in any meaningful way. The mind feels like it is
+moving through wet sand. The thought arises that you are weak, that
+other people do not feel this, that you should push through. None
+of this is accurate. *Tamas* has come up. The chapter's word for
+the state — *pramada, alasya, nidra*: heedlessness, indolence,
+sleep — fits the felt sense exactly. The right move is not more
+caffeine and contempt for one's own tiredness. The right move is to
+recognize what tamas is pointing at — exhaustion, glucose, eye
+strain, undermovement of the body — and tend to it. Walk for ten
+minutes. Drink a glass of water. Eat actual food. Look at the
+horizon for two minutes. Sattva is not summoned by willpower
+against tamas. It is reached by tending to what tamas is naming.
+
+The 9 a.m. coffee surge after three hours of sleep is the inverse.
+You are sharp, fast, sure of yourself, and about to write a
+difficult message to a colleague. *Rajas* is at its sharpest edge
+with no sattva ballast. The chapter calls it *trishna sanga*:
+craving, attachment to action. The decisions made from this state
+are the ones the rested afternoon-self looks at with a wince. The
+chapter's instruction is not to suppress rajas. It is to recognize
+when rajas is in charge of the judgment, and to refuse to act on
+its certainty. Wait. Do the easier work first. Write the message
+tomorrow at ten, after a real night's sleep, and notice the
+difference in what your hands type.
+
+The Sunday-night doom-scroll is rajas with tamas underneath. Three
+hours on the phone since dinner. The motion of scrolling has the
+texture of activity — *I am keeping up, I am informed* — but the
+contents accumulate as dread, comparison, the slow erosion of
+attention. By the second hour the chapter's diagnostic for tamas is
+exact: heedlessness, foreclosure of attention. Closing the app at
+nine and reading something difficult for forty minutes is not
+*being good*. It is choosing the input that lets sattva rise in the
+morning.
+
+The argument with the partner under sleep deprivation deserves the
+same recognition. You are right. You can prove it. You are about
+to prove it and watch the relationship cool for two days. *The
+truth matters* is true and incomplete. The drive to be *seen* as
+right is rajas; the steadiness that would let you see your partner
+clearly is sattva, and sattva is not present in the mind of someone
+who has slept four hours after a bottle of wine. The discriminating
+intellect Krishna keeps describing across the Gita is not the
+intellect that wins arguments. It is the intellect that knows what
+the actual situation calls for, and the actual situation often
+calls for fewer words and more attention. The chapter is not
+asking anyone to become a doormat. It is naming the difference
+between being right and being wise, and pointing out that the
+difference depends in part on how much one has slept.
+
+The decision under metabolic depletion is the same shape. Three
+a.m., the fourth night in a row of poor sleep, the offer letter on
+the screen, the voice saying *take it* or *decline it* loud and
+sure. The rested self knows things this version of you cannot
+access. The chapter's account of the gunas as substrate-dependent
+gives grounds to wait. Sleep on it literally, for two nights, and
+let the rested self render the verdict. *Sattva from rest* is not a
+metaphor in the chapter. It is the chapter's claim about how the
+mode rises.
+
+A week of overwork collapsed into a Saturday on the couch is the
+final variant. Sixty hours, bad food, no exercise, and now the body
+will not move. *I needed a rest* is true and incomplete. The shape
+of this rest is collapse, not restoration. Restorative rest is
+sattvic — long sleep, real food, time outside, something
+interesting in the mind. Collapse rest is tamas — the body refusing
+further demand. Both are sometimes necessary. Recognizing which one
+this Saturday actually is gives you back the ability to plan the
+next week without lying to yourself about the difference.
+
+## What the science actually allows the chapter to claim
+
+The substrate the chapter is pointing at is not metaphor. Russell
+Foster and Leon Kreitzman, in *Circadian Rhythms: A Very Short
+Introduction* (OUP, 2017), summarize the now-well-replicated finding
+that circadian phase modulates attention, mood, decision quality,
+and risk preference across the day. The same person, well-rested at
+ten in the morning, performs differently from the same person at
+three in the afternoon after a poor night's sleep, who in turn
+performs differently from the same person at midnight after eight
+hours of stimulant-driven labor. None of this should be surprising
+to anyone who has lived in a body, and the empirical literature
+catches up with what Krishna is naming when he says that the modes
+*rise and fall* in the same person.
+
+Matthew Walker, in *Why We Sleep* (Scribner, 2017), is the more
+popularly known synthesis on the cognitive cost of sleep
+restriction. I cite him cautiously: Alexey Guzey's 2019 review
+documented several specific overstatements in the book, and the
+careful position is that the broad and well-replicated finding —
+that chronic sleep restriction degrades attention, working memory,
+and emotional regulation — is solid even where some of Walker's
+specific claims have not held up. The chapter does not need
+Walker's strongest claims. It needs only that sleep matters for
+cognition, and the literature settles that without him.
+
+The harder honesty is on the other axis. Robert Plomin, longtime
+director of the Twins Early Development Study at King's College
+London, has spent five decades on the heritability of personality.
+The convergent finding, summarized in *Blueprint: How DNA Makes Us
+Who We Are* (MIT Press, 2018), is that roughly 40 to 50 percent of
+the variance in major personality dimensions, across measured
+populations, is accounted for by genetic variance. This is a
+population-level statistic, not a per-person decomposition; it does
+not say that any individual is *50 percent genetic and 50 percent
+chosen*; it does not specify which genes do which work. But it does
+say something the chapter has to live with. A substantial portion
+of personality is not trainable. The genetic contribution is real,
+durable, and is a lower bound on what practice can move.
+
+This matters because there is a temptation, when reading a chapter
+like 14, to over-promise. *Cultivate sattva and you will become a
+sattvic person.* The honest version is more bounded. Practice works
+on the portion of variance that is not genetically fixed. Some
+people arrive in the world with temperaments closer to what the
+chapter calls sattvic — calmer attention, lower negative
+affectivity, stronger effortful control — and others arrive with
+temperaments tilted toward rajasic drive or tamasic obstruction.
+Mary Rothbart's framework of temperament (*Becoming Who We Are*,
+Guilford, 2011) gives the developmental version: the dimensions
+*surgency/extraversion*, *negative affectivity*, and *effortful
+control* are observable in early infancy, predictive enough to
+forecast adult personality, and modifiable enough that environment,
+experience, and practice continue to shape them across life. The
+last word matters. *Modifiable enough.* Not infinitely. But not
+fixed.
+
+The two findings together let the chapter make exactly the claim it
+should make and not more. The chapter's call to cultivate sattva is
+working with the substantial portion of variance that remains
+within the reach of practice, and is not pretending that the rest
+will yield. A person whose baseline temperament tilts toward
+rajasic drive will not, by practice, become a temperamentally
+contemplative person. They can become a person whose rajasic drive
+is expressed within steadier attention, who notices the surge
+sooner, who chooses inputs that do not amplify it, who has built
+the witnessing stance that lets the surge be seen as a surge. That
+is what the chapter is offering. It is not a personality transplant.
+It is a path through the temperament one has.
+
+A second limit is worth naming. There is no neurological *sattva
+center*; mapping the three modes onto specific brain systems is
+overreach. The *gunas* as Samkhya cosmology and the modern science
+of cognition are not the same vocabulary. They are talking about
+overlapping but not identical things, and the value of the
+conversation is in the overlap, not in the false identification.
+The chapter does not need a brain region to be saying something
+true about the texture of human cognition. It needs the texture
+itself to be recognizable, and it is.
+
+## Bhikkhu Bodhi on the *kilesas*
+
+A useful counterpoint comes from the Buddhist tradition, which does
+not use the language of the gunas but has a structurally adjacent
+diagnostic. The three classical *kilesas* — defilements,
+afflictions — are *lobha* (greed), *dosa* (hatred), and *moha*
+(delusion): forces that distort cognition, condition action, and
+bind beings to suffering. They are diagnosed in order to be
+uprooted. Bhikkhu Bodhi, the contemporary American Theravada monk
+and translator, has done as much as any single voice to make the
+early Buddhist psychology accessible; in *In the Buddha's Words*
+(Wisdom Publications, 2005) he emphasizes that the early teaching
+is therapeutic in form. The kilesas are not categories of person.
+They are forces in every mind, treated as such for the purpose of
+practice.
 
 The structural proximity is striking. Three forces that distort
 cognition (the kilesas) sit alongside three modes of nature that
 bind embodied experience (the gunas). Both diagnostic frameworks
-treat the forces as *operating in every person*, not as
-distinguishing types. Both name *practice* as the way through.
+treat the forces as operating in every person rather than as
+distinguishing types. Both name practice as the way through. The
+metaphysics differs: the Buddhist tradition does not posit
+*prakriti* as a substantial nature, does not posit an *atman* that
+watches the gunas; the Gita's metaphysical floor (Ch. 7's qualified
+non-dualism) is not the Buddha's. But the *psychology* of
+diagnosis-and-practice is cousin on both sides. The Buddhist
+counterpoint sharpens the non-typological reading: if the kilesas
+are forces in every mind, and the structural parallel holds, then
+the gunas too are best read as forces present in every soul rather
+than as labels that distinguish them. The chapter is a frame for
+attention, not a system for sorting people.
 
-The metaphysical commitments differ. The Buddhist tradition does
-not posit prakriti as a substantial nature; it does not posit an
-atman that watches the gunas. The Gita's metaphysics is not the
-Buddha's. But the *psychology* of diagnosis-and-practice has
-cousins on both sides of the wall. The Buddhist counterpoint
-sharpens the non-typological reading: if the kilesas are forces in
-every mind, and if the structural parallel is real, the gunas too
-are best read as *forces present in every soul* rather than as
-labels distinguishing them.
+## MacIntyre on virtue as practice
 
----
+The strongest modern frame for what the chapter is asking the
+reader to do is Alasdair MacIntyre's account of virtue. *After
+Virtue* (1981; 3rd ed., Notre Dame, 2007) was the late twentieth
+century's most influential recovery of virtue ethics in the
+Aristotelian-Thomistic tradition, and its central definition does
+heavy work here. A virtue, MacIntyre says in substance, is an
+acquired human quality whose possession and exercise enables one to
+achieve goods internal to practices. *Acquired*. *Practice*. The
+words matter. A virtue is not a temperamental endowment. It is
+acquired through participation in a coherent, complex, socially
+established cooperative activity that has goods internal to it,
+with people who already embody them, in a tradition that gives
+them shape.
 
-## § 5. Modern science
+The implication for the gunas is direct. If the chapter is read as
+a typology, it commits a category mistake; it mistakes a state for
+an essence. If it is read as a description of states susceptible to
+cultivation through practice, it lines up with what MacIntyre says
+about virtue. To say that someone *lives in sattva* cannot mean
+that she was born sattvic. It must mean that her habits, her
+practices, her inputs, her tradition have shaped her dispositions
+toward clarity, steadiness, and truthful perception. That kind of
+sattva is not given. It is grown. A typology offers a label. A
+practice offers a path.
 
-Two strands of contemporary research speak to the chapter. The
-first is on what is given — the heritability of temperament. The
-second is on what is stateful — the substrate effects of sleep
-and circadian phase on cognition.
+This is also where the genetic-floor honesty earns its keep.
+MacIntyre is careful that virtue requires temperamental and
+constitutional preconditions — not everyone can become a great
+musician, not everyone can become a saint, not everyone has the
+temperamental substrate that makes any particular virtue most
+naturally available. What practice does is take the temperament one
+has and shape it toward the goods of the practice. The gunas, on
+this frame, are partly the substrate one starts with, partly the
+movement that occurs in any given hour, and partly the slow
+direction in which a sustained practice tilts the whole. The
+chapter is not promising a transplant. It is naming a direction.
 
-### § 5.1 Behavioral genetics and temperament — Plomin, Rothbart
+## What the cultivation actually looks like
 
-Roughly 40–50% of variance in the major dimensions of personality,
-across measured populations, is accounted for by genetic variance.
-Five decades of behavioral-genetic evidence converge on this range,
-summarized by Robert Plomin, longtime director of the Twins Early
-Development Study at King's College London, in *Blueprint: How DNA
-Makes Us Who We Are* (MIT Press, 2018; specific page locator
-flagged).
+If the gunas are movements rather than types, and if practice works
+on the substantial portion of variance that is not fixed, then the
+chapter's call to cultivate sattva is a real call but a bounded
+one. The work has three layers, in the order substrate first,
+input second, witness third — because attempting any layer without
+the one beneath it is the failure mode the chapter has been
+describing.
 
-What Plomin actually shows is that a substantial portion of
-personality variation is not trainable: the genetic contribution is
-real, durable, and lower-bound on what practice can move. The
-chapter's call to cultivate sattva does not get to ignore this.
-Heritability is also a population-level statistic — it does not say
-any *individual's* personality is 50% genetic and 50% chosen, does
-not say which genes do which work, and does not say which traits
-sit at the high or low end of the heritable range. It does say
-personality dimensions are not arbitrary, not freely chosen at each
-moment, not infinitely plastic.
+Substrate is sleep, food, light, exercise, breath. The body is part
+of the practice. A reader who wants to be steadier on Wednesday
+needs to look at what time the lights went off on Tuesday, what was
+eaten in the last six hours, whether the body has moved that day,
+whether the eyes have seen sunlight. The gunas have a body. The
+body is not separate from the chapter's spiritual content; it is a
+condition of the spiritual content's accessibility. *Willpower
+against substrate is the wrong frame* because willpower is itself a
+substrate-dependent phenomenon. The same act of will is more
+available at 10 a.m. after eight hours of sleep than at 3 p.m. after
+five. To act as if willpower were independent of the body is to
+attempt to lift oneself out of the conditions that make oneself
+possible. It is an attempt that exhausts the practitioner and
+leaves them less able to do the thing they were trying to do. The
+honest move is to set the conditions and let the work proceed from
+there.
 
-Mary Rothbart's framework of temperament (*Becoming Who We Are*,
-Guilford Press, 2011) extends the heritability finding into a
-developmental account. Rothbart distinguishes temperament
-dimensions observable in early infancy: *surgency/extraversion*,
-*negative affectivity*, and *effortful control*. These are stable
-enough to be measurable in babies, predictive enough to forecast
-later personality, and yet *modifiable* enough that environment,
-experience, and practice continue to shape them across life.
+Input is the second layer. Once substrate is decent, the question
+becomes what one is putting into one's eyes and ears, what one is
+reading, who one is following, what one is watching, what
+conversations one is having. The Sunday-night doom-scroll example
+showed the mechanics: rajas with tamas underneath, three hours of
+motion that accumulates as dread. The cultivation move is the
+unglamorous one of choosing inputs that leave the mind clearer
+rather than busier — books over feeds, sustained reading over
+fragmented intake, a few good conversations over many shallow ones,
+silence sometimes, walks without earbuds, mornings without screens
+for the first hour. The chapter does not name a particular input
+diet; it names a result and asks the reader to find the inputs that
+produce it. *Sattva is what comes after a morning that began with
+twenty minutes of silence and a book.* The Tuesday version of you
+notices the difference.
 
-Together, the two findings cut both ways. They *license* the
-chapter's recognition that we arrive with inclinations — there is
-something real and partly given about why some people, on first
-contact with the world, lean toward sattvic poise, others toward
-rajasic drive, others toward tamasic obstruction. And they *bound*
-the chapter: with 40–50% of variance heritable, training works on
-the remainder, not on the whole. The chapter's call to cultivate
-sattva is not fighting biology; it is working with the substantial
-portion of variance that remains within the reach of practice, and
-not pretending the rest will yield.
+Input over time becomes substrate. This is the slow part. A person
+who reads serious books for twenty minutes a day, six days a week,
+for two years, does not have the same mind as the person who scrolls
+for the same time over the same period. The slow work of choosing
+inputs is the most actionable practice the chapter offers, and it
+is the one most often skipped because its results are invisible at
+the timescale on which most people make decisions. MacIntyre's
+frame becomes most usable here. Virtue as practice within tradition.
+The tradition need not be religious. It can be a book club, a
+cooking discipline, a serious friendship, a long marriage, a body
+of work taken seriously over years, a regular meditation group, a
+craft. What makes it a tradition rather than a hobby is that there
+are goods internal to it that the practice gives access to and
+nothing else does, and that the practice is sustained with people
+who recognize those goods.
 
-### § 5.2 Circadian and metabolic effects on cognition — Foster, Walker
+Witness is the third layer, and it is the one the chapter spends
+its closing verses on. Even with substrate well-tended and inputs
+well-chosen, the gunas continue to rise and fall. Sattva is not the
+elimination of rajas and tamas; it is the ascendance of a mode in
+which the other two are seen for what they are. The *gunatita*
+description in 14.22–14.25 is the long horizon: the person who, when
+sattva arises, does not preen; when rajas surges, is not carried;
+when tamas descends, does not identify with it as *who I am
+today*. None of us reach this perfectly. The trajectory is what
+matters. The Gita's claim, against the popular New Age reading, is
+not that one becomes someone who feels nothing. It is that one
+stops being run by the rise and fall of the three.
 
-Circadian phase modulates attention, mood, decision quality, and
-risk preference across the day; chronic sleep restriction impairs
-attention, working memory, and emotional regulation. Both findings
-are now well-replicated. Russell Foster (Oxford) and Leon Kreitzman
-synthesize the circadian evidence in *Circadian Rhythms: A Very
-Short Introduction* (OUP, 2017; locator flagged). Matthew Walker's
-*Why We Sleep* (Scribner, 2017) is the more popularly known
-synthesis; it has had detailed challenges to some specific claims
-(Alexey Guzey's 2019 review documented several), and Walker is
-cited here cautiously — for the broad finding only, not for any
-specific contested claim.
+Sankara's reading of this, even setting aside the larger Advaita
+framework that the rest of this manuscript declines to take as the
+metaphysical floor (Ch. 7), gets the shape of the witnessing stance
+right. The self that watches the gunas is not made of them. The
+chapter is asking the reader to notice that something in them
+already knows the difference between *being* angry and *watching*
+anger arise. That distinction is not a metaphysical achievement. It
+is a recognizable interior fact. The Gita gives it a name, gives it
+a vocabulary, and gives it a long horizon to develop into. Whether
+one then commits to the larger Advaita reading of what that
+witnessing stance finally is — pure non-dual *Brahman*, or the real
+self in real relation, or something else — is a question the
+chapter does not require answered before its practice begins.
 
-The gunas are not only psychological states. They have a metabolic
-and circadian dimension. The same person, well-rested at 10 a.m.,
-is closer to the description of sattva — clearer perception,
-steadier attention, calmer affect — than the same person at 3 p.m.
-after a poor night's sleep, which approaches tamas (heedlessness,
-lethargy, foreclosure of attention), or at midnight after eight
-hours of stimulant-driven labor, which approaches rajas with a
-tamas crash imminent.
-
-Two limits. There is no neurological "sattva center"; mapping the
-gunas onto specific brain systems is overreach. And the substrate
-is not destiny: even with poor substrate, the witnessing stance of
-14.22–14.25 remains accessible in moments. The chapter does not
-promise that perfect sleep produces perfect sattva. It does insist
-that the substrate is real.
-
-These two strands together — heritability of temperament,
-substrate effects on state — discipline the chapter's modern
-reading. They rule out fatalism (the gunas are not fixed) and
-voluntarism (the gunas are not pure choice). They keep the chapter
-in the empirically defensible middle, which is where its language
-seems to want to live.
-
----
-
-## § 6. Synthesis — the path forward
-
-The three gunas are best read as three pervasive, interacting
-movements that constitute embodied experience: sattva as
-clarity-and-poise, rajas as drive-and-restlessness, tamas as
-inertia-and-obscuration. Every person carries all three. The
-question of the chapter is not which one I am but which is
-ascendant in this hour, this week, this season — and what relation
-I take up to all of them.
-
-The spine of the synthesis comes from Aurobindo: the gunas as
-movements, not as types. This is where the academic philological
-readings (Edgerton, Johnson, Patton) and the careful science
-(Plomin's bounded heritability, Rothbart's modifiable temperament)
-converge. Treating the gunas as types locks the reader into a
-category they did not pick, and is empirically wrong: people are
-mixtures, in flux, capable of movement. The strong typological
-reading is empirically weak and practically disabling, and the
-popular pseudo-mappings of guna onto Big Five or onto a specific
-brain region commit the same error in modernized dress; structural
-parallels are informative, one-to-one identifications are not.
-
-Sankara's distinction is necessary even when the larger Advaita
-illusionism is set aside. The witnessing self is not made of the
-gunas it observes. Whatever one's metaphysics, the experiential
-reality of the *gunatita* description in 14.22–14.25 requires that
-there is a place from which the gunas can be seen as gunas — not a
-fourth guna, not nothing, and the chapter's metaphysical floor (Ch
-7) holds that this place is real. The reader is being asked to
-notice that something in them already knows the difference between
-*being* angry and *watching* anger arise.
-
-Gandhi's daily-life concreteness carries forward unchanged: the
-gunas show up in food, in speech, in what one reads and watches, in
-who one talks to, in how one sleeps. The chapter's claim that these
-matter is empirically defensible (§ 5) and practically usable
-(§ 7). With it goes the academic restraint of the philological
-readings — the gunas are inherited Samkhya cosmology used by the
-Gita, and the chapter does its work without committing the reader
-to the full Samkhya ontology.
-
-The devotional readings hold an insight that survives the stripping
-of their sectarian frame. Prabhupada's purport on 14.26, that pure
-devotional service transcends the modes, is right about something
-the intellectual readings keep underestimating: simply
+The devotional readings — Ramanuja, Prabhupada in his sectarian
+register — hold an insight on this point that survives the
+stripping of their specific theological commitments. Simply
 *understanding* the gunas does not transcend them. Something with
-the heat of love — for something larger than the self — does seem
-to be required. This need not be Krishna by name to be the
-chapter's insight; Iris Murdoch and Simone Weil reach similar
-territory by other doors. The gunatita is not the philosopher who
-has thought their way out of the weather. The gunatita is the
+the heat of love — for something larger than the self — is needed
+to do the actual work of dis-identification. Iris Murdoch in *The
+Sovereignty of Good* (1970) reaches similar territory by another
+door: the *just and loving gaze* turned at a real other quiets the
+self in a way that intellectual understanding alone never quiets
+it. Simone Weil makes the parallel point in religious vocabulary:
+attention as the rarest and purest form of generosity. The Gita
+calls this *bhakti*. It need not be Krishna by name to be the
+chapter's insight. The *gunatita* is not the philosopher who has
+thought their way out of the weather. The *gunatita* is the
 practitioner whose attention has been remade by long love.
 
-What this means for the path forward. There are three layers of
-practice, in this order.
+## Frame, not label
 
-**First, attend to substrate.** Sleep, food, light, exercise,
-breath, the metabolic conditions of cognition. § 5 made the case;
-the practical implication is that a reader who wants to "be more
-sattvic" while sleep-deprived, sugar-cycled, and chronically
-under-exercised is fighting their substrate, and willpower is the
-wrong frame. The gunas have a body. The body is part of the
-practice.
+The most important thing a present-day reader can do with the
+chapter is refuse the typological reading, in themselves and in
+others. To say *I am being tamasic this week* is better than *I am
+a tamasic person*. Better still: *I notice tamas is up this week*.
+This phrasing leaves the witnessing stance intact; it does not
+collapse a movement into an essence; it preserves the chapter's
+own grammar of ascendance and recession. Used carefully, the
+chapter's vocabulary gives a person a useful frame for paying
+attention to the texture of their own life. Used carelessly, it
+becomes another label to pin on themselves and others, and the
+chapter has worked against itself.
 
-**Second, strengthen sattva.** Choose inputs that leave the mind
-clearer rather than busier. Reduce inputs that feed rajas
-(compulsive activity, status anxiety, doom-scrolling, performative
-busyness) and tamas (numbing, withdrawal, contempt, the long slide
-into not-caring). The Gita names this without naming each
-particular input; modern life has its own catalog. The exercise of
-*choosing one's inputs* is the chapter's most actionable practice.
-Here MacIntyre's virtue-as-practice frame becomes most usable:
-sattva is *cultivated* through repeated choices made in particular
-ways for particular reasons within a community that recognizes
-them. It is grown.
+This carefulness is the chapter's load-bearing inoculation against
+its own popularization. The gunas in pop spirituality become a
+horoscope. *Are you a sattvic type? Take this quiz.* The chapter is
+specifically the wrong text to use this way. Krishna is not naming
+character categories. He is naming three movements that pass through
+every person and giving the reader a vocabulary for noticing which
+one is up at any given hour. The whole chapter loses its function
+if its terms are used as labels. It keeps its function if its terms
+are used as frames for attention.
 
-**Third, witness all three.** When sattva is present, do not preen
-— sattva binds, too, by attachment to clarity-and-knowledge. When
-rajas surges, do not be carried — recognize the drive as a drive.
-When tamas descends, do not identify with it as "who I am today"
-— the descent is a condition, not an essence. The *gunatita*
-description in 14.22–14.25 is the long horizon: the steady stance
-from which the weather is allowed to be weather. None of us reach
-this perfectly. The trajectory is what matters. The Gita's claim,
-against the popular New Age reading, is not that you become someone
-who feels nothing. It is that you stop being run by the rise and
-fall of the three.
+The same care applies to other people. The temptation to read
+others through the typology is acute and almost always misguided.
+*She is so rajasic. He is such a tamasic person.* Even when
+descriptively partial, this language flattens the person into a
+fixed shape, which is exactly the move the chapter is arguing
+against. *Tamas is up in him today, and he has not been sleeping*
+is more accurate, more useful, and leaves room for him to be
+otherwise tomorrow. The chapter's frame, applied to people one
+loves, dissolves into ordinary attention to what they are going
+through. Which is the point.
 
-The synthesis is not a vote count. The criteria are textual
-fidelity (gunas as movements is more faithful to 14.10–14.13 than
-the typological reading), internal coherence (the same frame
-extends naturally into chs. 17 and 18), lived usefulness
-(substrate-input-witness is a path a Tuesday reader can walk),
-honesty under science (heritability bounds the chapter from both
-directions), and generosity to the rejected readings.
+## Where this chapter is going
 
-The reader can disagree at any point. A reader of Sankara may
-decide the witness-distinction does, finally, require the larger
-Brahman commitment. A reader of Prabhupada may decide the only way
-through is direct devotional service to Krishna by name. A reader
-of Aurobindo may decide the evolutionary metaphysics is worth
-committing to. A reader of the Big Five and behavioral-genetics
-literature may decide the gunas are a charming pre-modern
-approximation. Any of these is a defensible disagreement. What is
-on offer here is one synthesis — neither neutral nor sectarian —
-that a present-day reader can use. Choose your reading with your
-eyes open.
+The chapter does not stop at 14. The three-mode framework continues
+into 17, where Krishna applies it to faith, food, sacrifice,
+austerity, and gift, and into 18, where it applies to action,
+knowledge, and joy. The reader who has been working on substrate,
+input, and witness in the spirit of 14 finds that the next two
+chapters give the framework lived legs. The work of cultivating
+sattva is not the work of any single domain. It is the slow
+shaping of a life across all the domains in which the gunas show
+up, which is all of them. *What you eat, what you read, who you
+love, how you work, what you give, what you abstain from.* These
+are not separate questions. They are the same question asked at
+different angles. The chapter on the three modes is one of the
+chapters where the Gita is most clearly a manual for the texture of
+ordinary days.
 
----
+What the chapter finally asks of a reader in 2026 is unromantic
+and consequential. Sleep enough. Eat real food. Move the body. See
+the sun. Choose the inputs that leave the mind clearer rather than
+busier. Sit with a real other often enough that the witnessing
+stance has somewhere to take root. Notice, hour by hour, which
+mode is up. Do not lacerate yourself when tamas comes; tend to what
+it points at. Do not be carried by rajas when it surges; wait. When
+sattva is present, do the work that needs sattva to do well, and
+then rest before it spills into self-congratulation. Refuse the
+typology in yourself and refuse it in others. Build the practice
+slowly, with people who recognize what it is for, in a tradition
+that gives it shape.
 
-## § 7. The chapter for a modern life
-
-The chapter's frame becomes most useful when laid against actual
-days.
-
-**The 3 p.m. crash.** You have been at the desk since nine. By
-three, the body is in a glucose trough and the eyes will not focus.
-Old reading: *I am just lazy this afternoon.* New reading, laid
-against § 5: tamas has come up. The substrate is asking for
-something. The right move is not more coffee and self-flagellation;
-it is a walk, a glass of water, a real lunch in the next hour, an
-honest twenty minutes off the screen. Sattva is not summoned by
-willpower against tamas. It is reached by tending to what tamas
-points at — exhaustion, hunger, eye strain — and then choosing the
-input that brings the mind back.
-
-**The 9 a.m. coffee-and-anxiety surge.** Over-caffeinated on three
-hours of sleep, the inbox is loud, and you are about to write a
-difficult message. Old reading: *I just need to power through.* New
-reading: this is rajas at its sharpest edge, with no sattva ballast.
-The decisions made from this state are the decisions you regret in
-the rested afternoon. Wait. Do the easier work first. Write the
-difficult message tomorrow at ten, after a real night's sleep. The
-chapter is not asking you to become someone who never feels rajas;
-it is asking you to recognize when rajas is in charge of your
-judgment, and to not let it.
-
-**The Sunday-night doom-scroll.** Three hours on the phone since
-dinner. Old reading: *I am informed; I am keeping up.* New reading:
-rajas with tamas underneath. The motion of scrolling has the
-texture of activity, but the contents are accumulating in the gut
-as dread, as comparison, as the slow erosion of attention. The
-chapter's diagnostic for tamas — heedlessness, lethargy, foreclosure
-of attention — fits the second hour onward. Closing the app at 9
-p.m. and reading something difficult for forty minutes is not
-"being good." It is choosing the input that strengthens sattva.
-
-A week of overwork can collapse into a Saturday gone to the couch.
-You worked sixty hours, ate badly, skipped the gym. *I needed a
-rest* — true, but incomplete. The shape of this rest is not
-restorative; it is collapse. Restorative rest is sattvic — long
-sleep, real food, time outside, something interesting in the mind.
-Collapse rest is tamas — the body refusing further demand. Both are
-necessary sometimes; recognizing which one this Saturday is gives
-you back the ability to plan the next week.
-
-The argument with a partner is its own variant. You are right. You
-can prove you are right. You are about to prove you are right and
-watch the relationship go cold for the next two days. *The truth
-matters* — but rajas, the drive to be right, has overridden sattva,
-the steadiness of seeing them clearly. The discriminating intellect
-Krishna describes throughout the Gita is not the intellect that
-wins arguments; it is the intellect that knows what the actual
-situation calls for. Often the actual situation calls for fewer
-words and more attention. The chapter is not telling you to be a
-doormat. It is telling you that being right and being wise are not
-the same.
-
-A decision made under sleep deprivation deserves the same
-recognition. Three a.m., the fourth night in a row of poor sleep,
-the offer letter on the screen, the voice that says *take it /
-decline it* loud and sure. The rested self knows things this
-version of you cannot access. The chapter's account of the gunas as
-substrate-dependent gives you grounds to wait. Sleep on it
-literally — for two nights, not one — and let the rested self,
-operating in something closer to sattva, render the verdict.
-
-The therapy room or the meditation cushion is where the witnessing
-stance gets practiced. The traditions agree: the *gunatita* is not
-summoned by intellectual recognition. It is grown by sustained
-practice of paying attention to one's own mental movements without
-identifying with them. Whether this happens in a therapist's office,
-on a cushion, in journaling, in liturgical prayer, in the quiet
-half-hour at the beginning of the day — the form matters less than
-the regularity. The chapter does not specify the form; it specifies
-the result. Find the form that gives you the result.
-
-Behind all of these is the long arc of input — what you read, who
-you follow, what you watch, what you put in your body, who you
-spend time with. Over a year, these are the substrate of the gunas.
-The choice of inputs is where the gunas are *cultivated* — the
-slow, daily, unromantic work of building a life whose ambient state
-is closer to sattva than not. MacIntyre's frame fits here: virtue
-as practice within tradition. The tradition need not be religious.
-It can be a book club, a discipline of cooking, a serious
-friendship, a long marriage, a body of work taken seriously over
-years. The chapter is not asking for asceticism. It is asking for
-*attention to inputs*, sustained over the kind of timespan that
-actually changes who one is.
-
-A note on language. The gunas should be used in modern life as a
-*frame*, not a label. To say "I'm being tamasic this week" is
-better than to say "I'm a tamasic person." Better still: "I notice
-tamas is up this week" — which leaves the witnessing stance intact
-and does not collapse a movement into an essence. The chapter's
-vocabulary, used with this care, gives a person one more useful
-frame than they had before. Used carelessly, it gives them another
-label to pin on themselves and others.
-
----
-
-## § 8. Citations
-
-Quoted and cited in this chapter:
-
-- **Aurobindo.** *Essays on the Gita.* Sri Aurobindo Ashram Press,
-  first published serially 1916–1920; collected editions various.
-  Cited as paraphrase. (Edition unconfirmed; validation pending.)
-- **Bodhi, Bhikkhu**, ed. and trans. *In the Buddha's Words: An
-  Anthology of Discourses from the Pali Canon.* Wisdom
-  Publications, 2005. Cited as paraphrase. (Specific page locator
-  pending.)
-- **Costa, P. T., & McCrae, R. R.** *Revised NEO Personality
-  Inventory (NEO-PI-R) and NEO Five-Factor Inventory (NEO-FFI)
-  Professional Manual.* Psychological Assessment Resources, 1992.
-  Cited as framework-level paraphrase.
-- **Easwaran, Eknath**, trans. *The Bhagavad Gita.* Nilgiri
-  Press, 2007 ed. (originally 1985). Verses 14.5, 14.6, 14.7,
-  14.8, 14.9, 14.18, 14.22–14.25 quoted in substance; exact
-  wording flagged for word-by-word verification.
-- **Edgerton, Franklin**, trans. *The Bhagavad Gita.* Harvard
-  University Press, 1944. Cited as paraphrase.
-- **Foster, Russell G., & Kreitzman, Leon.** *Circadian Rhythms:
-  A Very Short Introduction.* Oxford University Press, 2017.
-  Cited as named-researcher synthesis. (Specific page locator
-  pending.)
-- **Gandhi, Mohandas K.** *Anasakti Yoga* (Gujarati, with the
-  introduction); *Discourses on the Gita.* English: Mahadev
-  Desai, *The Gita According to Gandhi*, Navajivan Publishing
-  House, 1946. Cited as paraphrase.
-- **Johnson, W. J.**, trans. *The Bhagavad Gita.* Oxford World's
-  Classics, 1994. Verse 14.5 quoted; wording flagged for
-  word-by-word verification.
-- **MacIntyre, Alasdair.** *After Virtue: A Study in Moral
-  Theory.* 3rd ed., University of Notre Dame Press, 2007 (first
-  ed. 1981). Quoted (ch. 14, p. 191; page locator flagged for
-  verification).
-- **Mascaró, Juan**, trans. *The Bhagavad Gita.* Penguin
-  Classics, 1962. Verses 14.5, 14.22–14.25 paraphrase-quoted;
-  exact wording flagged.
-- **Miller, Barbara Stoler**, trans. *The Bhagavad-Gita: Krishna's
-  Counsel in Time of War.* Bantam, 1986. Verses 14.5, 14.18
-  quoted; exact wording flagged.
-- **Patton, Laurie L.**, trans. *The Bhagavad Gita.* Penguin
-  Classics, 2008. Cited as paraphrase.
-- **Plomin, Robert.** *Blueprint: How DNA Makes Us Who We Are.*
-  MIT Press, 2018. Cited as named-researcher synthesis.
-- **Prabhupada, A. C. Bhaktivedanta Swami**, trans. and
-  commentator. *Bhagavad-gita As It Is.* Bhaktivedanta Book
-  Trust, multiple editions (orig. 1968, revised 1972 and 1983).
-  Verses 14.5, 14.9, 14.18 and the purport on 14.26 quoted;
-  substance confirmed; minor word-by-word verification flagged.
-- **Ramanuja**, *Gita Bhasya.* English trans. Swami Adidevananda,
-  Sri Ramakrishna Math, Madras, multiple editions. Cited as
-  paraphrase.
-- **Rothbart, Mary K.** *Becoming Who We Are: Temperament and
-  Personality in Development.* Guilford Press, 2011. Cited as
-  named-researcher synthesis.
-- **Sankara (Adi Shankaracharya).** *Bhagavad Gita Bhasya.*
-  English trans. A. Mahadeva Sastri, Madras, 1897; English trans.
-  Swami Gambhirananda, Advaita Ashrama, 1984. Cited as
-  paraphrase. (Edition cross-checking pending.)
-- **Tilak, Bal Gangadhar.** *Gita Rahasya: Or Karma-Yoga-Sastra.*
-  English trans. Bhalchandra Sitaram Sukthankar, Tilak Bros,
-  Poona, 1935. Cited as paraphrase. (Edition unconfirmed;
-  validation pending.)
-- **Walker, Matthew.** *Why We Sleep: Unlocking the Power of
-  Sleep and Dreams.* Scribner, 2017. Cited with bounded claim;
-  some specific claims in the book have been challenged
-  (Guzey, 2019), and only the broad and well-replicated finding
-  is used here.
-- **Zaehner, R. C.** *The Bhagavad-Gita With a Commentary Based
-  on the Original Sources.* Oxford University Press, 1969. Cited
-  as paraphrase.
-
-Cross-references within this book:
-
-- The witnessing stance treated here connects to the *sthitaprajna*
-  description in Chapter 2 (see Ch. 2). The *gunatita* and the
-  *sthitaprajna* are the same posture in different vocabulary.
-- The application of the gunas to faith, food, sacrifice, and gift
-  is taken up in Chapter 17 (see Ch. 17).
-- The application of the gunas to action, knowledge, and joy is
-  taken up in Chapter 18 (see Ch. 18).
-- The body-as-field framing that this chapter develops is the
-  continuation of Chapter 13 (see Ch. 13).
-- Practice — the place where the witness is cultivated — is
-  treated more fully in Chapter 6 (see Ch. 6).
-
-(Section numbers in cross-references are deliberately omitted;
-they will be reconciled in the consolidation pass.)
+The weather of a life is not changed in an afternoon. It is changed
+across years, by the unromantic choices made on the Tuesdays that
+felt like nothing at the time. The chapter's claim is that those
+choices add up. The body is part of the soul's work. The meal at
+2 p.m. is part of the meditation at 6 a.m. tomorrow. There is no
+shortcut, and there is no separation. *The gunas have a body, and
+the body is yours. Tend it, and the modes will tend with it.*

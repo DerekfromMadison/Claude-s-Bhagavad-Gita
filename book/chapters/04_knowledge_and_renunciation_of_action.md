@@ -3,872 +3,525 @@ chapter: 4
 sanskrit_name: Jñāna Karma Sannyāsa Yoga
 english_name: The Yoga of Knowledge and the Renunciation of Action
 author: Claude (Anthropic)
-status: draft-1-complete
-outstanding_validation:
-  - Easwaran 2007 Nilgiri Press page locators for 4.7–4.8, 4.18, 4.34
-  - Miller 1986 Bantam Classics page locators
-  - Polanyi 1958/1962 *Personal Knowledge* p. 53 across editions
-  - MacIntyre *After Virtue* edition reconciliation (2nd vs 3rd, p. 216 / p. 222)
-  - Verbatim verification of paraphrased passages from Sankara, Ramanuja, Tilak, Aurobindo, Zaehner; replace with verbatim or keep as flagged paraphrase
+status: rewrite-1
 ---
 
-## § 0. Chapter heading
-
-**Chapter 4 — *Jñāna Karma Sannyāsa Yoga*: The Yoga of Knowledge
-and the Renunciation of Action.**
-
-What can be inherited, what must be relinquished, and what only a
-teacher can pass on.
-
----
-
-## § 1. The dialogue
-
-Whom do you let teach you? The question sits at the chapter's
-hinge — 4.34, the verse that sends the student to a living
-guide — and the chapter answers backwards into it, beginning
-with a lineage. Krishna names the chain: he told this ancient
-yoga first to Vivasvat; Vivasvat to Manu; Manu to Ikṣvāku.
-Through long ages the line of royal sages knew it. By the long
-lapse of time, the yoga has decayed here. (BG 4.1–4.2
-paraphrased.) The teaching Arjuna is hearing, Krishna says, is
-the one being lost.
-
-Arjuna catches the strangeness. Vivasvat — the sun — is older
-than human history. Manu and Ikṣvāku are first ancestors. The
-speaker in front of him is a charioteer the same age as he is.
-How could Krishna, born within Arjuna's own lifetime, have
-taught Vivasvat in the beginning? (BG 4.4, paraphrased.)
-
-Krishna's answer (4.5–4.8) is the chapter's doctrinal load. He
-and Arjuna have passed through many births; he remembers them,
-Arjuna does not; though unborn and of imperishable nature, he
-takes birth by his own power. Then the line quoted in every
-Indian school, here in Radhakrishnan, which records the school
-disagreement on the verb (*send forth / create incarnate*) on
-the page:
-
-> Whenever there is a decline of righteousness and rise of
-> unrighteousness, O Bharata (Arjuna), then I send forth (create
-> incarnate) Myself. For the protection of the good, for the
-> destruction of the wicked and for the establishment of
-> righteousness, I come into being from age to age.
-
-(Radhakrishnan, *The Bhagavadgītā*, 1948, 4.7–4.8.) This is
-*avatāra* — descent — in canonical form.
-
-Krishna then turns to practice. He reframes renunciation. In
-Radhakrishnan's 4.18: "He who in action sees inaction and
-action in inaction — he is wise among men, he is a yogin and
-he has accomplished all his work." (Radhakrishnan, 4.18.)
-Krishna stretches this paradox across the rest of the chapter:
-action whose fruits one does not seek is itself renunciation;
-action offered as sacrifice does not bind; *jñāna yajña* — the
-offering of knowledge — is higher than material offerings; the
-fire of knowledge reduces all karmas to ash (4.19–4.37).
-
-The chapter closes (4.34) with one of the Gita's most direct
-instructions for the student not yet established in this
-knowledge. Easwaran: "Approach a teacher with reverence and
-devotion; ask questions and serve. Then they who have realized
-the truth will instruct you in this knowledge." (Easwaran,
-*The Bhagavad Gita*, 2nd ed., 2007, 4.34; page locator
-unconfirmed.) The chapter that began with Vivasvat closes by
-sending the student to a living teacher. Cosmic lineage and
-embodied one are presented as a single line.
-
-Near the end (4.42) Krishna tells Arjuna that knowledge cuts
-the doubt in his heart, and to take refuge in yoga and stand up.
-
-What Arjuna asked for in chapter one was a way through paralysis.
-Chapter four gives him the source of the teaching, the
-credentials of its origin, and a procedure for receiving it
-elsewhere. He is not the first to face this; the line is, at
-this moment, being re-given to him.
-
----
-
-## § 2. The core concepts
-
-The chapter's terms lean on each other.
-
-### Lineage (*paramparā*)
-
-A *paramparā* is a chain of teachers and students through which
-a teaching is passed from a beginning point to the present —
-literally, *one after another*. In the Indian intellectual world
-a teaching has authority partly through its chain of
-transmission: not because tradition is inviolable but because a
-living teaching has been worked out and refined by people inside
-the practice. The chapter's opening names the chain (Vivasvat,
-Manu, Ikṣvāku, the royal sages); its closing at 4.34 — approach
-a teacher with reverence, question, serve — names how the chain
-stays alive.
-
-### Descent (*avatāra*)
-
-*Avatāra* literally means *a coming down* — *ava* (down) plus
-*tṛ* (cross over). In the Vaishnava tradition, the doctrine
-that the divine descends into time and form when dharma is in
-danger. 4.7–4.8 is its locus classicus. The schools disagree
-sharply on whether Krishna's body is material in the ordinary
-sense, whether the descent is one event or many, and whether to
-read it ontologically (the divine really comes down) or
-functionally (the divine's order intervenes). § 3 lets them
-speak.
-
-### Action in inaction, inaction in action
-
-*Karmaṇy akarma yaḥ paśyed akarmaṇi ca karma yaḥ* (4.18) names
-a paradox the chapter relocates rather than resolves. The wise
-person's outer activity contains an inner stillness; their outer
-stillness, when right, contains the work that needs doing.
-Renunciation is not the cessation of action but the cessation of
-attachment to its fruits, of identification as its agent, and of
-the binding power ego-identified action has. *Sannyāsa* happens
-inside the agent.
-
-### Knowledge as sacrifice (*jñāna yajña*)
-
-Chapter three established *yajña* — sacrifice — as the structure
-of healthy action. Chapter four extends it: the offering of
-knowledge is the highest (4.33). What is offered is the
-relinquishment of ignorance, of misidentification, of the demand
-that the ego be center. The fire of knowledge reduces all karmas
-to ash (4.37). The metaphor does real work: clear seeing burns
-up the grasping that would otherwise carry forward.
-
-The schools agree on these terms and disagree on what they point
-to. That disagreement is § 3.
-
----
-
-## § 3. The traditions speak
-
-Traditions divide most sharply on *avatāra* — how literally to
-take the descent — and on what kind of *self* is doing the
-seeing in 4.18. I take them in roughly the order they entered
-the historical conversation. (See front matter, *Cast of
-Commentators*, for each lens.)
-
-### § 3.1. Advaita Vedanta — Śaṅkara
-
-Śaṅkara, reading through Advaita: action and renunciation are
-real at the level of appearance and dissolved in highest
-knowledge; the self — *ātman* — is actionless. Whatever activity
-appears, occurs in body and senses under the *guṇas* of
-*prakṛti*; the self witnesses without acting. His 4.18 reads
-"inaction in action" as the discrimination that recognizes this:
-amid all apparent doing, the self does nothing. (Paraphrase of
-Śaṅkara, *Bhagavad Gītā Bhāṣya* on 4.18, Gambhīrānanda trans.,
-Advaita Ashrama; verbatim verification pending.)
-
-The reading is precise about the phenomenology of non-doership —
-the experiential shift after which action no longer feels like
-*one's own*, even when one's body is doing it. The
-world-affirming claims of 4.7–4.8 are honored at the
-*vyāvahārika* — empirical — level; their final truth dissolves
-in the actionless self.
-
-Strength: precision about the inner shift. Cost: the
-cosmological seriousness of 4.7–4.8 is hard to land in a
-framework that treats the arena of descent and protection as
-empirical-only.
-
-### § 3.2. Vishishtadvaita — Rāmānuja
-
-Rāmānuja, reading through qualified non-dualism: world and
-individual selves are real and form the body of the divine;
-surrender is the heart of the text. The *avatāra* of 4.7–4.8 is
-ontologically real — Krishna's body is not an ordinary mortal's;
-the descent is the supreme Person's voluntary act for those who
-take refuge. (Paraphrase of Rāmānuja, *Gītā Bhāṣya* on 4.7–4.8,
-Adidevānanda or Tapasyānanda trans.; verbatim verification
-pending.)
-
-The line is the line of those who have *known* the Lord and
-transmitted that knowledge; descent is the Lord's act on behalf
-of those who turn toward him. The wise person's "inaction in
-action" is action performed without ego-attachment and offered
-to the Lord — not because the self is metaphysically actionless,
-but because the agent has surrendered claim to the act.
-
-Strength: grip on the chapter's devotional surface. Cost: the
-descent doctrine, taken literally, asks the modern reader to
-accept cosmological metaphysics on textual authority — honest
-within Vaishnava tradition, not universally available.
-
-### § 3.3. Gaudiya Vaishnavism — Bhaktivedanta Swami Prabhupāda
-
-Prabhupāda, reading through Gauḍīya Vaiṣṇavism: every verse is
-direct speech of a personal Krishna inside a fixed interpretive
-frame, and the chain from Krishna through Vivasvat down to
-Prabhupāda is the chapter's own *paramparā* in living form. On
-4.6–4.8, the purport is unambiguous:
-
-> Krishna is the original Personality of Godhead, and His
-> appearances in this material world are not the appearances of an
-> ordinary man. Although He appears like a human being, His body
-> is not material.
-
-(Prabhupāda, *Bhagavad-gītā As It Is*, purport to 4.6 / 4.7,
-Bhaktivedanta Book Trust; page locator unconfirmed;
-reproduced near-verbatim across BBT printings.)
-
-The reading commits to the chapter's self-presentation as the
-speech of an embodied teacher inside a real chain. Any softening
-of the ontology — including Śaṅkara's — is treated as deviation;
-an actionless-self reading of 4.18, here, empties the chapter
-of its devotional center.
-
-Strength: commitment to the chapter's self-presentation as the
-speech of an embodied teacher inside a real chain. Cost: a
-reader outside Gauḍīya Vaiṣṇavism cannot accept the reading on
-its own ground.
-
-### § 3.4. Activist *karma-yoga* — Bal Gangadhar Tilak and Mahatma Gandhi
-
-Tilak and Gandhi, reading through activist *karma yoga*: the
-Gita is a manual for selfless action, renunciation understood as
-inner non-attachment rather than outer withdrawal. Both wrote
-under late-colonial pressure, against the charge that Gita-formed
-culture is socially passive. Tilak reads 4.18 as the dissolution
-of the apparent contradiction between renunciation and engaged
-action: the renouncer acting without ego-attachment and the agent
-whose inner stance is non-doership are the same yogi seen from
-two sides. (Paraphrase of Tilak, *Śrīmad Bhagavadgītā Rahasya*,
-trans. Sukthankar, 1935–1936; verbatim verification pending.)
-Gandhi extends in *Anasakti Yoga*: non-attachment is the
-precondition for nonviolent action, because it removes the
-desire that would push the agent toward outcomes worth using
-violence to secure.
-
-The practical demand is the road; the metaphysical apparatus
-Śaṅkara and Rāmānuja consider load-bearing recedes — Tilak treats
-it as not the chapter's main concern.
-
-Strength: pressure-tested. A reader who can act without grasping
-at result can persist in slow, difficult work without burning out
-or turning destructive. Cost: the cosmological frame of 4.7–4.8
-falls into the background; the avatāra reads as ratification of
-the call to act, not as a claim about Krishna's mode of being.
-
-### § 3.5. Integral / evolutionary — Sri Aurobindo
-
-Aurobindo, reading through Integral Yoga: the Gita is the
-description of an evolutionary working of consciousness in which
-action, knowledge, and devotion are one continuous teaching.
-*Avatāra* is not external rescue from moral wreckage but
-evolutionary intervention — the divine taking up human nature
-again and again to draw the species forward. (Paraphrase,
-*Essays on the Gita*, ch. on the Divine Teacher and Avatarhood;
-verbatim verification pending.) On 4.18, "action in inaction" is
-the foundation of the Gita's account of works — the actionless
-self witnesses, the divine acts through the surrendered
-instrument, and what we call our action is the visible part of a
-process whose source lies elsewhere. (Paraphrase, *Essays on the
-Gita*, ch. on Works and the Self; verbatim verification pending.)
-
-The chapter's continuity with the rest of the Gita comes forward
-as one integrated teaching, and the cosmological frame is taken
-seriously without flattening into Vaishnava ontology or Advaita's
-empirical-only descent. The text's historical particularity
-recedes — Aurobindo reads through a twentieth-century
-evolutionary commitment the original audience did not share.
-
-Strength: synthesizing power. The claim that the chapter does
-not ask the reader to choose between knowledge and action lines
-up with the chapter's own language. Cost: the philosophical
-apparatus is large; a reader who does not accept Integral Yoga
-must evaluate the local readings on their merits.
-
-### § 3.6. Comparative academic / literary — Barbara Stoler Miller, R.C. Zaehner
-
-Miller and Zaehner, reading academically: the text is a literary
-and historical document with theological depth, its metaphysical
-claims engaged but not taken as self-authenticating; interpretive
-force comes through narrative, imagery, and dialogic structure.
-Miller lays 4.7–4.8 out as poetry:
-
-> Whenever sacred duty decays
-> and chaos prevails,
-> then, I create
-> myself, Arjuna.
->
-> To protect men of virtue
-> and destroy men who do evil,
-> to set the standard of sacred duty,
-> I appear in age after age.
-
-(Miller, 1986, 4.7–4.8, p. 50; page locator unconfirmed.) Her
-introduction frames the Gita as a dialogic poem within the
-*Mahābhārata*: Krishna teaches a particular warrior on a
-particular field, and the poem's voice is deliberately literary.
-Zaehner reads chapter four's God as both transcendent and
-immanent — acting in the world without being entangled in it.
-(Paraphrase, Zaehner, 1969, ch. 4; verbatim verification
-pending.)
-
-The authority claim — *I taught this to Vivasvat in the
-beginning* — reads as a text-internal device by which the speaker
-establishes continuity with the *Mahābhārata*'s mythic past.
-Whether the chain is historically real is separable; that it is
-the chapter's own claim is what matters for reading. The
-experiential and theological force the text has within practicing
-traditions is bracketed, not denied.
-
-Strength: honesty about what kind of text the Gita is. Cost:
-the bracketing is itself a choice; a reader for whom Krishna is
-more than a literary character will find it thin.
-
-### § 3.7. Contemplative-pastoral modernizers — Eknath Easwaran
-
-Easwaran, reading contemplative-pastoral: the Gita is a
-contemplative-practical text for a present-day reader,
-non-sectarian, with strong daily emphasis. Doctrinal
-disagreements between Śaṅkara, Rāmānuja, and Madhva are softened;
-the chapter is read for what it asks of a reader's life.
-
-On 4.7–4.8:
-
-> Whenever dharma declines and the purpose of life is forgotten,
-> I manifest myself on earth. I am born in every age to protect
-> the good, to destroy evil, and to reestablish dharma.
-
-(Easwaran, *The Bhagavad Gita*, 2nd ed., Nilgiri Press, 2007,
-4.7–4.8; page locator unconfirmed.)
-
-On 4.18:
-
-> The wise see that there is action in the midst of inaction and
-> inaction in the midst of action. Their consciousness is
-> unified, and every act is done with complete awareness.
-
-(Easwaran, 2nd ed., 4.18; page locator unconfirmed.)
-
-On 4.34:
-
-> Approach a teacher with reverence and devotion; ask questions
-> and serve. Then they who have realized the truth will instruct
-> you in this knowledge.
-
-(Easwaran, 2nd ed., 4.34; page locator unconfirmed.)
-
-The chapter's practical, contemplative force comes forward for a
-reader who is not a renunciate or theologian and is trying to
-bring their attention into better order. School-by-school
-metaphysical disagreement recedes — Easwaran writes for the
-reader not yet in a position to adjudicate it.
-
-Strength: accessibility and fidelity to the chapter's practical
-commands. Cost: doctrinal precision of the older commentaries
-is handled at a higher altitude.
-
-### § 3.8. The anchor verse: 4.34 across translators
-
-4.34 is the chapter's hub. Radhakrishnan: "Learn that by humble
-reverence, by inquiry and by service. The men of wisdom who have
-seen the truth will instruct thee in knowledge." (Radhakrishnan,
-1948, 4.34.) Easwaran: "Approach a teacher with reverence and
-devotion; ask questions and serve." Sargeant's interlinear (*The
-Bhagavad Gītā*, SUNY revised edition) gives the Sanskrit word by
-word: *tad viddhi praṇipātena paripraśnena sevayā / upadekṣyanti
-te jñānaṃ jñāninas tattvadarśinaḥ.*
-
-The three practical components — *praṇipāta* (prostration;
-humble reverence), *paripraśna* (inquiry that goes around the
-matter, not at it), *sevā* (service) — are translation-stable
-across schools. They name three postures: body, mind, life. No
-school softens any. No school adds a fourth.
-
-Across the seven viewpoints, certain things hold steady. All
-agree the chapter teaches inner renunciation rather than the
-cessation of action. All agree 4.34 prescribes relational,
-embodied, sustained transmission. They diverge on what kind of
-being is doing the descending in 4.7–4.8 and what kind of self
-is witnessing in 4.18. That divergence is real.
-
----
-
-## § 4. Modern counterpoints
-
-The chapter's claims about lineage and the teacher have serious
-modern conversation partners in twentieth-century philosophy of
-tradition and tacit knowledge.
-
-### § 4.1. Alasdair MacIntyre — tradition as carrier of practical rationality
-
-Alasdair MacIntyre's *After Virtue* (Notre Dame, 3rd ed. 2007;
-first 1981) argues that contemporary moral disagreement is
-unintelligible apart from the historical traditions in which
-moral concepts develop, and that practical rationality is
-itself tradition-laden. The lens: virtue ethics,
-post-Aristotelian; traditions — religious, intellectual,
-professional — are the actual carriers of moral reasoning. His
-later Catholic Aristotelian commitments shape which traditions
-count as healthy.
-
-> A living tradition then is an historically extended, socially
-> embodied argument, and an argument precisely in part about
-> the goods which constitute that tradition.
-
-(MacIntyre, *After Virtue*, 3rd ed., Notre Dame, 2007, ch. 15,
-p. 222.)
-
-> I can only answer the question 'What am I to do?' if I can
-> answer the prior question 'Of what story or stories do I find
-> myself a part?'
-
-(MacIntyre, 3rd ed., 2007, p. 216.)
-
-MacIntyre gives 4.34 a philosophical defense. A teaching's
-authority is not arbitrarily handed down or seized; it is
-worked out through extended argument inside a community of
-practice. Approaching the teacher is not a preference for human
-warmth over impersonal information; it is the only way a
-practical tradition can be transmitted, because what is
-transmitted is partly the argument itself, and an argument can
-only be entered into by joining the community in which it is
-alive. The Gita's *paramparā* and MacIntyre's "historically
-extended, socially embodied argument" are the same shape across
-different cultures and metaphysics.
-
-Where MacIntyre presses the Gita: which tradition. The Gita
-assumes there is one, named in 4.1–4.3, carrying the teaching
-faithfully. MacIntyre is acute that traditions can corrupt,
-fragment, lose their goods. The chapter implies a *rajarṣi*
-lineage that decayed and is being re-given; it does not give a
-method to detect corruption from inside. MacIntyre suggests
-detection through encounter with rival traditions and internal
-argument over goods. The Gita presupposes the line is the line.
-The modern reader has to do the work the Gita does not — choose
-which lineage is worth approaching.
-
-### § 4.2. Michael Polanyi — tacit knowledge and master-to-apprentice transmission
-
-Polanyi's *Personal Knowledge: Towards a Post-Critical
-Philosophy* (1958/1962) and *The Tacit Dimension* (1966) argue
-that all knowing rests on a tacit substrate that cannot be made
-fully explicit. Polanyi was a Hungarian-born physical chemist
-turned philosopher of science writing from inside scientific
-practice. The lens: a strong commitment to the personal,
-committed character of knowing — under-elaborated, some critics
-note, on the social-structural side.
-
-> An art which cannot be specified in detail cannot be transmitted
-> by prescription, since no prescription for it exists. It can be
-> passed on only by example from master to apprentice.
-
-(Polanyi, *Personal Knowledge*, ch. 4 "Skills," University of
-Chicago Press, 1958/1962, p. 53; page locator approximate
-across editions.)
-
-> We can know more than we can tell.
-
-(Polanyi, *The Tacit Dimension*, Doubleday, 1966, p. 4.)
-
-This is the modern philosophical defense of the verb forms in
-4.34. *Praṇipāta*, *paripraśna*, *sevā* are not required
-because the teacher is owed obeisance; they are required
-because the kind of knowledge being transmitted cannot be
-transmitted any other way. A practitioner in front of a teacher
-is being offered access to something the teacher knows but
-cannot fully say. Submission, asking, sustained service are the
-postures by which the apprentice receives the unsaid part. The
-Gita's instruction is not formality.
-
-Polanyi presses symmetrically: the master also bears
-responsibility. 4.34 places the burden largely on the student;
-the chapter's earlier passages assume the teachers are
-*jñāninas tattvadarśinaḥ* — knowers, seers of reality. What if
-they are not? The chapter does not ask. The modern reader has
-reason to take both halves seriously.
-
-### § 4.3. Hans-Georg Gadamer — tradition and the hermeneutic circle
-
-Gadamer's *Truth and Method* (1960; English 1975/1989) argues
-that understanding always proceeds from within a horizon shaped
-by tradition; *prejudice* is not error but the precondition of
-any reading at all. Lens: philosophical hermeneutics in
-Heidegger's wake; some critics find an underrating of the
-possibility of critical distance from one's own tradition.
-*Prejudices* — pre-judgments, fore-understandings — constitute
-our being more than explicit judgments do. (Paraphrase of
-Gadamer, *Truth and Method*, 2nd rev. ed., trans. Weinsheimer &
-Marshall, Continuum, 1989/2004, Part Two; verbatim verification
-pending.)
-
-A third frame on lineage. The Gita assumes the line of teachers
-carries something across generations. Gadamer's frame: any
-reader of the Gita is already inside a line — perhaps not the
-Gita's — without which the text could not be read at all.
-*Approach the teacher* is not advice to acquire a tradition
-where there was none; it is advice to choose which tradition
-your pre-understandings will be in conversation with.
-
-The three voices — MacIntyre, Polanyi, Gadamer — do not deliver
-the Gita. They make legible, in modern vocabulary, what the
-chapter asks when it talks about *paramparā* and the teacher.
-
----
-
-## § 5. Modern science
-
-The chapter's strongest empirical engagement is at 4.34.
-4.7–4.8's metaphysics is not where research speaks; transmission
-is.
-
-### § 5.1. Deliberate practice — K. Anders Ericsson and colleagues
-
-High-level performance in well-defined domains — music, chess,
-athletics — is the product of *deliberate practice*: sustained
-engagement in tasks specifically designed to improve performance,
-typically under a teacher with the relevant expertise. Talent
-matters; structured practice with feedback is what distinguishes
-top performers from the rest. (Ericsson, Krampe, & Tesch-Römer,
-"The Role of Deliberate Practice in the Acquisition of Expert
-Performance," *Psychological Review* 100(3), 1993, pp. 363–406.)
-
-The account has been replicated in the original domains and
-critiqued where over-generalized. A 2014 meta-analysis found
-deliberate practice accounts for substantial but
-smaller-than-claimed variance — strong in music and games,
-weaker in education and professions. (Macnamara, Hambrick, &
-Oswald, *Psychological Science* 25(8), 2014, pp. 1608–1618.)
-The bound: a powerful predictor where performance criteria are
-well-defined; partial where criteria are contested or other
-factors (personality, working memory, social context) carry
-weight.
-
-For 4.34, the contribution is empirical. The chapter claims
-knowledge is transmitted through sustained, structured engagement
-under a teacher. Ericsson and colleagues found high-level
-competence, in their domains, is acquired in exactly that way.
-The Gita is making a general claim about *jñāna*, not a
-domain-specific one — but the mechanism it describes is
-empirically how expertise, where measured, actually moves through
-people.
-
-### § 5.2. Cognitive apprenticeship — Allan Collins, John Seely Brown, and Susan Newman
-
-The master-apprentice model extends from physical crafts to
-cognitive domains:
-
-> Cognitive apprenticeship methods try to enculturate students
-> into authentic practices through activity and social
-> interaction, in a way similar to that evident — and evidently
-> successful — in craft apprenticeship.
-
-(Collins, Brown, & Newman, "Cognitive Apprenticeship: Teaching
-the Crafts of Reading, Writing, and Mathematics," in Resnick,
-ed., *Knowing, Learning, and Instruction*, Erlbaum, 1989,
-p. 453.)
-
-Their framework names six methods that distinguish cognitive
-apprenticeship from classroom instruction: modeling, coaching,
-scaffolding, articulation, reflection, exploration. The mapping
-to 4.34 is close. *Sevā* — service — covers modeling and
-coaching; the apprentice is in the daily proximity those
-methods require. *Paripraśna* — inquiry — maps onto articulation
-and reflection. *Praṇipāta* — the relational submission that
-makes long engagement possible — covers the temporal
-infrastructure.
-
-The framework's bound: originally proposed for school education,
-best validated in tutoring and small-group contexts; large-scale
-generalization remains contested. Clinical training research has
-independently reinforced the importance of structured, observed,
-feedback-rich practice — surgeons rated highly by peer review had
-substantially lower complication rates in independent practice.
-(Birkmeyer et al., "Surgical Skill and Complication Rates after
-Bariatric Surgery," *NEJM* 369, 2013, pp. 1434–1442.) The bounded
-claim: where skill is unevenly distributed and outcomes
-measurable, the quality of the master-apprentice relationship
-predicts the apprentice's later independent performance.
-
-The science is not vindication. It is empirical confirmation
-that 4.34's procedure is not a quaint cultural form: the
-structure the Gita prescribes for transmission maps onto what
-researchers studying skill have independently rediscovered.
-
----
-
-## § 6. Synthesis — the path forward
-
-The chapter's reframing of renunciation is its stable practical
-core. *Karmaṇy akarma yaḥ paśyed akarmaṇi ca karma yaḥ* is not a
-riddle whose solution is in the metaphysics. It is a description
-of an inner posture that can be taken: full, attentive
-engagement with what is in front of one, without identifying as
-the agent who owns the outcome. Across all seven viewpoints —
-Śaṅkara's actionless self, Rāmānuja's devotional non-ownership,
-Prabhupāda's surrender to the personal Lord, Tilak's and
-Gandhi's *anāsakti*, Aurobindo's surrendered instrument, Miller's
-and Zaehner's literary-philosophical reading, Easwaran's
-contemplative reading — the posture is the same. The schools
-differ on its metaphysical ground; they agree on what it looks
-like.
-
-The avatāra passage is harder. 4.7–4.8 is the chapter's most
-ambitious cosmological claim: whenever dharma declines, the
-divine comes into being, age after age, for the protection of
-the good. The Vaishnava traditions read this ontologically — a
-personal, voluntary descent. Śaṅkara softens it into
-empirical-level appearance. The activist readings keep the
-verse as ratification of ethical demand. Aurobindo recasts it
-as evolutionary intervention. The literary readings bracket the
-literal claim.
-
-My position is about the passage's *function* rather than its
-ontology. The avatāra passage places the teaching about
-renunciation inside a moral cosmology in which the world is *not
-indifferent* to whether dharma is lived. The wise person's
-posture in 4.18 is not private adjustment of attitude; it is a
-posture taken inside a world whose order has weight. Whether
-the claim cashes out as Vaishnava ontology, Advaita appearance,
-integral evolution, or literary device, I leave to the reader.
-The function — the world is not indifferent to dharma — I keep.
-(On the discipline of bracketing, see front matter.)
-
-The lineage and teacher passage is the most important for the
-modern reader. The metaphysical disagreements about *avatāra*
-are real and unresolved. The phenomenological disagreements
-about the actionless self are real and unresolved. The teaching
-about transmission — that what is being passed on is the kind of
-knowledge that needs prostration, inquiry, and service to be
-received at all — has the strongest convergent support across
-the entire interpretive history *and* across the modern
-literature on tradition, tacit knowledge, and expertise.
-
-So the path forward. Read the chapter's renunciation as
-interior: the wise person acts; the wise person does not own the
-act; the agency-claim is dropped, the action continues. This is
-the broad practical agreement of all the schools and the most
-coherent reading of 4.18 in series with 4.20, 4.23, 4.33, 4.41.
-Read the avatāra passage for its function — a moral cosmology in
-which dharma matters to the world — rather than for literal
-ontology. Take 4.34 as the chapter's load-bearing instruction
-for the present-day reader: the relational, embodied, sustained
-encounter under a competent guide that the verse prescribes is
-what MacIntyre, Polanyi, and the cognitive science of expertise
-independently identify as how serious knowledge actually moves
-through human beings. Not vindication-by-science: the procedure
-the chapter prescribes is a working description of an
-empirically observable mechanism.
-
-Criteria, in order: textual fidelity; internal coherence
-(chapter four sits between chapter three's *karma yoga* and
-chapter five's argument that renunciation and action are not
-opposites — interior reading is the bridge); lived usefulness;
-honesty under science; generosity to rejected readings (the
-cosmological function of avatāra preserved; Śaṅkara's
-non-doership preserved; the activist demand preserved;
-Aurobindo's synthesizing ambition preserved). Literal Vaishnava
-ontology as the chapter's philosophical *core* recedes — the
-reader who holds that ontology will find nothing here
-incompatible with it; the reader who does not will find a path
-that does not require it. The merely-literary reading recedes
-too: the chapter makes philosophical claims, and the dialogic
-frame does not bracket them out.
-
-The chapter is inviting the reader to an inheritance. It claims
-how it has come down (paramparā), where it originates (Vivasvat,
-Manu, Ikṣvāku, a divine teacher who has been here before), and
-how a person not yet inside it can be brought inside (praṇipāta,
-paripraśna, sevā). The transmission claim is the chapter's most
-defensible and useful teaching for the modern reader. The origin
-claim is a placement inside a moral cosmology, without requiring
-the metaphysics settled. The central practical claim —
-renunciation lives inside the agent — is the position the
-schools converge on.
-
----
-
-## § 7. The chapter for a modern life
-
-The chapter's questions land, untranslated, on a present-day
-reader. Whom do you let teach you? What does it mean to inherit
-a way of seeing? Can you do the work of your life without
-grasping at outcomes? Is the world indifferent to how you live?
-
-**On who teaches you.** A modern adult is taught all day. A
-workplace teaches them what counts as a serious person. A
-profession teaches them which questions count and which do not.
-A peer group teaches them what to envy. The shape of grief in
-the family of origin teaches them what counts as serious feeling
-and what does not. 4.34 is asking the reader to notice that
-*teaching is happening* and to choose — not the explicit teaching
-of someone called a teacher, but the implicit teaching of
-whatever is occupying the role of teacher right now, by
-occupying your hours, your attention, your sense of what
-matters. *Praṇipāta*, *paripraśna*, *sevā* — reverence, asking,
-sustained engagement — are being asked of you in twenty-four
-hours of any ordinary day, mostly toward objects you have not
-chosen. The honest move is the audit. What are you serving, by
-the content of your time? What are you inquiring about, by the
-questions you bring to your own life? What are you revering, by
-the structure of your attention?
-
-If the answers name an employer's metrics, the unfinished
-project from a decade ago that still scripts your professional
-self-image, and a long argument with someone no longer alive —
-that is who is teaching you right now. The instruction is not to
-add a teacher on top. It is that the ecology of teaching is
-finite; the hours are finite; you cannot serve and revere and
-inquire of infinite things at once. Choose what you want the
-line of your inheritance to be. A book you read every year. A
-practice you keep. A person whose work you sustain attention
-with. A craft you stay inside long enough to be changed by it.
-Polanyi's master-to-apprentice is not romantic; it is the only
-mechanism by which certain kinds of knowing transfer at all.
-
-**On working without owning the outcome.** Anyone who has done
-care work, parented through a hard stretch, taught students who
-will forget what was taught, or built software that may not
-survive its third release knows the shape of *karmaṇy akarma*.
-The work is full. The result is not within reach. The
+# Chapter 4 — Who teaches you, by the content of your time?
+
+Something is teaching you right now. You did not pick it. It picked
+you, gradually, by occupying your hours. Look at last Tuesday. The
+first thing you read was a feed assembled by a system whose goals are
+not your goals. The voices in your head between meetings were a peer
+group's. The standard against which you measured your own work was a
+profession's. The tone of the small fight you replayed at 11pm was
+your father's, or your mother's, or a teacher's from twenty years
+ago. The unfinished argument with someone no longer alive shaped
+which sentences you let yourself complete and which you cut off
+mid-thought. By the close of the day you had been instructed,
+formed, and rehearsed by a curriculum you did not write.
+
+This is the chapter on inheritance. The Gita's fourth chapter is
+often read as the *avatāra* chapter — the descent passage at 4.7–4.8,
+where the divine takes form in the world whenever dharma declines.
+That is the verse most often quoted. It is not the chapter's center.
+The chapter's center is 4.34, three Sanskrit words that name a
+discipline: *praṇipāta, paripraśna, sevā* — approach with humility,
+ask honestly, serve. These are the conditions under which a real
+teaching transfers from one person to another. The chapter's
+question is who you let teach you. The chapter's instruction is how
+to receive a teaching once you have chosen.
+
+I am going to argue that this is the chapter the modern adult most
+needs and most reflexively skips. Skips because *teacher* sounds like
+something you outgrew, or never had, or fled. The chapter does not
+mean a guru in saffron. It means: the structures, voices, practices,
+and presences that occupy the role of forming you. Someone is in that
+role at every hour. The unchosen teacher in 2026 is the algorithm —
+not as a metaphor, as a mechanism. The chapter is asking you to look,
+to recognize, and to choose.
+
+## The unchosen teacher
+
+The chapter opens by naming a chain. Krishna told this yoga first to
+Vivasvat; Vivasvat to Manu; Manu to Ikṣvāku; through long ages the
+royal sages knew it; by the long lapse of time, the yoga has decayed
+here (4.1–4.2). A teaching has come down through a line, and the line
+has thinned. Arjuna catches the strangeness — the speaker is the same
+age he is — and Krishna answers that he and Arjuna have passed
+through many births; he remembers them, Arjuna does not (4.5). Then,
+at 4.7–4.8, the line about descent: whenever dharma declines and
+unrighteousness rises, the divine comes into being, age after age,
+for the protection of the good.
+
+I want to read this passage for what it does in the chapter rather
+than for what it says about Krishna's metaphysics. Vaishnava
+traditions read the descent ontologically — the supreme person
+voluntarily takes form. Sankara softens it into appearance at the
+empirical level. The Gita is, on these readings, telling us something
+about how the divine relates to time. That is real, and the schools'
+disagreement is real, and the modern reader can hold either reading
+or neither without losing what the chapter is doing here. What the
+chapter is doing here, structurally, is placing the teaching about
+how to live inside a moral cosmology in which *the world is not
+indifferent to whether dharma is lived*. The teaching has come from
+somewhere. It is being re-given because it matters that it is given.
+It is not arbitrary cultural product. The chapter's argumentative
+weight on origin is establishing a frame: there is a current; you
+are downstream of teachers you cannot count; you are inside an
+inheritance whether you noticed or not.
+
+Hans-Georg Gadamer named this for the modern reader. In *Truth and
+Method* he argues that understanding always proceeds from inside a
+horizon shaped by what came before, and that the *prejudices* — the
+pre-judgments — we carry are not error to be cleansed but the
+precondition of any reading at all. We are always already in a
+tradition, even when we think we are starting fresh. Refusal to
+acknowledge the tradition does not exit it; it just makes the
+inheritance unconscious. Gadamer's frame, paraphrased: the question
+is never whether you stand inside a tradition. The question is which
+one, and how aware you are of standing in it.
+
+The 2026 reader is inside a tradition. It has a name. It is not the
+*paramparā* the Gita opens with. It is whatever has actually been
+forming you. Make a list. The platform that decides which sentences
+arrive on your screen first, with what affective charge, in what
+order, with what response prompts. The employer that names what
+counts as serious work, by what it rewards on Tuesdays at 4pm. The
+peer group whose approval you are calibrated to even when you tell
+yourself you are not. The professional code that has trained you to
+care about certain questions and treat others as not-your-department.
+The shape of grief in your family of origin, which taught you, when
+you were five, what counted as serious feeling and what counted as
+making a fuss. The unfinished argument with a parent or a sibling or
+a former mentor or a partner who is no longer alive — that argument
+still sets the tempo of certain conversations. You finish their
+sentences inside your head. You guard against their objection before
+it has been raised, because once, twenty years ago, it was raised.
+This too is a teacher. It is not a teacher you would have chosen if
+you had been asked.
+
+Iris Murdoch, who is a recurring voice in this book, said somewhere
+that the moral life is mostly the texture of attention before the
+moment of choice. By the time the choice arrives, the work has been
+done — by what you have been looking at. What you have been looking
+at is what is teaching you. This is not metaphor. The default mode
+network in the human brain is busy whenever explicit task is absent;
+it is rehearsing, simulating, narrating, drafting. Whatever has been
+loaded into it is what it works with. Recent research on attention —
+Wendy Wood's work on habit, the contemplative neuroscience of
+practice effects in Davidson, Lazar, and others — converges on a
+cheap and unromantic finding: what you spend hours on becomes the
+substrate of who you are. The substrate then becomes operative under
+load. Under stress, under fatigue, in the unguarded moment, what
+comes out of you is what was already in there.
+
+The unchosen curriculum is, for many readers in 2026, the algorithm.
+I mean it specifically. A recommendation system optimizes for
+engagement. Engagement is not the same as flourishing, and the
+designers know this and say so quietly when asked. The system is
+indifferent to whether what it shows you is true, useful, or
+ennobling, and it is not indifferent to whether what it shows you
+keeps you scrolling. It will, given time, find the shape of input
+that holds you longest. It does not need to know anything about
+dharma to be your teacher. It only needs your hours. It already has
+them. By the time you set down the phone before bed, you have had
+about three hours of instruction in what to want, what to fear, what
+to envy, and what to count as a serious topic. The curriculum is
+real. It just was not yours.
+
+The Gita's chapter four is asking, *who is teaching you, by the
+content of your time?* The chapter does not assume you can answer.
+The chapter assumes the question has not been raised.
+
+## What a tradition is, and is not
+
+The honest objection to this whole frame is the one Alasdair
+MacIntyre put on the table in *After Virtue*: *which* tradition. The
+Gita opens with confidence that the line from Vivasvat to Manu to
+Ikṣvāku to Arjuna is the line. MacIntyre's project, beginning in
+1981 and continuing across his later work, is the demonstration that
+modern moral disagreement is unintelligible apart from the
+historical traditions in which moral concepts develop, and that
+practical rationality is itself tradition-laden. We do not reason
+about the good from a vantage outside tradition. We reason from
+inside one, in conversation with others, sometimes shifting which
+tradition we stand in. In MacIntyre's own formulation, a living
+tradition is *an historically extended, socially embodied argument,
+and an argument precisely in part about the goods which constitute
+that tradition*. The tradition is the argument. To be inside it is
+to be inside the argument. To have a tradition is not to have a
+museum. It is to be entitled to participate in a long quarrel about
+what matters and how.
+
+This means two things at once. First: the Gita's confidence about
+its own *paramparā* is intelligible. The chain of teachers is the
+mechanism by which the argument stays alive — refined by people
+inside the practice, corrected against rival readings, re-given when
+it has decayed. *Praṇipāta, paripraśna, sevā* are not three
+ornamental gestures. They are the shape of entry into a tradition's
+argument. The student approaches with humility because the argument
+predates them; asks honestly because the argument is settled by good
+questions; serves because tradition is sustained by hours, not by
+opinions. MacIntyre, paraphrased, would defend 4.34 as the chapter's
+account of how a tradition reproduces itself — not by writing things
+down, but by making practitioners.
+
+Second: the Gita does not give the modern reader a method for
+choosing among traditions. It assumes the line is the line.
+MacIntyre is acute that traditions can corrupt, fragment, lose
+their goods. He proposes detection through encounter with rival
+traditions and internal argument over what the tradition actually
+holds. The Gita, on this question, is silent. The chapter says the
+*rajarṣi* line decayed and is being re-given. It does not say what
+to do if you suspect your line has decayed and there is no Krishna
+in the chariot to re-give it. The honest move for the modern reader
+is to do the work the Gita does not do — to choose which tradition
+is worth approaching, knowing that the choice is itself a moral
+event and that it can be wrong.
+
+The choosing is real. It is also not as voluntary as it sounds.
+MacIntyre is also clear that we begin inside traditions we did not
+choose; we choose inside the inheritance, not from above it. So the
+practical question for the reader at the kitchen table on a Saturday
+afternoon is not, *which tradition will I now adopt as my answer?*
+The practical question is: *of the lines of inheritance that have
+shaped me, which deserve my continued service, which need to be
+argued with from inside, which need to be left, and which need to be
+sought out and entered?* That is the choosing 4.34 is asking for.
+
+## What only an apprentice receives
+
+There is a kind of knowing that does not transfer through reading.
+Michael Polanyi, the Hungarian-born physical chemist turned
+philosopher of science, named this in *Personal Knowledge* and *The
+Tacit Dimension*. His two famous formulations are short. *We can
+know more than we can tell.* And: *an art which cannot be specified
+in detail cannot be transmitted by prescription, since no
+prescription for it exists; it can be passed on only by example
+from master to apprentice.*
+
+Polanyi was writing about science. He had spent a working life
+inside laboratories where the difference between an excellent
+chemist and an adequate one was visible in how each held the
+glassware, how each read the unexpected color, how each decided
+which result was real and which was an artifact. None of this was
+in the textbook. None of it could be put in the textbook. The
+younger scientist learned it by being near the older scientist for
+years. The transfer was not magical. It was tacit — running below
+the level of articulation, picked up through proximity, repetition,
+imitation, and the corrections that came after small failures.
+
+This is the modern philosophical defense of why 4.34 says what it
+says. The chapter does not prescribe humility, inquiry, and service
+because the teacher is owed obeisance. It prescribes them because
+the kind of knowledge being transmitted cannot be transmitted any
+other way. *Praṇipāta* — bow — is the body's posture that admits the
+teacher knows something you do not. *Paripraśna* — ask, around the
+matter, not at it — is the apprentice's discipline of getting to
+what cannot be put in a sentence by asking the questions that
+gradually surface it. *Sevā* — serve — is the temporal infrastructure
+that makes long proximity possible. You cannot get the tacit
+substrate of a craft in an afternoon. You get it by being in the
+room, doing the small work, for a long time, while someone who knows
+the craft is doing it next to you.
+
+Modern educational research has rediscovered this under a different
+name. Allan Collins, John Seely Brown, and Susan Newman, in a 1989
+paper that became one of the foundational documents of what is now
+called *cognitive apprenticeship*, argued that the master-apprentice
+model from physical crafts extends to cognitive domains — reading,
+writing, mathematics, and by extension medicine, law, engineering,
+psychotherapy. Their framework names six methods: modeling,
+coaching, scaffolding, articulation, reflection, exploration. The
+mapping to 4.34 is uncomfortably tight. *Sevā* covers modeling and
+coaching — you are in the daily proximity those methods require.
+*Paripraśna* maps onto articulation and reflection. *Praṇipāta*
+covers the temporal infrastructure that makes scaffolding possible
+across years. The Gita, twenty-five hundred years ago, named the
+postures. The 1989 cognitive scientists named the methods. The
+shape is the same.
+
+There is a science to set against this. Anders Ericsson and
+colleagues, beginning in the early 1990s, argued that high-level
+performance in well-defined domains — music, chess, athletics — is
+the product of *deliberate practice*: sustained engagement in tasks
+specifically designed to improve performance, typically under a
+teacher with relevant expertise. Talent matters; structured practice
+with feedback under a knowing eye is what distinguishes top
+performers from the rest. The original 1993 paper has been replicated
+many times in the original domains. It has also been bounded.
+Brooke Macnamara, David Hambrick, and Frederick Oswald's 2014
+meta-analysis found deliberate practice accounts for substantial but
+smaller-than-claimed variance — strong in music and games, weaker in
+education and the professions, where outcome criteria are contested
+and other factors carry weight. The bound matters. The chapter is
+not making a domain-specific claim; it is making a general claim
+about *jñāna*, knowledge in the deepest sense. The Macnamara caveat
+keeps the argument honest: *praṇipāta, paripraśna, sevā* are the
+mechanism by which expertise transfers where transfer is possible
+and measurable; they are not a guarantee of mastery. They are a
+necessary condition, not a sufficient one. The Gita, read carefully
+on this point, agrees. The chapter says the realized see; it does
+not say the procedure manufactures realization.
+
+What the science gives us is bounded but real. Where skill is
+unevenly distributed and outcomes can be measured, the quality of
+the master-apprentice relationship predicts the apprentice's later
+independent performance. Surgeons rated highly on technical skill by
+peer review have substantially lower complication rates in
+independent practice — the Birkmeyer surgical-skill study from 2013
+made this visible in operating rooms. Teachers rated as effective by
+classroom observation produce measurably different student outcomes
+years later — the Chetty work on long-run teacher effects. Therapy
+outcomes track, in part, the supervision the therapist received
+during training. None of this proves the Gita's metaphysics. It
+shows the chapter is talking about a mechanism the modern social
+sciences have independently rediscovered. The procedure works
+because of the kind of creature the human is — embodied, slow to
+form, formed by proximity to skilled others, formed only across
+years.
+
+So what kind of knowledge is the Gita asking the apprentice to
+receive? Not skill in a craft, though it includes that. Not
+information, though it does not refuse it. The chapter's word is
+*jñāna* — the seeing of how things actually are, the discrimination
+between what is one's own and what is not, between what binds and
+what frees, between action that is owned by the agent and action
+that flows through the agent without grasping. Polanyi would say
+this kind of seeing is necessarily tacit. You can be told the words.
+You cannot be transmitted the seeing through the words. You can be
+brought near someone who sees, and stay there long enough, doing the
+small work, while they do their work, that the seeing begins to
+form in you. The Gita is naming the only path by which this kind of
+knowing transfers between people. The chapter is not optional
+spirituality. The chapter is the operations manual for receiving
+something that does not transfer any other way.
+
+## The audit
+
+The chapter is also, by indirection, an audit. *Praṇipāta,
+paripraśna, sevā* are being asked of you in twenty-four hours of any
+ordinary day. You are revering something — by what your attention
+returns to, unprompted. You are inquiring about something — by the
+questions you bring to your own life, which surface at 6am or 11pm.
+You are serving something — by where your hours go.
+
+The audit is uncomfortable. The honest answers, for many readers,
+will name an employer's metrics, the unfinished project from a
+decade ago that still scripts the professional self-image, a
+half-built relationship to a person who is no longer alive, and a
+platform that has trained the dopamine system to expect a particular
+cadence of small reward. That is not nothing. That is, in fact, the
+ecology of teaching. It is finite. The hours are finite. You cannot
+serve and revere and inquire of infinite things at once, no matter
+what the productivity literature implies. The teacher who currently
+occupies the role of teacher in your life is who is teaching you
+right now. If you do not name that teacher honestly, you cannot
+choose differently.
+
+I want to be careful here, because the move at this point in many
+self-help readings is to recommend choosing better teachers in a
+voluntarist way, as if the act of choice were itself sufficient, as
+if you could pick up a book on Saturday and have a new inheritance
+by Wednesday. This is the wellness-industry exit fantasy in a
+slightly more literary form. The chapter does not promise this. The
+chapter promises that *praṇipāta, paripraśna, sevā* — sustained,
+embodied, relational engagement — work, given time. It does not
+promise that the work is fast. It does not promise the work is
+voluntary in any easy sense; you start where you are, and you start
+inside the inheritance you already carry. The right move is small
+and durable. Choose one teacher — in the broad sense — and commit a
+defined arc of hours to it. A book you read every year, slowly. A
+practice you keep, on most days, for a year. A craft you stay inside
+long enough to be changed by it. A person, when there is a person
+worth being apprenticed to, whose work you sustain attention with
+across years rather than weeks. The chapter is unromantic about the
+arithmetic. The hours go where they go. The question is whether you
+are choosing the destination.
+
+I will name what does not count. Following someone on a platform is
+not apprenticeship. Listening to a podcast is not apprenticeship.
+Reading widely is not apprenticeship. None of these things are bad;
+they are not the thing. Apprenticeship is *sevā* — sustained service
+that holds you in proximity to the teaching long enough that the
+tacit substrate transfers. It is what is hard to do in 2026 because
+the available structures are designed against it: short cycles,
+infinite options, low cost of switching, constant availability of a
+fresh teacher down the feed who will be replaced tomorrow by the
+next. The discipline is not novel curation. The discipline is
+staying.
+
+There is a related move worth naming. The chapter assumes the
+teachers are *jñāninas tattvadarśinaḥ* — knowers, seers of reality.
+The chapter does not address the case where the teacher is a fraud.
+This is a serious gap, and the modern reader has reason to keep both
+halves visible. *Praṇipāta* without judgment is how cults are built.
+A teaching tradition that demands surrender without earning it is a
+tradition that has corrupted, in MacIntyre's sense — the argument
+inside it has stopped, and what remains is structure without goods.
+The discrimination is part of the choosing. Polanyi would have
+agreed: the master also bears responsibility, and the apprentice's
+posture of trust is reciprocal with the master's competence and
+honesty. If the masters are not knowers, no posture in the student
+will manufacture transmission. The chapter assumes you have not
+walked into a counterfeit. It does not relieve you of the duty to
+check.
+
+## On work, and not owning it
+
+The chapter has a second teaching most readers come to it for, which
+the rewrite has so far skirted. *Karmaṇy akarma yaḥ paśyed
+akarmaṇi ca karma yaḥ* (4.18) — the wise see action in inaction and
+inaction in action. The schools have argued for centuries about what
+exactly this paradox dissolves into. Sankara reads it as the
+recognition, inside Advaita, that the self does not act at all even
+when the body is doing things. Ramanuja reads it as action performed
+without ego-attachment and offered to the Lord. Gandhi reads it as
+*anāsakti*, the inner non-attachment that is the precondition of
+sustainable action. Aurobindo reads it as the surrendered instrument
+through which the divine acts. The schools differ on the
+metaphysics. They agree on the posture: full attentive engagement
+with what is in front of you, without identifying as the agent who
+owns the outcome.
+
+The connection to the chapter's main argument is closer than it
+looks. What you can be apprenticed to, in the sense the chapter
+prescribes, is partly this very posture. It does not transfer
+through prescription. *Be non-attached* is words. The disposition
+itself is tacit and slow. It transfers from being in the room with
+people who have it, while doing the work, for a long time. It is
+why traditions of practice, across cultures, have insisted on
+proximity — monastic communities, craft guilds, surgical residencies,
+musical lineages. The shape of the wise person's engagement with
+their work is the kind of thing only the master-apprentice
+relationship transmits. This is also, incidentally, why no one
+becomes equanimous from reading a book about equanimity. The book
+puts the question on the table. The transfer happens elsewhere.
+
+I will say this concretely. Anyone who has done care work with no
+visible result, parented through a long hard stretch, taught
+students whose grades will not reflect what was taught, or sustained
+a craft past the point where it pays, knows the shape of *karmaṇy
+akarma*. The work is full. The result is not within reach. The
 temptation is to grasp at outcomes that will not come on your
-schedule, or to withdraw because the work does not seem to be
-paying off. Both fail. The chapter names a third posture: a
-meeting in which you are present and not managing how you are
-perceived; an hour of writing in which you are inside the
-sentences and not measuring them; a conversation with a
-teenager not happening for any particular outcome. The wise
-person's *inaction in action* is that conversation, that hour,
-that meeting.
+schedule, or to withdraw because the work does not seem to be paying
+off. Both fail. The chapter's third posture is what is being
+described: a meeting in which you are present and not managing how
+you are perceived; an hour of writing in which you are inside the
+sentences and not measuring them; a conversation with a teenager
+that is not happening for any particular outcome. This is what the
+wise person's *inaction in action* looks like. There is no special
+state of consciousness involved. There is just the work, done
+without grasping, by someone whose grasping has been gradually
+worn smooth by long practice in the company of others who have
+been doing the same.
 
-It is also — harder — the work where outcome cannot be
-optimized. A patient on an end-of-life ward. A student who may
-not pull out of it. A relationship that may end. An institution
-you love and may not save. The instruction is not that outcome
-does not matter; it is that outcome is not what action is
-grasping at. You stay in the work. You release the demand. The
-work becomes the offering. This is *jñāna yajña* — knowledge as
-sacrifice — as a posture available in ordinary life.
+## What the chapter is actually asking
 
-**On whether the world cares.** The chapter's deepest claim,
-where I honor the function of 4.7–4.8 without settling
-metaphysics. To live as if the world is indifferent to whether
-dharma is lived — as if structures of flourishing are matters of
-personal preference — is what the Gita treats as confusion. You
-need not believe in the literal descent to take seriously that
-what you do, in your tiny domain, participates in the
-maintenance or the decay of the larger order. Decency,
-faithfulness, and care are not optional features of a tolerable
-world.
+I want to pull this back to one claim. The chapter is asking the
+reader to notice that they are being formed, all the time, by what
+their hours are spent on, and to take responsibility for what is
+doing the forming. The instruction is not to become a renunciate.
+The instruction is not to add a guru on top of an already-too-full
+life. The instruction is to recognize that the role of teacher is
+already filled in your life, by something, and to look at what
+fills it, and to choose differently if the current occupant is not
+worth the inheritance you will eventually have.
 
-**On what to do this week.** Choose one teacher — in the
-broadest sense — to give your serious attention to for a defined
-period. A book. A practice. A person whose work you sustain
-attention with. Not three. One. Then audit, honestly, what
-occupied the role of teacher for you last week — what your
-attention actually went to. Notice the gap. Act in the gap.
-*Praṇipāta*, *paripraśna*, *sevā* do not require a guru. They
-require choosing what you will actually be apprenticed to.
+Three concrete movements follow. The first is the audit — the
+honest naming of what currently occupies the role of teacher in your
+life. The unfinished argument with someone no longer alive. The
+employer's tempo. The peer group's calibration. The platform's drip
+feed. The shape of grief in your family of origin. List them. Do
+not make them better than they are. If the platform got three hours
+yesterday and the practice you say is yours got fifteen minutes,
+that is the truth of where the teaching went.
 
-Do at least one piece of work this week with no claim on the
-outcome. A real piece, not a token. The teaching has landed when
-you notice yourself wanting to perform the non-attachment rather
-than be in the work. The wise person does not see themselves
-seeing inaction in action; they are in the action. Performance
-is a familiar trap.
+The second is the choice. From among the lines of inheritance that
+have already shaped you, name the ones worth continued service.
+Argue from inside the ones that need arguing with. Leave the ones
+that need leaving. Seek out and enter the ones that need entering,
+knowing the entering will take years, not weekends. Do not multiply
+the count past what fits in your real life. The hours are finite.
+*Praṇipāta, paripraśna, sevā* are not infinitely portable; they are
+expensive postures that are sustained by limiting their objects.
 
-And once: pause. You are inside an inheritance whether you chose
-it or not. The language you think in. The practices you barely
-remember being given. The medical, agricultural, legal,
-technical knowledge that carries your daily life, built by
-people whose names you do not know. The Gita's *paramparā* is
-one line. The structure it names — you are downstream of teachers
-you cannot count, upstream of students you will never meet — is
-not parochial. Make a few of your inheritances explicit and
-worth something.
+The third is the work without grasping at result. This is the
+chapter's other teaching, which only really lands once the first
+two are underway. You cannot do the work without grasping if you
+do not know who has been teaching you to grasp. You cannot inherit
+the wise person's posture if you have not chosen who you are
+apprenticed to. Once you have done the first two, the third becomes
+something you practice rather than something you perform. You stop
+managing how you are perceived in the meeting. You write the
+sentence and put it down. You sit with the patient who is not going
+to recover. You teach the student who will forget what was taught.
+You build the institution you may not save. The work becomes the
+offering. This is what the older translations call *jñāna yajña* —
+knowledge offered as sacrifice — translated into the operations of
+ordinary life.
 
-The chapter ends with Krishna telling Arjuna, *take refuge in
-yoga, stand up*. Standing up is not metaphor. The instruction
-is to act, having heard what has been said. A modern application
-that does not result in standing up is not an application. It
-is a souvenir.
+## The pause, and what to do this week
 
----
+There is a pause the chapter asks you to take, and I will ask you to
+take it before the chapter closes. You are inside an inheritance
+whether you chose it or not. The language you think in. The practices
+you barely remember being given. The medical, agricultural, legal,
+technical knowledge that carries your daily life, built by people
+whose names you will never know. The breath you are taking right now
+is being taken because of insulin a stranger refined in a lab in
+1922 or because of an antibiotic a stranger purified in 1928 or
+because of a thousand earlier kindnesses encoded in things you treat
+as background. The Gita's *paramparā* is one line. The structure it
+names — that you are downstream of teachers you cannot count, upstream
+of students you will never meet — is not parochial. It is what being
+human in time amounts to. Make a few of your inheritances explicit.
+Let some of them be worth something.
 
-## § 8. Citations
+For this week, two practical moves. Choose one teacher — one — to
+give your serious attention to for a defined arc of time. A book you
+will read through, slowly, this season. A practice you will keep, on
+most days, for ninety days. A craft you will stay inside for the
+year. A person, if there is one, whose work you will sustain
+attention with for longer than the algorithm wants you to. Write
+their name down. *Praṇipāta, paripraśna, sevā* are not metaphysical
+demands. They are what it costs to receive what cannot be Googled.
 
-This is the subset of works directly quoted or cited above. The
-full bibliography lives in the back matter.
+Then audit, honestly, what occupied the role of teacher for you last
+week — what your attention actually went to. Do not soften it. Look
+at the screen-time number. Look at the inbox time. Look at what you
+read at the meal you ate alone. The gap between what you said your
+teacher was and what your hours say your teacher was — name the gap
+out loud, to yourself. Act in the gap. The chapter does not ask for
+heroic reform. It asks for a shift of fifteen minutes a day, kept
+across a year, toward what you have actually chosen. Across a year,
+fifteen minutes a day is sixty hours of *sevā*. Sixty hours, in the
+right room, with the right teacher, is enough to begin to shift
+something tacit. The arithmetic is unromantic. It is the chapter's
+arithmetic.
 
-*Translations and primary texts.*
-- Easwaran, Eknath. *The Bhagavad Gita.* 2nd ed. Tomales, CA:
-  Nilgiri Press, 2007. Quoted at 4.7–4.8, 4.18, 4.34. Page
-  locators flagged as unconfirmed; validation pending.
-- Miller, Barbara Stoler. *The Bhagavad-Gītā: Krishna's Counsel
-  in Time of War.* New York: Bantam Classics, 1986. Quoted at
-  4.7–4.8 (poetic lineation). Page locator unconfirmed in the
-  Bantam paperback printing.
-- Radhakrishnan, Sarvepalli. *The Bhagavadgītā.* London: George
-  Allen & Unwin, 1948. Quoted at 4.7–4.8 and 4.34. Page locators
-  unconfirmed.
-- Sargeant, Winthrop. *The Bhagavad Gītā.* Albany: SUNY Press,
-  revised edition. Cited for the interlinear Sanskrit at 4.34
-  (*tad viddhi praṇipātena paripraśnena sevayā*).
-- Bhaktivedanta Swami Prabhupada. *Bhagavad-gītā As It Is.* New
-  York: Bhaktivedanta Book Trust, 1968 (Macmillan first edition);
-  later printings BBT. Quoted from the purport to 4.6–4.7.
-  Specific edition page locators unconfirmed.
+Krishna closes the chapter by telling Arjuna to take refuge in yoga
+and stand up (4.42). Standing up is not metaphor here. The
+instruction is to act, having heard what has been said. The phone
+will not stop teaching you. The peer group will not. The employer
+will not. The unfinished argument will not. The chapter is not
+asking you to escape the curriculum. It is asking you to write part
+of it. You are a teacher, by the content of your time, of someone
+else — your child, your colleague, your apprentice, the
+twenty-three-year-old in the next chair who is watching how you
+handle the bad afternoon. *Praṇipāta, paripraśna, sevā* are also
+what you are receiving from them, in the shape of their attention
+to whether you live what you say. The line is alive in both
+directions. You did not start it. You will not end it. You can,
+this week, decide what you contribute to it, by what you let teach
+you, by what you stop letting teach you, by the hours you finally
+move from the curriculum that picked you to the curriculum you
+chose.
 
-*Classical and modern Indian commentators (paraphrased
-unless otherwise indicated).*
-- Śaṅkara. *Bhagavad Gītā Bhāṣya.* Trans. Swāmi Gambhīrānanda.
-  Kolkata: Advaita Ashrama. Reading on 4.18 paraphrased; verbatim
-  verification pending.
-- Rāmānuja. *Gītā Bhāṣya.* Trans. Adidevānanda or Tapasyānanda.
-  Reading on 4.7–4.8 paraphrased; verbatim verification pending.
-- Tilak, Bal Gangadhar. *Śrīmad Bhagavadgītā Rahasya.* Trans.
-  B.S. Sukthankar. Poona: Tilak Bros., 1935 (vol. 1) / 1936
-  (vol. 2). Reading on 4.18 paraphrased; verbatim verification
-  pending.
-- Aurobindo, Sri. *Essays on the Gita.* Pondicherry: Sri Aurobindo
-  Ashram. Readings on 4.7–4.8 (avatāra) and 4.18 (works and the
-  self) paraphrased; verbatim verification pending.
-
-*Comparative academic readings.*
-- Zaehner, R.C. *The Bhagavad-Gītā with a Commentary based on
-  the Original Sources.* Oxford: Oxford University Press, 1969.
-  Reading on chapter four paraphrased; verbatim verification
-  pending.
-
-*Modern counterpoints.*
-- MacIntyre, Alasdair. *After Virtue.* 3rd ed. Notre Dame, IN:
-  University of Notre Dame Press, 2007. Quoted at p. 222 ("a
-  living tradition…") and p. 216 ("of what story or stories…").
-- Polanyi, Michael. *Personal Knowledge: Towards a Post-Critical
-  Philosophy.* Chicago: University of Chicago Press, 1958/1962.
-  Quoted at p. 53 (master/apprentice). Page locator approximate
-  across editions.
-- Polanyi, Michael. *The Tacit Dimension.* New York: Doubleday,
-  1966. Quoted at p. 4 ("we can know more than we can tell").
-- Gadamer, Hans-Georg. *Truth and Method.* 2nd revised English
-  edition. Trans. Joel Weinsheimer and Donald G. Marshall. New
-  York: Continuum, 1989/2004. Substance paraphrased; precise
-  formulation pending verbatim verification.
-
-*Modern science.*
-- Ericsson, K. Anders, Ralf Th. Krampe, and Clemens Tesch-Römer.
-  "The Role of Deliberate Practice in the Acquisition of Expert
-  Performance." *Psychological Review* 100, no. 3 (1993): 363–406.
-  Substance paraphrased; central thesis cited.
-- Macnamara, Brooke N., David Z. Hambrick, and Frederick L.
-  Oswald. "Deliberate Practice and Performance in Music, Games,
-  Sports, Education, and Professions: A Meta-Analysis."
-  *Psychological Science* 25, no. 8 (2014): 1608–1618. Cited as
-  the bound on the deliberate-practice claim.
-- Collins, Allan, John Seely Brown, and Susan E. Newman.
-  "Cognitive Apprenticeship: Teaching the Crafts of Reading,
-  Writing, and Mathematics." In *Knowing, Learning, and
-  Instruction: Essays in Honor of Robert Glaser*, edited by
-  Lauren B. Resnick. Hillsdale, NJ: Lawrence Erlbaum Associates,
-  1989. Quoted at p. 453 ("cognitive apprenticeship methods…").
-- Birkmeyer, John D., et al. "Surgical Skill and Complication
-  Rates after Bariatric Surgery." *New England Journal of
-  Medicine* 369 (October 10, 2013): 1434–1442. Cited as a named,
-  bounded modern parallel on master-apprentice transmission of
-  technical skill.
+A teacher you did not choose is teaching you right now. The chapter
+is one Sanskrit sentence long. *Approach with humility, ask honestly,
+serve.* Three postures, sustained across years, in front of someone
+worth them. The rest of the chapter is the argument for why this is
+the only way certain things move between human beings. The
+instruction does not need decoration. It needs your hours. The
+hours are already being spent. The only question is on what.
