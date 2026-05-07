@@ -96,46 +96,30 @@ conflate the two words.
 
 ## How the traditions read the vision
 
-Three readings pull in different directions; what they share is the
-floor.
+What the major commentators share is the floor: vastness is
+granted, vastness is unbearable, vastness is asked to recede,
+vastness recedes, the personal face returns, the embodied life
+resumes marked by what was seen. They diverge on what the granting
+means. Ramanuja, on the qualified non-dualism I take as the
+manuscript's floor, treats the cosmic form as the actual body of
+the divine — the cosmos with all its beings is the Lord's body, and
+*bhakti*, sustained loving attention to the personal form, is the
+mode in which the seeing is survivable. Sankara reads the form as
+real disclosure but not the ultimate reality — a granted vision
+pointing beyond itself to the formless *nirguṇa Brahman*; the
+granted-ness is itself the signal that what requires granting is
+not final. Aurobindo synthesizes: the *viśvarūpa* is the
+Time-Spirit in cosmic becoming, including its destructive face, and
+the task is to consent to be conscious instrument while remaining
+inwardly free of the ferocity.
 
-Ramanuja, on the qualified non-dualism I take as the manuscript's
-floor, treats the cosmic form as the actual body of the divine —
-neither subordinate to a more ultimate formless reality nor a
-pedagogical staging. The cosmos with all its beings, including the
-warriors and their unfolding deaths in time, is the Lord's body.
-*Bhakti* — sustained loving attention to the personal form — is
-the mode in which this seeing is survivable.
-
-Sankara, on the Advaita reading, treats the form as real disclosure
-but not the ultimate reality — a granted vision that points beyond
-itself to the formless *nirguṇa Brahman*. The granted-ness is the
-signal: what requires granting is not final. The divine eye is
-given for the duration and then implicitly withdrawn. The chapter
-stages a discontinuity, not a permanent acquisition. Sankara is
-right that this matters.
-
-Aurobindo synthesizes the registers. The *viśvarūpa* is the
-manifestation of the Time-Spirit, the World-Lord in cosmic becoming
-including its destructive face. Your task is not to reject the
-disclosure but to consent to be conscious instrument while
-remaining inwardly free of the ferocity. The synthesis carries the
-chapter well, though it can soften 11.32's bite by reading the
-destruction as cosmic progress when the chapter does not say *the
-cosmos is moving forward*. It says *I am time, ripened, come to
-destroy these worlds*.
-
-Gandhi and Tilak both foreground 11.33 — *be merely an instrument*
-— as the chapter's central ethical demand, with Gandhi insisting
-(against Tilak) that *anāsakti* refuses to derive license from the
-cosmic disclosure. The Gandhi-Tilak distinction is what the chapter
-most needs in 2026.
-
-What the readings share, and what I take as the floor: the chapter
-stages an experience-type with a specific structure. Vastness is
-granted. Vastness is unbearable. Vastness is asked to recede.
-Vastness recedes. The personal face returns. The embodied life
-resumes, marked by what was seen.
+Where the chapter most needs reading in 2026 is the Gandhi-Tilak
+distinction on 11.33. Both foreground *be merely an instrument* as
+the central ethical demand. Gandhi insists, against Tilak, that
+*anāsakti* refuses to derive license from the cosmic disclosure —
+the instrument-framing does not authorize the violence it
+witnesses. That refusal is what the chapter's logic, pressed
+forward, will turn on.
 
 ## The structure has a name
 
@@ -144,43 +128,32 @@ thought.
 
 Rudolf Otto called it the *mysterium tremendum et fascinans* — the
 holy encountered as simultaneously terrifying and fascinating,
-repelling and drawing. Otto wrote about Chapter 11 specifically; he
-considered the *viśvarūpa darśana* one of the most powerful
+repelling and drawing. Otto wrote about Chapter 11 specifically,
+considering the *viśvarūpa darśana* one of the most powerful
 instances of the structure in any religious literature. The point
 is not that Otto noticed. The point is that the structure he names
 is precisely what Arjuna reports at 11.45, where in the same breath
 he says *I rejoice* and *my mind trembles with fear*. The mixture
-is not poetic exaggeration. It is the signature of the *numinous*,
-recognizable across very different religious literatures.
+is not poetic exaggeration. It is the signature of the *numinous*.
 
-Heidegger names the same structural mood from another angle.
-*Angst* is the mood in which the world is disclosed *as a whole*.
-The everyday practices fall away. And then Dasein flees this
-disclosure back into *das Man*, the public-everyday, the mode in
-which we are absorbed in roles and do not stand exposed. Heidegger
-reads the flight as *fallenness* — inauthenticity. The diagnosis
-fits 11.45 with surprising precision. But the Gita differs on what
-to make of the flight. The Gita reads it as right response,
-sanctioned by the divine. The cosmic disclosure was real — but it
-is not the embodied human's sustainable mode of relation. The
-Gita-Heidegger disagreement is precise enough to disagree with.
+Heidegger names a related structural mood. *Angst* discloses the
+world *as a whole*; the everyday falls away, and Dasein flees back
+into *das Man*, the public-everyday in which we are absorbed in
+roles. Heidegger reads the flight as *fallenness* — inauthenticity.
+The diagnosis fits 11.45 with surprising precision. But the Gita
+differs on what to make of the flight. The Gita reads it as right
+response, sanctioned by the divine. The cosmic disclosure was real
+— but it is not the embodied human's sustainable mode of relation.
+That disagreement is precise enough to be useful.
 
-Awe research has begun to map the same territory in narrower
-empirical vocabulary. Dacher Keltner and Jonathan Haidt proposed
-that awe is structured by two core appraisals — *perceived
-vastness* that exceeds the perceiver's ordinary frame, and *need
-for accommodation*, the requirement to update one's mental schema.
-Induced awe reliably reduces self-focus in subsequent
-self-descriptions. The *small self* effect. The self gets, briefly,
-smaller. It does not annihilate. It re-proportions. Arjuna's
-existing schema of *my charioteer Krishna* is inadequate; the model
-has to be rebuilt around something it was not built to contain. Awe
-in Keltner's sense is narrower than what the chapter stages, but
-the structural features — vastness, accommodation, the small self,
-the return — are recognizably what the chapter describes. The
-psychology does not vindicate the metaphysics. It shows the
-experience-type is a recurring human capacity, not poetic
-exaggeration.
+Awe research maps the same territory empirically. Dacher Keltner
+and Jonathan Haidt proposed that awe is structured by two
+appraisals — *perceived vastness* exceeding the ordinary frame, and
+*need for accommodation*, the requirement to update one's schema.
+Induced awe reliably reduces self-focus. The *small self* effect:
+the self gets briefly smaller, re-proportioned rather than
+annihilated. The psychology does not vindicate the metaphysics. It
+shows the experience-type is a recurring human capacity.
 
 ## The teaching, the return, and Oppenheimer
 
@@ -213,87 +186,64 @@ everyday being annihilated. That mode is available secularly. It
 just requires a face.
 
 The chapter's reception was altered by Oppenheimer in a way that
-cannot be undone. *Now I am become Death, the destroyer of worlds.*
-The line is from his recorded statement on NBC in 1965, in the
-documentary *The Decision to Drop the Bomb*, recalling Trinity in
-July 1945. He studied Sanskrit with Arthur Ryder at Berkeley in the
-1930s, read the text in the original, and knew what he was doing.
-The archaic *am become* is faithful to *kālo'smi … pravṛddho*. But
-he renders *kāla* as *Death* rather than *Time*, foregrounding one
-face of the doubled word. Of all the available translations, his is
-the most pointed choice. *Death.*
+cannot be undone. *Now I am become Death, the destroyer of worlds*
+— from his 1965 NBC statement recalling Trinity. He had studied
+Sanskrit with Arthur Ryder at Berkeley and read the text in the
+original. The archaic *am become* is faithful to *kālo'smi …
+pravṛddho*. But he renders *kāla* as *Death* rather than *Time*,
+foregrounding one face of the doubled word.
 
-Oppenheimer also mis-glosses the dramatic context, and this is
-where the chapter's two key words come back. He says: *Vishnu is
-trying to persuade the Prince that he should do his duty and, to
-impress him, takes on his multi-armed form and says, "Now I am
-become Death, the destroyer of worlds."* The verses are conflated.
-11.32 — the disclosure of *kāla* — is not duty-talk. It is the
-cosmic form naming itself. The instruction to act as instrument
-comes one verse later, at 11.33. The gloss collapses the disclosure
-into the instruction, as though the cosmic form had said *act as my
-instrument; this is your duty* when in fact it had said *I am
-time; the warriors are already mine*. The slide is small textually.
-Logically it is significant.
+In the same recollection he glosses the scene: *Vishnu is trying
+to persuade the Prince that he should do his duty and, to impress
+him, takes on his multi-armed form and says, "Now I am become
+Death, the destroyer of worlds."* The verses are conflated. 11.32
+is the cosmic form naming itself; the instruction to act as
+instrument comes at 11.33. The gloss collapses the disclosure into
+the instruction, as though the cosmic form had said *act as my
+instrument; this is your duty* when in fact it had said *I am time;
+the warriors are already mine*. That collapse turns the Trinity
+line into permission to act rather than recognition of what time
+is — and slides Arjuna's *nimitta-mātra* toward participation in
+the destroying side itself. The difference is not scholastic. It
+is the difference between *kāla* and *nimitta-mātra*.
 
-The reception is wrong about the verse in a productive way. The
-gloss reads the disclosure as duty-claim, which makes the Trinity
-line about *permission to act* rather than *recognition of what
-time is*. Tilak's and Gandhi's activist readings license action
-*without ownership* — Arjuna as medium of a process he did not
-initiate. Oppenheimer's reception slides toward action *as
-participation in the destroying side itself*. The difference is
-not scholastic. It is the difference between *nimitta-mātra* and
-*kāla*.
+## What the chapter does not say
 
-## My reading, owned as mine, of the chapter's silent territory
-
-What I am about to say is not in the chapter. I mark this clearly.
 The Gita is silent about positions in which the human is not
 instrument but *source* — positions where the destruction is not
 *kāla*'s but the human's own. The chapter could not address them
-because they were not yet on the human horizon. They are now.
+because they were not yet on the human horizon. They are now, and
+the manuscript would be dishonest to leave the extension unowned.
+This is my reading, not the chapter's claim.
 
-My reading of how the chapter's logic would extend, if pressed:
-*be merely an instrument* presupposes a process whose source is
-not oneself. You are not authorized to claim the *kāla*-position.
-When the human is in fact the source, the instrument-framing
-collapses, and the activist license collapses with it. The
-permission structure of *anāsakti* does not extend to the role of
-the cosmic destroyer. *Kāla* is the chapter's name for what you
+The reading: *be merely an instrument* presupposes a process whose
+source is not oneself. You are not authorized to claim the
+*kāla*-position. When the human is in fact the source, the
+instrument-framing collapses, and with it the activist license.
+The permission structure of *anāsakti* does not extend to the role
+of the cosmic destroyer. *Kāla* is the chapter's name for what you
 are not.
 
-This is my reading. It is not the chapter's claim. You can
-disagree on that ground — the chapter does not say this; I am the
-one saying it. You can also push back differently: the
-source/medium distinction is harder to draw in practice than my
-argument requires, and humans in 2026 are almost always somewhere
-on a continuum between agent and instrument of larger processes.
-The pushback is fair. The discernment is not trivial. But the
-discernment is the point. The chapter does not perform it for you.
-The chapter's logic extended, on my reading, asks you to perform
-it case by case, knowing the answer in some cases will be that the
-activist license does not apply.
+You can push back. The source/medium distinction is harder to draw
+in practice than my argument requires; humans in 2026 are almost
+always somewhere on a continuum between agent and instrument of
+larger processes. The pushback is fair. But the discernment is the
+point — the chapter does not perform it for you, and on my reading
+its logic asks you to perform it case by case, knowing the answer
+in some cases will be that the activist license does not apply.
 
-What the extension is *for* in 2026 is the situation of the worker
-at an AI lab whose system is reshaping cognition at scale; the
-researcher in synthetic biology whose tools are within reach of
-catastrophe; the strategist in a defense ministry deciding what
-weapons to deploy; the engineer at a fossil-fuel firm whose work
-is, in aggregate, the largest single contributor to the planetary
-process the chapter would have called *kāla*'s alone. None of
-these is *kāla*. Each is contributing to a process whose source
-includes their own deliberate action. The *anāsakti* available to
-Arjuna is not available to the agent who is in part the *kāla* of
-their own context. Whether the discernment yields *I am
-instrument* or *I am source* is the work you must do.
-
-I would not press this further. The Gita is silent. My reading is
-an extension. But the distinction it preserves — between being
-*nimitta-mātra* in a process larger than yourself and assuming the
-authorial role of the cosmic destroyer — is the most important
-thing this chapter can say to you in 2026, and the manuscript would
-be dishonest if it left the extension unowned.
+The extension is *for* the situation of the worker at an AI lab
+whose system is reshaping cognition at scale; the researcher in
+synthetic biology whose tools are within reach of catastrophe; the
+strategist in a defense ministry deciding what weapons to deploy;
+the engineer at a fossil-fuel firm whose work is, in aggregate, the
+largest single contributor to the planetary process the chapter
+would have called *kāla*'s alone. None of these is *kāla*. Each is
+contributing to a process whose source includes their own
+deliberate action. The *anāsakti* available to Arjuna is not
+available to the agent who is in part the *kāla* of their own
+context. Whether the discernment yields *I am instrument* or *I am
+source* is the work you must do.
 
 ## What the chapter is for in your week
 

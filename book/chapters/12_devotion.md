@@ -2,27 +2,32 @@
 
 The qualities Krishna names at the end of this chapter are not
 virtues you add one by one. They are what shows up in a person whose
-attention has been turned at what they actually love. Non-grasping
-is what happens to a self that has stopped using the world to
-modulate its own pleasure and anxiety. Friendliness is what is left
-when you stop needing to dominate every interaction. Compassion is
-what perception becomes when it is no longer filtered through what
-the other person can do for you. The list at 12.13–12.20 is one
-capacity in many guises, and the capacity is the trained, just,
-loving gaze. The qualities are not the work. The work is the training
-of the gaze. The qualities take care of themselves once the gaze is
-in place.
+attention has been turned at what they actually love. *Bhakti* —
+devotion; love-with-attention turned at what one takes to be
+ultimately worth one's life — is structurally diagnosable, and the
+list at 12.13–12.20 is the diagnostic. Non-grasping is what happens
+to a self that has stopped using the world to modulate its own
+pleasure and anxiety. Friendliness is what is left when you stop
+needing to dominate every interaction. Compassion is what perception
+becomes when it is no longer filtered through what the other person
+can do for you. One capacity in many guises, and the capacity is the
+trained, just, loving gaze. The qualities are not the work. The work
+is the training of the gaze. The qualities take care of themselves
+once the gaze is in place. This chapter's stance, held throughout, is
+accessibility, not supremacy. The path of devotion to the personal
+divine is not metaphysically higher than meditation on the
+imperishable unmanifest. It is more accessible to creatures who have
+bodies, because the impersonal demands a self-displacement that most
+embodied beings are not capable of on most days.
 
-This is what makes the chapter diagnostic. *Bhakti* — devotion;
-love-with-attention turned at what one takes to be ultimately worth
-one's life — is structurally diagnosable. You do not have to take
-anyone's word, including your own, for whether your devotion is real.
-You can look at how you treated the person who insulted you yesterday,
-at how you held the project that failed last quarter, at how you sat
-beside the parent who no longer recognized you. If the qualities
-showed up, the practice has taken hold. If they did not, no amount of
-devotional intensity, ritual frequency, or doctrinal correctness
-substitutes. That is the chapter's claim, and everything else follows.
+You do not have to take anyone's word, including your own, for
+whether your devotion is real. You can look at how you treated the
+person who insulted you yesterday, at how you held the project that
+failed last quarter, at how you sat beside the parent who no longer
+recognized you. If the qualities showed up, the practice has taken
+hold. If they did not, no amount of devotional intensity, ritual
+frequency, or doctrinal correctness substitutes. That is the
+chapter's claim, and everything else follows.
 
 Chapter 9 already named the practice. Chapter 12 returns because
 Arjuna sharpens the question. Of those who fix their minds on the
@@ -53,12 +58,14 @@ in pleasure and pain, forgiving. Content, self-controlled, with mind
 and intellect given over to the divine. One who does not agitate the
 world and is not agitated by it; free from elation, intolerance,
 fear, anxiety. Unconcerned with worldly gain, pure, skilled,
-indifferent to ordinary cares. Neither rejoicing nor hating, neither
-grieving nor craving, having given up both pleasant and unpleasant
-outcomes. Same to friend and enemy, in honor and dishonor, in heat
-and cold, joy and sorrow, taking praise and blame equally, silent,
-content with whatever comes, without fixed dwelling, steady in mind,
-full of devotion. *Such ones are extremely dear to me.*
+indifferent to ordinary cares.
+
+Neither rejoicing nor hating, neither grieving nor craving, having
+given up both pleasant and unpleasant outcomes. Same to friend and
+enemy, in honor and dishonor, in heat and cold, joy and sorrow,
+taking praise and blame equally, silent, content with whatever comes,
+without fixed dwelling, steady in mind, full of devotion. *Such ones
+are extremely dear to me.*
 
 Two structural features of the list decide how to read it. First,
 most of the qualities are named by what is *absent*. *Advesta* —
@@ -193,42 +200,26 @@ for. That state does not return. The transition from being acted on
 by love to practicing love is what most marriages that end did not
 survive, because no one named it.
 
-It clarifies the craft you have given yourself to — writing, music,
-science, carpentry, teaching, gardening, the slow labors of any
-field. The qualities list describes mature dedication from the
-inside. Not envious of similar work. Friendly toward the work on bad
-days. Compassionate toward students and beginners. Free of "I"-ness
-in the sense that the work is not primarily about your ego.
-Equanimous when a piece succeeds and when it fails. Disciplined
-enough to keep showing up. The craft is the *priya*. The practice of
-the craft is the bhakti. The structure is already at work in the
-lives of people who have given themselves to something that matters
-more to them than their own moods.
+Read 12.6–12.12 also as decision support for what cannot be settled
+by calculation: marriage, having a child, taking on a parent's care,
+pursuing a vocation that will not pay reliably. If the orientation is
+steady, proceed. If not, practice — behave as if. If you cannot
+practice, do the actions the commitment would require, as offering
+rather than confidence. If you cannot do that, at least release the
+fruits — the future-imagined outcomes your refusal is currently
+protecting. This is how commitment gets constructed by people who do
+not yet have it. Full attention, behaving as if, and the orientation
+gets built by the doing.
 
-It also clarifies decisions that cannot be made by calculation:
-marriage, having a child, starting a long project, taking on a
-parent's care, pursuing a vocation that will not pay reliably. Read
-the ladder of 12.6–12.12 as decision support — a sequence of fallback
-positions for someone who cannot yet generate the full commitment
-they would like to make. If the orientation is steady, proceed. If
-not, practice — behave as if. If you cannot practice, do the actions
-the commitment would require, as offering rather than confidence. If
-you cannot do that, at least release the fruits — the future-imagined
-outcomes your refusal is currently protecting. This is how commitment
-gets constructed by people who do not yet have it. This is how you
-get married, become a parent, start the book, move the parent in.
-Full attention, behaving as if, and the orientation gets built by
-the doing.
-
-The last application matters most for a finite life. There are
-projects worth giving yourself to that you will not see complete. A
-parent's final years. A child's adulthood. A long collaboration. A
-slow art. A society's slow improvement. Full engagement and
-non-attachment to fruits is, for these, the only sustainable mode.
-Full engagement, because half-hearted engagement betrays the project.
-Non-attachment to fruits, because the fruits are not the point and
-may not arrive in your time. *Priya* — that to which you belong —
-does not require completion. It requires presence.
+The diagnostic carries, finally, the projects worth giving yourself
+to that you will not see complete. A parent's final years. A child's
+adulthood. A long collaboration. A slow art. A society's slow
+improvement. Full engagement and non-attachment to fruits is, for
+these, the only sustainable mode. Full engagement, because
+half-hearted engagement betrays the project. Non-attachment to
+fruits, because the fruits are not the point and may not arrive in
+your time. *Priya* — that to which you belong — does not require
+completion. It requires presence.
 
 Even without a theological commitment, the chapter cuts. *Param
 ayanam* — supreme goal, ultimate refuge — is the technical term.
@@ -252,15 +243,6 @@ consider whether that is the *priya* you want to have. The diagnosis
 is the same whether the *priya* is named Krishna or named something
 else. The chapter does not insist on the name. It insists on the
 diagnostic.
-
-Where this chapter lands — and where this book stands on devotion as
-a practice — is on accessibility, not supremacy. The path of devotion
-to the personal divine is not metaphysically higher than meditation
-on the imperishable unmanifest. It is more accessible to creatures
-who have bodies. For most readers, most of the time, the personal
-path is right not because the impersonal is lesser but because the
-impersonal demands a self-displacement most embodied beings are not
-capable of on most days.
 
 What chapter 12 adds to chapter 9 is the diagnostic. Chapter 9 named
 the practice — love-with-attention turned at what you take to be
@@ -295,7 +277,7 @@ anything in particular. It needs you to look honestly at how you
 treated the last person who insulted you, the last project that
 failed, the last person who could not give back what you gave.
 
-Love is the moral faculty. The qualities are its consequences. The
+Love is the moral faculty; the qualities are its consequences. The
 path descends in demand, not in dignity. The test is whether, by the
 time the day is over, the person who needed you most got what you
 actually had to give.

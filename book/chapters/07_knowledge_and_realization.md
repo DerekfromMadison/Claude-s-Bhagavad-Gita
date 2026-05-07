@@ -51,43 +51,39 @@ body is wholly the embodied self's. The divine is the inner self
 of the cosmos. The cosmos is the divine's outward form. They are
 distinct, and they are not separate.
 
-I want you to feel the weight of that floor before I show you what
-I am reading against.
-
 Shankara reads the chapter differently. He is the great
 non-dualist of the Indian tradition, and the experiential force of
 his reading is real. Beneath the surface self, he says, there is
 the awareness in which the surface self arises, and that awareness
 is not finally distinct from the awareness in which all selves
-arise. The world's plurality is real to the perceiver who is still
-in the gunas-driven flicker, and not finally real to the awareness
-that has come through. The cost of his reading is borne by the
-world. He has to read the Gita's affirmations of the divine's
-distinct, supreme, personal nature as not finally meant in their
-straightforward sense. The water is finally not water. The face
-across the room is finally not the face.
+arise. The world's plurality is real to the perceiver still in the
+gunas-driven flicker, and not finally real to the awareness that
+has come through. The cost is borne by the world. He has to read
+the Gita's affirmations of the divine's distinct, supreme,
+personal nature as not finally meant in their straightforward
+sense. The water is finally not water. The face across the room is
+finally not the face.
 
-I read against him here. I want to do it carefully, because his
-reading is serious and his contemplative practice has shaped a
+The strong claim that the world is finally unreal does not hold.
+His reading is serious and his contemplative practice has shaped a
 millennium of seers. But on textual fidelity, on internal
 coherence with the rest of the Gita, on the moral weight the Gita
 places on action — and on what the practice the book is teaching
-needs in order to be a real practice — the strong claim that the
-world is finally unreal does not hold. The Gita is telling Arjuna
-to fight a real battle for real reasons. It is asking him to give
-up the fruits of his action, not to give up the action. It is
-teaching attention as the discipline by which a real face becomes
-more visible, not less. A finally-unreal world cannot bear that
-weight.
+needs in order to be a real practice — the claim cannot bear what
+it asks the chapter to bear. The Gita tells Arjuna
+to fight a real battle for real reasons. It asks him to give up
+the fruits of his action, not the action. It teaches attention as
+the discipline by which a real face becomes more visible, not
+less. A finally-unreal world cannot bear that weight.
 
 Shankara's diagnosis stays. The contemplative practice his
 metaphysics underwrites — the patient seeing through the surface
 self, the recognition that awareness is the medium in which
 experience arises — is one of the great inheritances of human
 contemplation, and any honest reading of the Gita has to be
-informed by it. The point I am making against him is narrow. The
-depths the contemplative practice opens are depths *within* the
-world's reality, not evidence that the world is finally unreal.
+informed by it. The point against him is narrow. The depths the
+contemplative practice opens are depths *within* the world's
+reality, not evidence that the world is finally unreal.
 
 The chapter's grammar at 7.14 makes the case. *Daivī hy eṣā
 guṇamayī mama māyā.* This *māyā* is *daivī* — divine, not
@@ -96,9 +92,8 @@ structured. It is *mama* — mine, possessed by Krishna, located in
 him. Not an autonomous principle of unreality. The power by which
 the divine appears as the world while remaining beyond the world,
 hard to cross because the gunas-driven mind keeps mistaking the
-appearing for the source. The grammar gives a different weight
-than Shankara's reading wants. It is the divine's own veiling
-power, not the world's unreality.
+appearing for the source. The divine's own veiling power, not the
+world's unreality.
 
 So: the world is real. The divine is real. The relation is
 intimate without being identity. The depths that contemplative
@@ -170,8 +165,8 @@ is in front of you — that is the practice.
 
 ---
 
-I want to put a concrete situation in front of you, because the
-abstraction will not land otherwise.
+A concrete situation, because the abstraction will not land
+otherwise.
 
 You have been having the same disagreement with someone you love
 for years. A partner, a parent, a sibling, a grown child. Pick the
@@ -219,19 +214,18 @@ what is behind them. The chapter does. *Maya* names the screens.
 *Vijñāna* is the practice of seeing through them to what is
 actually there.
 
-This is also where Spinoza's intuition about the structure of the
-world meets the Gita. One substance, expressed in modes; nothing
-behind the world, the world itself the medium of what is most
-real. Spinoza is closer to this chapter than the philosophical
-tradition usually grants. His God is not a being separate from
-nature, glimpsed at a distance through the veil. His God is the
-inwardness of nature itself. Ramanuja and Spinoza, working in
-languages that never met, arrived at structurally similar
-positions: the world is not less than fully real, and is not other
-than the divine's expression.
+Spinoza, working in a language that never met Sanskrit, arrived
+at a structurally similar position: one substance, expressed in
+modes; nothing behind the world; the world itself the medium of
+what is most real. His God is not a being separate from nature,
+glimpsed through a veil. His God is the inwardness of nature
+itself. You do not need him to hold the chapter's claim. The
+parallel matters because two contemplative traditions, working
+independently, found their way to the same floor: the world is not
+less than fully real, and is not other than the divine's
+expression.
 
-You do not need either of them to hold the chapter's claim. You
-need to notice what happens when you stop holding the world as
+Notice what happens when you stop holding the world as
 half-real. The face becomes visible again. The work becomes the
 work again. The grief becomes a real grief, and the love becomes a
 real love, and the day becomes a day you are inside, not a day you
@@ -293,8 +287,6 @@ you are standing inside.
 
 ---
 
-That last image is what I want to leave you with.
-
 You can take the world as a screen you are projecting on. Many
 readers of philosophy and contemplative literature have. Some
 technologists do. Some serious meditators do. The position has
@@ -311,11 +303,9 @@ table and this work in your hands and this hour of your day, what
 is given is given. Not later. Not behind. Here.
 
 The chapter's last verse says the one who has known me, knows me
-at the moment of death. You can take this metaphysically, as the
-Gita means it. You can also take it as a structural claim about a
-life: what you have actually seen, in the sustained practice of
-seeing, is what you carry through the moments when you have
-nothing else.
+at the moment of death. A structural claim about a life: what you
+have actually seen, in the sustained practice of seeing, is what
+you carry through the moments when you have nothing else.
 
 The practice is to see. The world is real. There is something here
 to be seen.

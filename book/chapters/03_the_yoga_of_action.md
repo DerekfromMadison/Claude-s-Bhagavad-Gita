@@ -13,16 +13,13 @@ status: rewrite-2-direct-address
 That is the chapter's claim and its operating premise. The fantasy of
 clean retreat — the one Arjuna proposed when he sat down in the
 chariot, the one you propose every time you imagine the sabbatical
-that will fix the wrong life — is structurally impossible. Not
-forbidden. Impossible. What can be trained is not whether you act
-but the *form* your acting takes. Chapter 3 is the manual for that
-form, and it gives you four pillars to stand on: *anasakti* (no
-grasping at outcomes), *yajna* (action as offering), *svadharma*
-(your own particular work), and *lokasangraha* (the holding-together
-of the world). The four are not a menu. They are a structure. You
-stand inside the whole structure or none of it.
-
-## The exit that does not exist
+that will fix the wrong life — is impossible. Not forbidden.
+Impossible. What can be trained is not whether you act but the *form*
+your acting takes. Chapter 3 gives you four pillars to stand on:
+*anasakti* (no grasping at outcomes), *yajna* (action as offering),
+*svadharma* (your own particular work), and *lokasangraha* (the
+holding-together of the world). The four are not a menu. They are a
+structure. You stand inside the whole structure or none of it.
 
 Arjuna's question opens the chapter, and it is not a stupid question.
 *If knowledge is so superior, why are you sending me into this
@@ -33,49 +30,41 @@ more, why should I keep acting in this outer one?* The question
 contains a real intuition. Action does seem coarser than knowledge.
 The contemplative does seem to have stepped onto a quieter stair.
 
-Krishna's reply at 3.5 is structural rather than moral. He does not
-tell Arjuna that withdrawal is wrong. He tells him it is impossible.
-*Na hi kascit ksanam api jatu tisthaty akarma-krt* — no one, even
-for a moment, ever rests without performing action. To be embodied
-is to be moved by the *gunas*, the modes of nature Chapter 14 will
-name. The wish to abstain is itself a form of acting. Sitting down
-in the chariot is an act. Announcing your renunciation is an act.
-Choosing not to choose is a choice. The fantasy of a position
-outside action is, on this account, a confusion about what kind of
-being you are.
+Krishna's reply at 3.5 does not tell Arjuna that withdrawal is wrong.
+It tells him it is impossible. *Na hi kascit ksanam api jatu tisthaty
+akarma-krt* — no one, even for a moment, ever rests without
+performing action. To be embodied is to be moved by the *gunas*, the
+modes of nature Chapter 14 will name. The wish to abstain is itself
+a form of acting. Sitting down in the chariot is an act. Announcing
+your renunciation is an act. Choosing not to choose is a choice. The
+fantasy of a position outside action is a confusion about what kind
+of being you are.
 
 Arendt makes the same point phenomenologically. To withdraw from
 public action is not to take a stance but to refuse the stance-
 taking that being human requires. *With word and deed we insert
 ourselves into the human world.* The insertion is what she calls a
-second birth — the human gesture that makes a life out of the
-naked physical fact. Refuse the gesture and you have not stepped
-outside the field; you have only taken a quieter, less honest
-position inside it. Arendt is not in conversation with the Gita.
-She is recovering vocabulary for a Europe that had collapsed all
-human activity into labor. But her argument and Krishna's converge:
-there is no neutral place outside the human field. The contemplative
-who imagines they have stepped out has stepped, and the step is
-itself an entry.
+second birth — the human gesture that makes a life out of the naked
+physical fact. Refuse the gesture and you have not stepped outside
+the field; you have only taken a quieter, less honest position
+inside it. Her argument and Krishna's converge: there is no neutral
+place outside the human field. The contemplative who imagines they
+have stepped out has stepped, and the step is itself an entry.
 
-This is worth saying clearly because the most lucrative industry of
-your present moment is selling withdrawal as a product. Retreat
-center. Sabbatical. Digital detox. Silent week in Tulum. Morning
-routine that promises the rest of the day will arrange itself
-around it. Meditation app sold as exit from the day rather than
-preparation for it. The wellness-industrial complex offers the
-fantasy you came to the Gita to verify, and the Gita, in its third
-chapter, refuses to verify it.
+The most lucrative industry of your present moment is selling
+withdrawal as a product. Retreat center. Sabbatical. Digital detox.
+Silent week in Tulum. Morning routine that promises the rest of the
+day will arrange itself around it. Meditation app sold as exit from
+the day rather than preparation for it. The wellness-industrial
+complex offers the fantasy you came to the Gita to verify, and the
+Gita refuses to verify it.
 
 The chapter does not condemn rest. Rest is not the target. The
-target is rest used as alibi. *To what are you stepping back forward?*
-That is the question Chapter 3 asks anyone who has stepped back. If
-the answer is *nothing*, the step back is itself a form of
-unconscious acting, usually an unhealthy one. The sabbatical that is
-not in service of returning to better engagement is a slower form of
-the same flight that prompted it. The retreat that is not metabolized
-back into the life that produced the need for retreat is decoration
-on the same wound.
+target is rest used as alibi. *To what are you stepping back
+forward?* If the answer is *nothing*, the step back is itself a
+form of unconscious acting. The sabbatical not in service of
+returning to better engagement is a slower form of the same flight
+that prompted it.
 
 ## *Yajna*: action as offering
 
@@ -102,17 +91,19 @@ But it gives the chapter its widest vocabulary.
 The trouble is that *offering* sounds religious, and if you are not
 religious you will reasonably ask whether the chapter has anything
 to say to you. Here MacIntyre does the work of translation. A
-*practice*, on his account, is a coherent cooperative activity
-through which goods *internal* to that activity get realized in the
-course of trying to achieve the standards of excellence appropriate
-to it. The crucial distinction is between *internal goods* — what
-is good about doing the practice well, on its own terms — and
-*external goods* — money, status, prestige, reputation. A surgeon's
-externals: income, referral network. Her internals: the diagnosis
-well-made, the decision tree well-walked, the patient stitched
-together. A parent's externals: the child's admissions letter. Her
-internals: years of presence, the intuition for this child's mood,
-the conversation at the kitchen table on a Tuesday at 9 p.m.
+*practice*, in his technical sense, is not a workout or a hobby; it
+is a coherent cooperative activity — medicine, teaching, parenting,
+chess, farming — through which goods *internal* to that activity
+get realized in the course of trying to achieve the standards of
+excellence appropriate to it. The crucial distinction is between
+*internal goods* — what is good about doing the practice well, on
+its own terms — and *external goods* — money, status, prestige,
+reputation. A surgeon's externals: income, referral network. Her
+internals: the diagnosis well-made, the decision tree well-walked,
+the patient stitched together. A parent's externals: the child's
+admissions letter. Her internals: years of presence, the intuition
+for this child's mood, the conversation at the kitchen table on a
+Tuesday at 9 p.m.
 
 This is the cleanest modern translation of *yajna* I know. To act
 for the internal goods of a practice is to act in the spirit of
@@ -167,34 +158,22 @@ it as a discipline, occasionally, on better days, and lose it again
 on worse ones. The chapter recommends the discipline. It does not
 promise the state.
 
-Modern science has its own version of the same finding, smaller in
-scope but striking in its specificity. Deci's 1971 Soma puzzle
-study: pay people to do something they already enjoy, and they do
-less of it in their free time afterward. Fifty years of subsequent
-work in Self-Determination Theory, with Deci and Ryan, has named
-this the *undermining effect* of extrinsic rewards on intrinsic
-motivation. Across the literature: intrinsically pursued activities
-produce more sustained effort, better creative performance on
-complex tasks, and higher well-being than activities pursued for
-external contingencies. SDT names three psychological needs whose
-satisfaction predicts well-being across cultures — autonomy,
-competence, relatedness — and the convergence with Chapter 3, where
-it appears, is striking. The chapter's recommendation, in SDT
+Modern science has its own version of the same finding. Deci's 1971
+Soma puzzle study: pay people to do something they already enjoy,
+and they do less of it in their free time afterward. Fifty years of
+subsequent work in Self-Determination Theory has named this the
+*undermining effect* of extrinsic rewards on intrinsic motivation.
+Intrinsically pursued activities produce more sustained effort,
+better creative performance on complex tasks, and higher well-being
+than activities pursued for external contingencies. SDT names three
+psychological needs whose satisfaction predicts well-being across
+cultures — autonomy, competence, relatedness — and the convergence
+with Chapter 3 is striking. The chapter's recommendation, in SDT
 vocabulary, is motivational hygiene: orient toward the intrinsic
 structure of the practice rather than toward extrinsic
 contingencies. The chapter goes further; it adds a metaphysical
-register Deci and Ryan do not have. But where they overlap, they
-overlap well. Where the science of motivation can credibly speak,
-it speaks in the chapter's direction.
-
-Csikszentmihalyi's flow research adds the second piece. Across rock
-climbers, surgeons, factory workers sampled by experience sampling,
-the moments of greatest absorption arose when challenge matched skill
-in the service of an activity that had become *autotelic* —
-containing its own end. The *shape* of action Chapter 3 recommends —
-full engagement, release of the grip on outcomes external to the
-activity — is the shape flow research finds most reliably produces
-flow.
+register the science does not have. But where they overlap, they
+overlap well.
 
 ## *Svadharma*: the wrong life expertly performed
 
@@ -202,15 +181,13 @@ The third pillar is *svadharma* — your own *dharma*, the form of
 right action specific to *this* person, *this* situation, *this*
 history, *these* capacities. The locus is 3.35: *better one's own
 duty done imperfectly than another's done well; in one's own duty
-death is welcome, in another's there is danger.* The narrow reading
-of *svadharma* — duties prescribed by caste — has done historical
-damage and continues to do it. I am not defending it. The broader
-reading, which Gandhi and most modern commentators take, names
-something different: the structural fit between you and your
-particular life — the work that is yours to do, the relations yours
-to honor, the contribution you are positioned for. The narrow and
-broad readings sit in tension. I am taking the broad one as the
-chapter's living force.
+death is welcome, in another's there is danger.* Read broadly, with
+Gandhi and most modern commentators, *svadharma* names the
+structural fit between you and your particular life — the work that
+is yours to do, the relations yours to honor, the contribution you
+are positioned for. The narrow reading — duties prescribed by caste
+— has done historical damage and continues to do it. I am taking
+the broad reading as the chapter's living force.
 
 *Svadharma*'s sharpest application is to the person who has
 succeeded at someone else's life. The verse speaks to them with
@@ -316,53 +293,42 @@ survival depends on the reform succeeding, the reformer who breaks.
 The chapter has ruled all four singletons out. It recommends the
 structure.
 
-## The diagnostic
-
-So how do you know, on a Tuesday in middle life in 2026, whether you
-are inside the structure or only performing it? The chapter offers a
-diagnostic, and I will lean on it because it is the sharpest I have
-found.
+So how do you know, on a Tuesday in middle life in 2026, whether
+you are inside the structure or only performing it? The chapter
+offers one diagnostic, and it is sharp.
 
 *Does the rewards focus produce focus, or anxiety?*
 
-That is the test. If you cannot stop checking the metric, the metric
-has become the practice. If you can let the metric be a metric —
-visible, recorded, occasionally consulted, not the inner organization
-of your attention — the practice is still the practice. The writer
-trained by the platform economy to watch engagement numbers has
-slipped from the practice of writing into the meta-practice of
-watching how the writing performs. The teacher whose lesson plans
-are reverse-engineered from the standardized test has slipped from
-teaching into score-management. The doctor whose first thought
-entering each room is the billing code has slipped from medicine into
-coding. None of these workers is wicked. Each is functioning inside
-a system that has hijacked the *phala* and made it stand in for the
-practice itself. The recommendation is not to leave the system —
-that exit, again, does not exist. The recommendation is to refuse
-the substitution. Hold to what is internal. Let the metric be a
-metric.
-
-The four pillars share one diagnostic, because they are four faces
-of one structure. *Anasakti* is the inner release the question tests
-for. *Yajna* is the orientation toward internal goods that follows
-from passing the test. *Svadharma* sits in the prior question — *is
-this even my practice?* *Lokasangraha* sits in the wider one the
-diagnostic implies — *who is this practice for?*
+If you cannot stop checking the metric, the metric has become the
+practice. If you can let the metric be a metric — visible, recorded,
+occasionally consulted, not the inner organization of your attention
+— the practice is still the practice. The writer trained by the
+platform economy to watch engagement numbers has slipped from
+writing into the meta-practice of watching how the writing performs.
+The teacher whose lesson plans are reverse-engineered from the
+standardized test has slipped from teaching into score-management.
+The doctor whose first thought entering each room is the billing code
+has slipped from medicine into coding. None of these workers is
+wicked. Each is inside a system that has hijacked the *phala* and
+made it stand in for the practice itself. The recommendation is not
+to leave the system — that exit does not exist. The recommendation
+is to refuse the substitution. Hold to what is internal. Let the
+metric be a metric.
 
 You cannot withdraw. The chapter has been clear about that from its
-first verses. What you can do is choose, again, today, the form your
-unavoidable acting takes. Whether the work you cannot get out of is
-a *yajna* or a transaction. Whether the practice is yours or someone
-else's. Whether you are inside the world or pretending you have
-stepped outside it. Whether the metrics are tools or owners. The
-chapter is not asking for heroism. It is asking for the particular
-form of attention that lets a working life remain a working life
-rather than collapsing into its own scoreboard.
+first verses. What you can do is choose, again, today, the form
+your unavoidable acting takes. Whether the work you cannot get out
+of is a *yajna* or a transaction. Whether the practice is yours or
+someone else's. Whether you are inside the world or pretending you
+have stepped outside it. Whether the metrics are tools or owners.
+The chapter is not asking for heroism. It is asking for the
+particular form of attention that lets a working life remain a
+working life rather than collapsing into its own scoreboard.
 
-Ask it of one task today: *does the rewards focus produce focus, or
-anxiety?* The answer will tell you which structure you are inside —
-the one Chapter 3 recommends, or the one it spent twenty-five hundred
-years warning you about.
+Ask it of one task today: *does the rewards focus produce focus,
+or anxiety?* The answer will tell you which structure you are
+inside — the one Chapter 3 recommends, or the one it spent
+twenty-five hundred years warning you about.
 
 Arjuna will pick up the bow at the end of the book. Chapter 3 is
 where it becomes clear he was always going to.

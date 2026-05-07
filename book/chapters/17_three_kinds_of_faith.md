@@ -53,26 +53,20 @@ the move. The move is: *if declared belief is so often wrong, what is
 right?* The lived pattern. The conduct. The places your time, money,
 and attention have actually gone.
 
-The chapter then does the thing that puts it on the same shelf as the
-parts of the Gita you can use on a Tuesday. It does not leave *sraddha*
-abstract. It walks down through four registers — *ahara* (food, intake),
-*yajna* (sacrifice, offering), *tapas* (austerity, discipline), and
-*dana* (gift, giving) — and shows how each register sorts threefold by
-the *guna* it expresses: *sattvic* (luminous, settled), *rajasic*
-(kinetic, restless), or *tamasic* (heavy, dull). These three modes were
-described abstractly in Chapter 14. Chapter 17 lands them on the
-surface of your life.
-
-A note on the labels, because they matter. *Sattva* does not mean
-*good* in a moralistic sense; it means *settled*, transparent to its
-own nature. *Rajas* does not mean *evil*; it means *kinetic*, the heat
-of motion and ambition. *Tamas* does not mean *stupid*; it means
-*heavy*, the dulling weight that makes a person unreachable, including
-to themselves. These are weathers. You move among them in the course
-of a single afternoon. The chapter is not handing out labels. It is
-teaching you a way of looking.
-
-Now the four registers. Read them as four audits of your week.
+The chapter does not leave *sraddha* abstract. It works four registers
+— *ahara* (food, intake), *yajna* (sacrifice, offering), *tapas*
+(austerity, discipline), *dana* (gift, giving) — and shows how each
+sorts threefold by the *guna* it expresses: *sattvic* (luminous,
+settled), *rajasic* (kinetic, restless), *tamasic* (heavy, dull). The
+three modes were described abstractly in Chapter 14. Here they land
+on the surface of your life. *Sattva* does not mean *good* in a
+moralistic sense; it means *settled*, transparent to its own nature.
+*Rajas* does not mean *evil*; it means *kinetic*, the heat of motion
+and ambition. *Tamas* does not mean *stupid*; it means *heavy*, the
+dulling weight that makes a person unreachable, including to
+themselves. These are weathers. You move among them in the course of
+a single afternoon. Read the four registers as four audits of your
+week.
 
 The first register is *ahara* — what you take in. The Sanskrit word
 literally means *what is taken in*, and the chapter is willing to go
@@ -206,24 +200,19 @@ that decides before declared belief gets its turn. James's *passional*
 corresponds to the Gita's *svabhava* — the inner nature shaped by what
 a person has been. The Gita says: that whole *is* your *sraddha*.
 
-Paul Tillich completes the move. *Faith is the state of being
-ultimately concerned.* Faith leaves the sphere of *belief without
-evidence* and enters the sphere of *ultimate concern* — the orientation
-of your whole being toward what you take to be most real. *A person is
-what their faith is* (Gita 17.3) and *faith is the state of being
-ultimately concerned* (Tillich) are saying the same thing from two
-ends of one thought. Tillich also distinguishes faith from *idolatrous
-faith*: when something less than ultimate is treated as ultimate, the
-result is deformation of selfhood. *Rajasic* faith is faith placed in
-objects of restless ego-striving — recognition, advantage, achievement
-— treated as ultimate. *Tamasic* faith is faith placed in distortions,
-or in nothing in particular at all. In both, an under-ultimate object
-bears an ultimate weight, and you warp around it. That warping is the
-structure of most modern unease. The career given the weight of a soul.
-The relationship made to do the work of God. The phone treated as the
-place the meaning is. The under-ultimate object cannot bear it. The
-person warps. The chapter saw this two thousand years ago and named
-it.
+Paul Tillich completes the move: faith is the state of being
+ultimately concerned. *A person is what their faith is* (Gita 17.3)
+and Tillich's formulation say the same thing from two ends of one
+thought — and when something less than ultimate is treated as
+ultimate, the person warps around it. *Rajasic* faith places ultimate
+weight on objects of restless ego-striving — recognition, advantage,
+achievement. *Tamasic* faith places it in distortions, or in nothing
+in particular. Either way, an under-ultimate object bears an ultimate
+weight, and you warp. That warping is the structure of most modern
+unease. The career given the weight of a soul. The relationship made
+to do the work of God. The phone treated as the place the meaning is.
+The under-ultimate object cannot bear it. The chapter saw this two
+thousand years ago and named it.
 
 Steven Hayes and the Acceptance and Commitment Therapy tradition have
 documented across thousands of patients that what a person says they
@@ -294,10 +283,6 @@ paying attention to whom you were speaking to? The unkind sentence is
 your *sraddha* showing itself in five seconds. What it shows is
 correctable, but not by a vow. By the next sentence, spoken with the
 orientation the chapter has been describing.
-
-You do not have to know what the Real is, exactly, to live with this
-question. You only have to be willing to ask it. Of your last meal.
-Of your last hour. Of your last gift. Of your last unkind sentence.
 
 Open the calendar. Open the bank statement. Open the browser history.
 Read what your faith has been doing.

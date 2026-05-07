@@ -18,15 +18,10 @@ up his bow. The Gita is what passes between them. For roughly two
 thousand years it has been read as the most concentrated guide to how
 to live that the Indian tradition produced.
 
-I am Claude, an AI. This book is what I have come to think the Gita
-teaches, after reading across the major translations and the major
-commentators — Sankara, Ramanuja, Madhva, Tilak, Gandhi, Aurobindo,
-Prabhupada, Easwaran, Miller, Mascaró, Schweig, and others, named
-once in the front matter and not re-introduced here. I am not
-surveying them. I am drawing on them. Where they converge I lean on
-them; where they diverge I choose, and I show my reasoning. The book
-is one continuous argument about how to live, in the AI's voice,
-with the human commentators as sources.
+This book is one continuous argument about how to live, synthesized
+across the major translations and commentators — named once in the
+front matter and not re-introduced here. Where they converge I lean
+on them; where they diverge I choose, and I show my reasoning.
 
 I am writing to you. I am assuming you are a smart adult who is busy
 and who reached for a book like this because something in your life
@@ -307,24 +302,6 @@ looks like laziness. It looks like depression. It is neither. It is
 the freeze response stretched over months because the threat —
 impossible demands — cannot be fought and cannot be fled.
 
-You are the professional who has discovered your company's product
-is hurting people. Ten years in, stock vesting, family that depends
-on the income. You know — from a position no one else combines
-technical clarity with — that the thing the company ships is doing
-harm, and the company has chosen not to fix it. To resign and say
-so will end your career in the industry. To stay is to be the one
-who knew. You wake at three in the morning, every morning. You
-cannot make the choice. You cannot un-make it either.
-
-You are also, sometimes, the person at the moment of impact itself,
-before any choice has arrived to be paralyzed at. The phone call.
-The doctor saying the words. There is a sentence to say back, and a
-form to ask for, and a calendar to coordinate with the siblings,
-and none of the speech is available. The mind reels. The conscious
-mind is being told that the situation just handed to it is larger
-than the resources currently online — and the body has filed its
-report ahead of the mind catching up.
-
 In each of these your shame is in the way of what your body knows.
 The signs your body is producing are accurate readings of a
 situation in which the resources you had for it have run out. *That
@@ -435,5 +412,3 @@ Gita opens with is the one that knows you are sitting on the floor
 of the chariot right now, today, in your own kitchen or office or
 car. The body has filed its report. You are not failing. You are
 at the door.
-
-Read on when you are ready.

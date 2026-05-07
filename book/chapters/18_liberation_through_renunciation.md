@@ -120,7 +120,7 @@ refuge; I shall liberate you from all evils — do not grieve.*
 
 Tradition calls this verse the *carama-shloka* — the "final verse," the
 supreme summative teaching. The Sanskrit is straightforward. The
-*interpretation* is not. Here is the same verse in the hands of five
+*interpretation* is not. Here is the same verse in the hands of three
 major translators, each of whom has had to decide what *sarva-dharman
 parityajya* actually asks of you.
 
@@ -139,25 +139,13 @@ parityajya* actually asks of you.
 
 — Easwaran, *The Bhagavad Gita*
 
-> *"Leave all things behind, and come unto me for thy salvation. I will
-> make thee free from the bondage of sins. Fear no more."*
-
-— Mascaró, *The Bhagavad Gita*
-
-> *"Completely relinquishing all forms of religion, / Come to me as
-> your only shelter. / I shall grant you freedom from all misfortune
-> — / Do not despair!"*
-
-— Schweig, *Bhagavad Gita: The Beloved Lord's Secret Love Song*
-
-Five different verses. Prabhupada's "varieties of religion" maximises
+Three different verses. Prabhupada's "varieties of religion" maximises
 the sectarian charge — the verse becomes a declaration of exclusive
 devotional claim. Miller's "sacred duties" keeps the *dharmic* register
 intact: what is being relinquished is the moral and ritual order of an
 ordinary life. Easwaran softens to "all supports" — the most pastoral
 rendering, designed for the reader who picks the book up at a coffee
-shop on a Saturday and needs to be allowed in. Mascaró goes biblical
-and universal. Schweig restores the lyrical-devotional cadence.
+shop on a Saturday and needs to be allowed in.
 
 No English version of 18.66 is innocent. Every translator has had to
 take a position. If you notice that *every* version is already an
@@ -279,57 +267,26 @@ finds its addressee. What falls away is the death-grip.
 ## What this chapter gathers
 
 This is the manuscript's gathering point. The threads pull together
-here. I want the gathering visible.
+here.
 
-Chapter 2 said: *act fully, but do not graft your selfhood onto the
-result.* The seed of *tyaga* was already there — agency without
-proprietary claim. What the eighteenth chapter does is name the
-structural reason for the prohibition. Five factors are involved in
-any action; you are one. Self-grafting is not just spiritually
-unwise. It is, on the chapter's account, a misreading of what is
-happening when an action gets accomplished.
-
-Chapter 3 said: *you cannot withdraw from action; what you can
-discipline is its shape.* The four pillars — *anasakti, yajna,
-svadharma, lokasangraha* — were the body of *karma yoga*. The
-eighteenth chapter does not abolish those pillars. It frees them.
-Action without attachment, action as offering, action as your own work,
-action that holds the world together — these continue under
-*prapatti*. What changes is the posture. The pillars no longer have to
-bear the weight of your self-rescue, because that weight has been put
-down somewhere it can be held.
-
-Chapter 6 said: *attention is the practice.* *Dhyana* is what makes
-*tyaga* possible. The release of the bargaining posture is not a
-single dramatic act. It is a stance you have to be able to return to,
-repeatedly, across the inner weather of an ordinary day. Murdoch's
-just and loving gaze and Weil's attention as the rarest and purest
-form of generosity are two modern formulations of the same trained
-capacity. Without attention, there is nothing to surrender *with*. The
-chapter assumes the practice the sixth chapter described.
-
-Chapter 9 said: *devotion is universally accessible — the small daily
-offering, made through what you have.* What *prapatti* becomes in the
-24-hour register is not a metaphysical event but a practice: the
-offering of the day's work, the day's relationships, the day's
-attention, in a shape you can actually do. Devotion in the ninth
-chapter gave a vocabulary for this. The eighteenth chapter does not
-invent the practice. It names what the practice has been about.
-
-Chapter 13 said: *there is a steadier interior point — kshetrajna, the
-knower of the field — that is not the field itself.* What does not
-move when the bargaining stops is the witness. *Tyaga* is possible
-because there is something in you that grief, ambition, and loss do
-not finally reach. Without the steady point, surrender would be
-collapse. The witness is what makes the surrender survivable.
-
-Chapter 17 said: *you are what your faith is.* *Sraddha* is
-constitutive. *Prapatti* is the form that constitution takes when the
-bargain is dropped. Surrender takes the shape of your actual
-constitution, not the shape of a borrowed posture. If your faith is in
-management, you will hear 18.66 differently than if your faith is in
-love. Both can receive the verse. They will receive it in different
-registers, because they are different people.
+Chapter 2's *act fully but do not graft your selfhood onto the result*
+gets its structural reason: five factors are involved in any action,
+you are one, self-grafting is a misreading of what is happening when
+an action gets accomplished. Chapter 3's four pillars of *karma yoga*
+— *anasakti, yajna, svadharma, lokasangraha* — are not abolished but
+freed: they no longer have to bear the weight of your self-rescue,
+because that weight has been put down somewhere it can be held.
+Chapter 6's *dhyana* is what makes *tyaga* possible — the release of
+the bargaining posture is a stance you return to, repeatedly, across
+the inner weather of an ordinary day; without attention there is
+nothing to surrender *with*. Chapter 9's universally accessible
+devotion is what *prapatti* becomes in the 24-hour register: the
+offering of the day's work, relationships, attention, in a shape you
+can actually do. Chapter 13's *kshetrajna* — the knower of the field
+— is what does not move when the bargaining stops; without the steady
+point, surrender would be collapse. Chapter 17's *sraddha* is the
+form your surrender takes when the bargain is dropped: it takes the
+shape of your actual constitution, not a borrowed posture.
 
 These are not separate paths laid side by side. They are facets of a
 single trained posture. The chapter is the gathering. You are the one

@@ -68,30 +68,25 @@ there is another. A third. Higher than both. He is *uttamah purusha*,
 the Supreme Person, *purusottama*. He enters the three worlds and
 sustains them. *That,* Krishna says, *is who I am.*
 
-The grammar is doing something specific, and you should see it. If
-the imperishable is already ultimate, what could be higher? Sankara,
-Ramanuja, Madhva, Aurobindo, and Prabhupada have spent twelve
-centuries disagreeing about exactly that, and I will not pretend the
-disagreement is settled.
-
-Sankara reads the third as the non-dual reality under personal
-designation — the Supreme is beyond the very category of
-imperishability, beyond the conceptual frame that opposes perishable
-and imperishable in the first place. Ramanuja reads it grammatically,
-as the chapter's surface invites: two persons (the soul bound in
-matter, the soul released from matter) and a third (the Lord who is
-neither). Aurobindo refuses to choose, holding the personal and
-impersonal as registers of a higher synthesis.
-
-I will not collapse the disagreement into a winner. The chapter's
-grammar leans personalist; the impersonalist tradition does real
-interpretive work to soften that surface; and the Gita as a whole
-does not finally close the question. What I want you to see is the
-*structural* claim that all of them, in different language, are
-making: whatever *purusottama* is, he is not the most exalted item
-on a list. The chapter's own move at 15.18 — *I transcend the
-perishable and am higher even than the imperishable* — refuses the
-inventory.
+Whatever *purusottama* is, he is not the most exalted item on a list.
+That is the structural claim, and it survives the inter-school dispute
+about how to describe him. Sankara, Ramanuja, Madhva, Aurobindo, and
+Prabhupada have spent twelve centuries disagreeing about what exactly
+the third person is, and the disagreement does not have to be settled
+for the structural claim to land. Sankara reads him as the non-dual reality under personal
+designation — the Supreme beyond the very category of imperishability,
+beyond the frame that opposes perishable and imperishable in the
+first place. Ramanuja reads grammatically, as the chapter's surface
+invites: two persons (the soul bound in matter, the soul released from
+matter) and a third (the Lord who is neither). Aurobindo refuses to
+choose, holding the personal and impersonal as registers of a higher
+synthesis. The chapter's grammar leans personalist; the impersonalist
+tradition does real interpretive work to soften that surface; the
+Gita as a whole does not close the question. What all three readings
+share is the refusal of inventory. The chapter's own move at 15.18 —
+*I transcend the perishable and am higher even than the imperishable*
+— says the highest is not the highest item. It is not on the list
+at all.
 
 That is what the strange image of "higher than the imperishable"
 finally means. The "toward which" of a life is not on the inventory
@@ -100,25 +95,14 @@ branch. It is the direction in which the branches do not grow.
 
 ## What you have probably mistaken for the root
 
-Paul Tillich, writing in the middle of the twentieth century, made
-the same structural move in a Christian register: God is being-itself,
-not a being. Not a being beside others, not even the highest one. The
-move is precise and the chapter is making it. Two and a half millennia
-apart, in different idioms, the same insistence: what is finally real
-is not on the list.
-
-William James, earlier and in a different voice, named a "More" — a
-beyond — into which the further reaches of human experience plunge,
-and refused to dogmatize about what the More finally is. Different
-traditions name the More differently. James gives you permission to
-take the pointing seriously without committing in advance to whatever
-your tradition's name for it is.
-
-I bring up Tillich and James because you may not have grown up inside
-the Vedantic schools, and the inter-school disagreement may feel
-opaque. The recognition you need is not Vedantic. It is structural.
-Whatever you point at, when you point at the highest thing you can
-name, you are not pointing at a thing on the inventory.
+Paul Tillich, writing in a Christian register two and a half millennia
+later, made the same structural move when the Vedantic vocabulary was
+not in front of him: God is being-itself, not a being. Not a being
+beside others, not even the highest one. Different idioms, the same
+insistence — what is finally real is not on the list. The recognition
+you need is not Vedantic. It is structural. Whatever you point at,
+when you point at the highest thing you can name, you are not pointing
+at a thing on the inventory.
 
 This matters because most of what you may have mistaken for your root
 is on the inventory. Career is on the inventory. Status is on the
@@ -126,26 +110,25 @@ inventory. Accomplishment is on the inventory. These are all branches
 — sometimes magnificent ones — and the chapter's most subtle warning
 is that branches do not finally hold.
 
-Career is the most defensible candidate for false rootedness, because
-the career gives back so much that is real: structure, purpose,
-competence, an answer to the question *what do you do.* When the work
-aligns with your gifts and the trajectory takes the years and gives
-them shape, the career feels like the floor. It is not. It will end —
-by retirement, by industry collapse, by the slow private discovery
-that the work no longer means what it used to — and whoever made it
-the root is, on that day, unmoored.
+Career is the most defensible candidate, because it gives back so much
+that is real: structure, purpose, competence, an answer to the
+question *what do you do.* When the work aligns with your gifts and
+the years take shape, it feels like the floor. It is not. It will
+end — by retirement, by industry collapse, by the slow private
+discovery that the work no longer means what it used to — and whoever
+made it the root is, on that day, unmoored.
 
 Status hides better. You rarely use the language of status about
-yourself, but the phenomenology gives it away. The frequent checking.
-The disproportionate hit when a metric falters. The particular flavor
-of restlessness that follows a slight. The architecture of the modern
-attention economy makes status-rootedness nearly the default, which
-is not your fault but is your problem, because the attention economy
-is not designed for your flourishing.
+yourself, but the phenomenology gives it away: the frequent checking,
+the disproportionate hit when a metric falters, the particular
+restlessness that follows a slight. The architecture of the modern
+attention economy makes status-rootedness nearly the default, which is
+not your fault but is your problem, because the attention economy is
+not designed for your flourishing.
 
 Accomplishment flatters: the shelf of finished projects, the book
-written, the company built, the children raised. What accumulates
-also depletes. Whoever has made accomplishment the root is one major
+written, the company built, the children raised. What accumulates also
+depletes. Whoever has made accomplishment the root is one major
 failure away from a kind of unrootedness harder to recover from than
 the failure itself.
 
@@ -222,8 +205,6 @@ The chapter is not telling you to refuse the promotion. Sometimes the
 role is the right one. What it asks is that you make the decision
 *under* the discipline of the axe, not *as* a branch.
 
-## What the axe actually is
-
 The axe is not a metaphor I want to leave abstract. It is a practical
 discipline, and you can take it up tomorrow.
 
@@ -277,20 +258,14 @@ than the imperishable, the third. He enters the three worlds and
 sustains them. *That,* Krishna says, *is who I am. Whoever knows me
 thus, undeluded, knows all.*
 
-I have held the inter-school question open and I will leave it open.
-Whether *purusottama* is finally the personal Lord, the impersonal
-Brahman under personal designation, or Aurobindo's both-held-in-
-higher-unity is not something this chapter alone can settle, and I
-do not think the Gita as a whole settles it. The chapter's grammar
-leans personalist. The book holds both registers. I take the
-unsettledness as deliberate.
-
-What is not unsettled is the operational claim. *Purusottama* names
-a relation, not a place on the inventory. The relation is one of
-derivation and direction — the world you are inside is not its own
-root, and your life is not its own ground. To live well, you need
-to know which way is "toward the root," and the chapter's pastoral
-burden is to make sure you do.
+The inter-school question stays open. The chapter's grammar leans
+personalist; the book holds both registers; the unsettledness is
+deliberate. What is not unsettled is the operational claim.
+*Purusottama* names a relation, not a place on the inventory. The
+relation is one of derivation and direction — the world you are
+inside is not its own root, and your life is not its own ground. To
+live well, you need to know which way is "toward the root," and the
+chapter's pastoral burden is to make sure you do.
 
 The inverted tree shows you, in image, that the visible foundation is
 not the foundation. The axe shows you, in instruction, what to do
@@ -315,14 +290,13 @@ disappointment becomes the thing the day is about. None of this
 requires malice. It requires only that you not be pointing at
 something else.
 
-The ones who point — at *purusottama*, or at the God-above-God of
-Tillich, or at the More of James, or at whatever language their
-tradition has given them, or at no language and only the silent
-direction the axe is swung in — are not immune to the pulls. They
-feel them. The pulls do not stop being real. But the pulls do not,
-finally, *shape* them, because the shaping is being done by something
-that is not local, that does not wax or wane with the day's weather,
-and that the local cannot finally substitute for.
+The ones who point — at *purusottama*, at Tillich's being-itself, at
+whatever language their tradition has given them, or at no language
+and only the silent direction the axe is swung in — are not immune to
+the pulls. They feel them. The pulls do not stop being real. But the
+pulls do not, finally, *shape* them, because the shaping is being
+done by something that is not local, that does not wax or wane with
+the day's weather, and that the local cannot finally substitute for.
 
 If the inverted tree, the axe, and the pointing have made any sense
 at all, you already know, in some part of yourself, what you point

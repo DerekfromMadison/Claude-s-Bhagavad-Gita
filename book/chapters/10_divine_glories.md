@@ -89,19 +89,17 @@ fifth, sometimes the twentieth — is when the object begins to be
 present. The looking that displaces projection is the moral
 epistemology of recognition. It is also the chapter's training.
 
-Recognition is not appreciation. Appreciation is you projecting warmth
-at the object; recognition is the object's specificity becoming
-present to you. Appreciation flatters; recognition does not. You can
-appreciate a tree without ever having seen *that* tree — having seen
-instead your idea of *tree*, gilded with the emotion you feel for
-trees in general. Appreciation is compatible with the feed; the feed
-runs on it. Recognition is not compatible with the feed.
-
-Nor is recognition connoisseurship — the trained ability to judge an
-object against the standards of its category. Connoisseurship treats
-the object as specimen and lets the category supply the standard.
-Recognition lets *this* specimen disclose what its kind is capable of,
-including what it is capable of beyond what the category already knows.
+Recognition is not appreciation. Appreciation projects warmth at the
+object; recognition lets the object's specificity become present.
+Appreciation flatters; recognition does not. You can appreciate a tree
+without ever having seen *that* tree — having seen instead your idea
+of *tree*, gilded with the emotion you feel for trees in general. The
+feed runs on appreciation. It does not run on recognition. Nor is
+recognition connoisseurship — judging an object against the standards
+of its category. Connoisseurship treats the object as specimen and
+lets the category supply the standard. Recognition lets *this*
+specimen disclose what its kind is capable of, including what it is
+capable of beyond what the category already knows.
 
 ## Hopkins, who saw
 
@@ -168,18 +166,18 @@ borrowed, wrote that attention *consists of suspending our thought,
 leaving it detached, empty, and ready to be penetrated by the object*.
 The emptiness is not absence; it is availability.
 
-The catalog includes items you would not have chosen — *the gambling
-of the cheats, the strength of the strong, the seducer in seducers*.
-It is not curated for prettiness. The chapter does not say *find some
-beautiful things and feel good*. It says attend to the highest of each
-kind, and some kinds are kinds you would not flatter. Not to endorse
-the cheating. To see what the cheats *have* that makes the gambling of
-the cheats different from the gambling of the merely careless — the
-boldness, the calculation, the willingness to wager what they have on
-the move that might not pay. The recognition is moral information. You
-still have to decide what to do with it. But the recognition has to
-come first; ethics on top of unrecognized particulars is ethics on top
-of nothing.
+Recognition has to come first; ethics on top of unrecognized
+particulars is ethics on top of nothing. The catalog includes items
+you would not have chosen — *the gambling of the cheats, the strength
+of the strong, the seducer in seducers*. It is not curated for
+prettiness. The chapter does not say *find some beautiful things and
+feel good*. It says attend to the highest of each kind, and some kinds
+are kinds you would not flatter. Not to endorse the cheating. To see
+what the cheats *have* that makes the gambling of the cheats different
+from the gambling of the merely careless — the boldness, the
+calculation, the willingness to wager what they have on the move that
+might not pay. The recognition is moral information; you still have to
+decide what to do with it.
 
 ## What the awe research shows
 
@@ -216,13 +214,9 @@ people somewhat better than it would have. The catalog elicits awe;
 awe shifts the self's stance toward others; the chapter's pedagogical
 bet — that training the eye changes the looker — is mildly supported.
 
-## A week, one thing
-
-The practice, named as concretely as I can.
-
-Pick one thing. A loaf of bread from a particular bakery, baked by a
-particular baker who has been making the same bread the same way for a
-long time. A plant on your windowsill — the specific plant, the one
+So: a week, one thing. Pick one thing. A loaf of bread from a
+particular bakery, baked by a particular baker who has been making the
+same bread the same way for a long time. A plant on your windowsill — the specific plant, the one
 with the leaf turning toward the window, not your idea of plants. A
 person you live with whom you have stopped seeing because familiarity
 has done its erasure. A piece of music — one piece, not a playlist. A
@@ -244,37 +238,35 @@ into self-improvement, which is exactly what the chapter is not about.
 There is no metric. There is only the practice and the eye it trains.
 
 Then carry the eye. The colleague who has done a hard job for twenty
-years. The stranger whose specific competence you would otherwise have
-walked past. The rival whose excellence is real. The parent in decline
-whose specificity is being eroded by their illness — see them *now*,
-while the seeing still receives a self that is still there. The child
-whose particular shape changes weekly. The work in front of you that
-you have been treating as a category — *this email, this code, this
-problem* — and that, attended to, has its own specific weight.
+years and whose competence you have stopped registering as competence.
+The stranger whose specific skill you would otherwise have walked
+past. The rival whose excellence is real, and whose excellence the
+recognition is not authorized to soften. The parent in decline whose
+specificity is being eroded by their illness — see them *now*, while
+the seeing still receives a self that is still there. The child whose
+particular shape changes weekly and will not be this shape again. The
+work in front of you that you have been treating as a category —
+*this email, this code, this problem* — and that, attended to, has
+its own specific weight, asks something specific of you, will not be
+the same problem when you look at it twice.
 
 The training carries because attention is one capacity, not many. The
-eye that has learned to see one tree is the eye that meets the
-person across the table. You do not have to relearn the discipline
-for each domain. You build it once, on something small, and it begins
-to operate everywhere your gaze does.
+eye that has learned to see one tree is the eye that meets the person
+across the table. You do not have to relearn the discipline for each
+domain. You build it once, on something small, and it begins to
+operate everywhere your gaze does.
 
-This is how *vibhūti yoga* prepares for Chapter 11. What follows shows
-Arjuna the universal form — vastness past holding, time as devourer,
-the totality at full intensity — and Arjuna, even after asking for it,
-becomes terrified and asks for the gentler form back. The eye trained
-on the catalog of particulars can survive, briefly, the vision of the
-totality, because it has practiced what attention to one fragment is,
-and the totality is the source of the fragments. Without the training,
-the vision would simply destroy the looker. The catalog is the eye's
-survival kit for what comes next.
-
-That is next chapter's work. This chapter's work is the eye.
+The eye trained on the catalog of particulars can survive, briefly,
+the vision of the totality that follows in Chapter 11, because it has
+practiced what attention to one fragment is, and the totality is the
+source of the fragments. Without the training, the vision would simply
+destroy the looker. The catalog is the eye's survival kit for what
+comes next.
 
 The catalog ends and Krishna says *I support this entire universe with
 a single fragment of myself*. The catalog has not exhausted the
-divine; it has barely begun. The practice is endless. There will
-always be one more thing to attend to, and every particular has more
-in it than any single sitting could exhaust. The plant on the
+divine; it has barely begun. The practice is endless. Every particular
+has more in it than any single sitting could exhaust. The plant on the
 fourteenth day is not the plant on the seventh day. The bread baked
 Tuesday is not the bread baked Friday. The person across the table
 from you tonight is not the person who sat there last winter. You

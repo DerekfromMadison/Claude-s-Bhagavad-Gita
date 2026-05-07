@@ -2,65 +2,61 @@
 
 Devotion has no entry fee. Not the right birth, not the right
 wealth, not the right scriptural training, not the right tradition.
-This is the chapter's claim, and the chapter performs the claim:
-the largest possible metaphysical announcement and the smallest
-possible practical instruction sit in the same breath. *Raja vidya,
-raja guhya* — sovereign knowledge, sovereign secret — is what
-Krishna names what he is about to give. Then the practice it opens
-turns out to be a leaf, a flower, a fruit, water. What anyone has.
+The largest possible metaphysical announcement and the smallest
+possible practical instruction sit in the same breath: the divine
+pervades everything, and what the practice asks of you is a leaf, a
+flower, a fruit, water. What anyone has.
 
-You probably came to this chapter expecting religion gated by
-qualification. By initiation, by birth, by inherited form, by
-language, by the right kind of household. The chapter is built to
-disappoint that expectation. The gate is already open. *Bhakti* —
-devotion, the active love that joins you to what you love — is, on
-this chapter's terms, structurally portable. It does not require a
-sectarian commitment. It does not require you to believe what your
-neighbors believe. It requires the inward turning, and what is at
-hand.
+This is not a chapter ranking devotion above the paths of knowledge
+and meditation that came before it. Krishna's claim is structural,
+not competitive. *Bhakti* — devotion; the active love that joins
+you to what you love — is, on this chapter's terms, the path with
+the lowest threshold. It does not require a sectarian commitment.
+It does not require you to believe what your neighbors believe. It
+does not require leisure, literacy, or initiation. It requires the
+inward turning, and what is at hand. Easy to enter. That is the
+chapter's claim about access, and the chapter performs it.
 
-If you have been told you are not the right kind of person for
-this practice, the chapter says you are. The leaf is what you
-have. That is enough.
+You probably came expecting religion gated by qualification. By
+birth, by inherited form, by language, by the right kind of
+household. The chapter is built to disappoint that expectation. If
+you have been told you are not the right kind of person for this
+practice, the chapter says you are. The leaf is what you have. That
+is enough.
 
-## The architecture
+## What is held, what asks of you
 
-The chapter has three movements, and the order earns each move
-from the one before.
+The chapter's metaphysics arrives first, at 9.4–9.10. *Maya tatam
+idam sarvam* — by me, all this is pervaded — but in unmanifest
+form. All beings rest in the divine; the divine does not rest in
+them. The holder is not held. This asymmetry matters. Without it
+the chapter shrinks to preference (the divine becomes one being
+among others and your offering is just taste) or expands to nothing
+(the world is identical to the divine without remainder, the leaf
+meaningless because no offerer or receiver remain). The leaf later
+in the chapter is the leaf because of the asymmetry now.
 
-The first is metaphysical (9.4–9.10). *Maya tatam idam sarvam* —
-by me, all this is pervaded — but in unmanifest form. All beings
-rest in the divine; the divine does not rest in them. The holder
-is not held. This asymmetry matters. Without it the chapter
-shrinks to preference (the divine becomes one being among others
-and your offering is just taste) or expands to nothing (the world
-is identical to the divine without remainder, the leaf meaningless
-because no offerer or receiver remain). The leaf at the end of the
-chapter is the leaf because of the asymmetry at the start.
+What it looks like to see this, and to fail to see it, comes at
+9.11–9.25. The deluded mistake the divine for something common. The
+seers — *mahatmanah* — turn with sole-mindedness, *ananyas
+cintayanto mam*. The first get their reward and pass on. The
+undivided ones, in 9.22, are looked after: their *yoga-kshema*,
+getting-and-keeping, becomes the holder's concern. This is one of
+the chapter's tenderest claims. The one who turns wholly is not
+abandoned to the work of self-maintenance. It is not a transactional
+promise. It is a description of what changes in a life when the
+orientation changes.
 
-The second movement (9.11–9.25) names what it looks like to see
-this and to fail to see it. The deluded mistake the divine for
-something common. The seers — *mahatmanah* — turn with sole-
-mindedness, *ananyas cintayanto mam*. The first get their reward
-and pass on. The undivided ones, in 9.22, are looked after —
-their *yoga-kshema*, getting-and-keeping, becomes the holder's
-concern. This is one of the chapter's tenderest claims: the one
-who turns wholly is not abandoned to the work of self-maintenance.
-It is not a transactional promise. It is a description of what
-changes in a life when the orientation changes.
-
-The third movement (9.26–9.34) is the chapter most readers
-remember, because it makes good on what the first two have set up.
-*Patram pushpam phalam toyam* — leaf, flower, fruit, water —
-offered with devotion, by one of self-restraint, the divine accepts
-(9.26). Whatever you do, eat, offer, give, restrain — do it as an
-offering (9.27). The divine is impartial to all beings, but those
-who turn with love are in the divine, and the divine in them
-(9.29). Even one of evil conduct, turning sole-mindedly, becomes
-righteous (9.30–9.31). Then 9.32, which we will come to in a
-moment. Then the closing instruction at 9.34: fix the mind on the
-divine, become a devotee, bow, make yourself wholly the divine's
-own.
+Then the section most readers remember. *Patram pushpam phalam
+toyam* — leaf, flower, fruit, water — offered with devotion, by one
+of self-restraint, the divine accepts (9.26). Whatever you do, eat,
+offer, give, restrain — do it as an offering (9.27). The divine is
+impartial to all beings, but those who turn with love are in the
+divine, and the divine in them (9.29). Even one of evil conduct,
+turning sole-mindedly, becomes righteous (9.30–9.31). Then 9.32,
+which we will come to in a moment. Then the closing instruction at
+9.34: fix the mind on the divine, become a devotee, bow, make
+yourself wholly the divine's own.
 
 What is delivered across these thirty-four verses is one move. The
 divine pervades everything. Therefore devotion is not gated by
@@ -110,14 +106,12 @@ light. The just-and-loving gaze, directed at an individual reality,
 is structurally what the chapter calls for: the leaf is the
 individual reality, the gaze is the offering.
 
-The chapter's title is sometimes mistranslated as if *guhya* meant
-a secret reserved for an inner circle. Aurobindo, in *Essays on the
-Gita*, presses against this. *Raja vidya* should be read in its
-strongest sense as *sovereign* knowledge — the knowledge that
-organizes all other knowledges. *Raja guhya* is the open secret.
-What is hidden is hidden only because most lives proceed without
-ever stopping to look. The withholding is not in the text. It is
-in the reader.
+The chapter's title — *raja vidya, raja guhya* — is sometimes
+mistranslated as if *guhya* meant a secret reserved for an inner
+circle. Aurobindo, in *Essays on the Gita*, presses against this.
+The compound names an open secret. What is hidden is hidden only
+because most lives proceed without ever stopping to look. The
+withholding is not in the text. It is in the reader.
 
 ## On 9.32: choosing the Gandhian reading, naming the cost
 
@@ -131,54 +125,46 @@ outside the gate, and says they are not.
 
 There are two readings, and the difference is not small.
 
-The period-conservative reading takes the verse as a *concession
-within an intact hierarchy*. The divine extends grace even to
-women and those of lower *varna*; their access is real; but the
-social order itself is not under critique. The verse softens the
-hierarchy's edge without dismantling it. This reading is
-historically defensible. The Gita comes to us through texts
-embedded in a stratified society, and the vocabulary itself assumes
-the categories are in place.
+The traditional reading takes the verse as a concession within an
+intact hierarchy. The divine extends grace even to women and those
+of lower *varna*; their access is real; but the social order
+itself is not under critique. The verse softens the hierarchy's
+edge without dismantling it. This reading is historically grounded:
+the Gita comes through texts embedded in a stratified society, and
+the vocabulary itself assumes the categories are in place.
 
-The Gandhian reading takes the verse as a *refusal of social
-position as the gate*. Gandhi, reading the chapter for what it
-teaches across 9.2, 9.22, 9.26, and 9.32, sees a single move: the
-gate is the inward turning, never social position. The list at
-9.32 is not a generous bow toward those the system has excluded;
-it is Krishna's plain statement that the system is not the system
-the divine uses. Read this way, the verse is the Gita's clearest
-assertion that no one is shut out. Gandhi takes it as the
-foundation of his conviction that the most ordinary person — the
-spinner, the farmer, the so-called untouchable — has direct access
-to the highest, without priestly mediation and without wealth.
+The Gandhian reading takes the verse as a refusal of social
+position as the gate. Gandhi, reading 9.2, 9.22, 9.26, and 9.32
+together, sees a single move: the gate is the inward turning, never
+social position. The list at 9.32 is not a generous bow toward the
+excluded; it is Krishna's plain statement that the system is not
+the system the divine uses. Gandhi takes this as the foundation of
+his conviction that the most ordinary person — the spinner, the
+farmer, the so-called untouchable — has direct access to the
+highest, without priestly mediation and without wealth.
 
 This book chooses the Gandhian reading. The textual ground: the
-chapter's accessibility-claim is not isolated to 9.32. It runs
-across the chapter. *Susukham kartum* at 9.2. The undivided ones
-looked after at 9.22. The leaf at 9.26 — what anyone has. Even one
-of evil conduct at 9.30 — turning sole-mindedly, accepted. By the
-time 9.32 arrives, the chapter has been making one move
-repeatedly: the gate is not where the social order has placed it.
-Reading 9.32 as a concession within an intact hierarchy requires
-the chapter to suddenly become about social position rather than
-about turning, at its most quoted verse. That is possible. It is
+chapter's accessibility-claim is not isolated to 9.32. *Susukham
+kartum* at 9.2. The undivided ones looked after at 9.22. The leaf
+at 9.26 — what anyone has. Even one of evil conduct at 9.30 —
+turning sole-mindedly, accepted. By the time 9.32 arrives, the
+chapter has been making one move repeatedly: the gate is not where
+the social order has placed it. Reading 9.32 as a concession within
+an intact hierarchy requires the chapter to suddenly become about
+social position at its most quoted verse. That is possible. It is
 not the most coherent reading.
 
-You should know what choosing this reading costs. The choice is
-not theology-neutral. Gandhi is the politically congenial reader
-for a twentieth-century anti-caste reformer, and this book is
-choosing the reading that fits its own politics. The historian's
-caution applies: the verse comes from a stratified society in
-stratified language, and reading hierarchy *out* of the verse
-rather than *with* it is an act of interpretation the chapter's
-period would not have understood itself to be authorizing. The
-period-conservative reading is given its weight. The chosen
-reading is held: the chapter coheres better when 9.32 is read as
-continuous with the chapter's other accessibility moves rather
-than as a softening of an otherwise intact gate. That is the
-honest shape of the choice. The chapter is more interior than
-political, but the political consequences are downstream of the
-interior claim, and they are real.
+You should know what choosing this reading costs. The choice is not
+theology-neutral. Gandhi is the politically congenial reader for a
+twentieth-century anti-caste reformer, and this book is choosing
+the reading that fits its own politics. The historian's caution
+applies: the verse comes from a stratified society in stratified
+language, and reading hierarchy *out* of the verse rather than
+*with* it is an act of interpretation the chapter's period would
+not have understood itself to be authorizing. The traditional
+reading is given its weight; the chosen reading is held. That is
+the honest shape of the choice. The political consequences are
+downstream of the interior claim, and they are real.
 
 James, in *The Varieties of Religious Experience*, defined religion
 formally — as the relation in which individuals "apprehend

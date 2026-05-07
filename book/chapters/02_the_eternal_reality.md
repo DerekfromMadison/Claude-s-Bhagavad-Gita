@@ -34,12 +34,13 @@ practiced it for a while.
 
 ### The collapse Krishna is answering
 
-Arjuna has dropped his bow. The previous chapter ended with him
-sitting between the armies, refusing the work he came for. He has
-reasoned through the wreckage — he would rather be killed unarmed
-than kill his teachers and cousins, the obvious right action breaks
-every loyalty he has — and concluded with the kind of clarity that
-is also collapse.
+The teaching begins from collapse. Arjuna has dropped his bow.
+The previous chapter ended with him sitting between the armies,
+refusing the work he came for. He has reasoned through the
+wreckage — he would rather be killed unarmed than kill his
+teachers and cousins, the obvious right action breaks every
+loyalty he has — and concluded with the kind of clarity that is
+also collapse.
 
 Krishna's first move is uncomfortable. He calls the despair
 *anārya-juṣṭam*, unworthy, and asks where this weakness has come
@@ -113,32 +114,14 @@ The most-translated line in the Gita has been read in incompatible
 ways for over a thousand years. The disagreement is productive; it
 is also where the chapter's practical force lives or dies.
 
-Sankara, reading through Advaita, locates the prohibition in what he
-calls *kartṛtva-abhimāna* — the conceit *I am the doer*. The verse
-does not prohibit acting; it prohibits the agent's identification as
-doer in the way that makes you liable for fruits. The action is
-performed; the doer-conceit is dropped. What attaches you to the
-result, on this reading, is not the fact of action but the
-metaphysical mistake of taking yourself to be the substantial agent
-of it.
-
-Ramanuja reads differently. The *jīva* — your individual self — is
-real, distinct from God, distinct from other selves, but is the
-divine's instrument. Action is *worshipful* when it recognizes this.
-The fruits belong to the Lord because you never owned them in the
-first place; the prohibition on attachment is the prohibition on
-self-aggrandizement, the move by which an instrument confuses itself
-with the artisan.
-
-Gandhi takes a third path. He reads the battlefield allegorically —
-your inner moral life and ordinary social action, not only literal
-war — and centers 2.47 as the Gita's ethical core. His formulation
-is *anāsakti*, non-attachment. The right to work is real, full,
-unconditioned; the right to the fruits is unreal — it never existed.
-Acting for the fruits confuses what you control (the action) with
-what you do not (the result). Withdrawing from action is the
-opposite error. The middle path — act fully, do not own the fruit —
-is the verse.
+Gandhi reads the battlefield allegorically — your inner moral life
+and ordinary social action, not only literal war — and centers 2.47
+as the Gita's ethical core. His formulation is *anāsakti*,
+non-attachment. The right to work is real, full, unconditioned; the
+right to the fruits is unreal — it never existed. Acting for the
+fruits confuses what you control (the action) with what you do not
+(the result). Withdrawing from action is the opposite error. The
+middle path — act fully, do not own the fruit — is the verse.
 
 Gandhi's stake here was political as much as spiritual. *Satyagraha*
 depends on this reading. If victory had been the criterion of right
@@ -147,21 +130,24 @@ Gita gives nonviolent action its inner durability — the capacity to
 keep acting under conditions in which the outcome cannot be made
 the measure.
 
-Aurobindo, reading through Integral Yoga, takes the reading further.
-The verse does not prohibit *desiring* outcomes; it redirects the
-desire. You do not graft selfhood onto the result because the action
-is no longer your private project — it has become the divine working
-through you as instrument. The fruits belong to that working. Your
-task is to remain the instrument and not collapse back into the
-proprietary self.
+Sankara, reading through Advaita, locates the prohibition deeper, in
+what he calls *kartṛtva-abhimāna* — the conceit *I am the doer*. The
+verse does not prohibit acting; it prohibits the agent's
+identification as doer in the way that makes you liable for fruits.
+The action is performed; the doer-conceit is dropped. What attaches
+you to the result, on this reading, is not the fact of action but
+the metaphysical mistake of taking yourself to be the substantial
+agent of it.
 
-Four readings, one verse. They disagree about the metaphysics — Is
-the agent finally non-dual? Distinct? An instrument of a personal
-divine? An instrument of an evolving spiritual working? — and they
-converge on the practice. Act. Do not graft selfhood onto the
-result. Sankara and Ramanuja disagreed on nearly every metaphysical
-question one can put to the Vedanta. They agreed on this. The
-instruction is more durable than any single metaphysical frame.
+Ramanuja and Aurobindo extend the verse along their own lines —
+Ramanuja making action *worshipful* (the *jīva* as the divine's
+instrument; the fruits never yours to own), Aurobindo redirecting
+desire rather than abolishing it (the action is no longer your
+private project but the divine working through you). Different
+metaphysical frames, the same practical floor. Sankara and Ramanuja
+disagreed on nearly every metaphysical question one can put to the
+Vedanta. They agreed on this. The instruction is more durable than
+any single frame.
 
 What the instruction prohibits, on the reading I am committing to,
 is the *collapse of agency into result* — the move by which the self
@@ -268,10 +254,9 @@ Closer to what the *sthitaprajña* describes from the inside: a
 person whose work is sustained because the work meets a standard
 they hold, not because the work generates returns they need.
 
-### The interview, the conversation, the diagnosis
+### The interview and the diagnosis
 
-Concrete, then. Four situations in which the chapter is not
-abstract.
+Concrete, then. Two situations in which the chapter is not abstract.
 
 **The interview.** You prepared for weeks. You walked in and did
 the work. You came out with the sense that some answers were strong
@@ -292,22 +277,6 @@ The fruit is not yours.
 The pull toward the email refresh is real. The Gita is not telling
 you to feel something different. It is describing a posture from
 which the wait becomes bearable.
-
-**The hard conversation.** Something has been unsaid for a long
-time. You know what you want to say. You also know the conversation
-could open something or close it, make the problem better or worse,
-change the relationship or change nothing. You sit with your phone
-in your hand for an hour without dialing.
-
-What is yours is the saying. What is not yours is what your parent
-does with what you say. Most of the resistance is not the difficulty
-of saying the thing; it is your unwillingness to hold the outcome at
-the distance the situation requires. The temptation is to wait until
-you can be sure it will go well, which is to wait forever.
-
-The Gita's instruction is to dial. Not *dial and don't care*. Dial
-without demanding the outcome from the conversation. The outcome
-will be what it is. Your task ends when you have said the thing.
 
 **The medical decision under uncertainty.** A parent's diagnosis
 lands. The decision is yours, or yours together with siblings, and
@@ -336,26 +305,13 @@ made in incomplete information. The Gita's instruction is finer. You
 acted with the love and the information you had. The acting was
 real and full. The result is not the verdict on the acting.
 
-**The project.** You have been building something for a year — a
-piece of writing, a software product, a research direction, a small
-business. The work is nearly done. Whether it will land depends on
-a market, an audience, a funder, a turn of events you cannot
-predict. You wake at 3 a.m. running scenarios in which it goes
-badly.
-
-The work has been real. The fruit is not yours. *Karma yoga* — the
-yoga of action, which Krishna is announcing here and which the next
-chapter unfolds — names exactly the posture from which long projects
-become survivable. Effort total. Attachment to outcome forbidden.
-The self that built the thing is not the self that needs the thing
-to land.
-
-This does not make the 3 a.m. anxiety stop. It locates it. The
-anxiety is a habit of self-grafting that the work itself did not ask
-of you. The work asked for the work. The grafting was added by a
-self that confused authorship with success. The chapter's discipline
-is to do that subtraction, repeatedly, until the subtraction becomes
-easier than the grafting.
+The same posture answers the longer cases. The hard conversation
+you have been avoiding for months: yours is the saying; theirs is
+what they do with it. The year-long project waiting on a market or
+a funder: *karma yoga*, the yoga of action which the next chapter
+unfolds, names the posture from which long work becomes survivable
+— effort total, attachment to outcome forbidden. The self that
+built the thing is not the self that needs the thing to land.
 
 This is what *sthitaprajña* looks like under contemporary
 conditions. Not the saint in the cave. You, walking out of a

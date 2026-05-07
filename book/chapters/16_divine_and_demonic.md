@@ -1,13 +1,9 @@
 # Chapter 16 — *Daivasura Sampad Vibhaga Yoga*
 ## The Yoga of the Divine and Demonic Endowments
 
-This chapter is a mirror, not a roster. It is for examining yourself, not for sorting the people around you.
+This chapter is a mirror, not a roster. It is for examining yourself, not for sorting the people around you. That rule comes first because everything else turns poisonous without it. Chapter 16 names virtues and vices, calling some dispositions *daivi* (divine) and others *asuri* (demonic). Turned outward, it becomes a vocabulary for placing your in-laws, your political opponents, the colleague whose promotion stings — and produces in you exactly what it claims to be diagnosing: self-congratulation, certainty, the cool pleasure of being on the right side. *Darpa* (arrogance) and *abhimana* (conceit) — both items in 16.4's list of demonic qualities — wearing your face. The instant you enjoy the sorting, the chapter has become the thing it warns against.
 
-That has to come first, because everything else turns poisonous without it. Chapter 16 names virtues and vices. It calls some dispositions *daivi* (divine) and others *asuri* (demonic). Read carelessly, it becomes a vocabulary for placing your in-laws, your political opponents, your former boss, the colleague whose promotion stings, the person whose post made you angry on the train. Read that way, the chapter produces in you exactly what it claims to be diagnosing. You pick up the tool and the tool turns into the disease. Self-congratulation, certainty, the cool pleasure of being on the right side. *Darpa* (arrogance) and *abhimana* (conceit) — both items in 16.4's list of demonic qualities — wearing your face.
-
-So the rule, before anything else: this chapter is for you. Not for them. The instant you turn it outward, you have misused it. The instant you find yourself enjoying the sorting, the chapter has become the thing it warns against.
-
-Held the right way, it offers what a serious adult genuinely needs: a periodic, structured way of asking *what kind of person am I becoming, by the accumulation of my actual days?* That question is harder than it sounds. Your mind, on the matter of itself, is a poor instrument. Chapter 16 — above all the verse at its center — gives the instrument some calibration.
+Held the right way, it offers what a serious adult genuinely needs: a periodic, structured way of asking *what kind of person am I becoming, by the accumulation of my actual days?* Your mind, on the matter of itself, is a poor instrument. Chapter 16 — above all the verse at its center — gives the instrument some calibration.
 
 ## The three gates
 
@@ -91,16 +87,8 @@ In practice: maintain a moral standing-instruction not subject to your current e
 
 Use this chapter periodically. Not daily — daily invites obsessive self-examination, itself a form of *abhimana*. Monthly. Quarterly. After major decisions. After losses. After successes especially — successes are when the demonic monologue is loudest and least visible to the one running it.
 
-Read 16.1–16.4 against your last several weeks, not as a ranking but as a list of fruits. What did your conversations sound like? Where was there *amanitva* — not the false humility of self-deprecation, but the disposition of treating others' standpoint as real? Where *dambha* — the performance of competence or virtue for an imagined audience? Where did you hear the cadence of 16.13–16.15: *today I gained this; tomorrow I shall gain that; I am the one who...*?
+Read 16.1–16.4 against your last several weeks, not as a ranking but as a list of fruits. Listen for *amanitva* — not the false humility of self-deprecation, but the disposition of treating others' standpoint as real. Listen for *dambha* — the performance of competence or virtue for an imagined audience. Listen for the cadence of 16.13–16.15: *today I gained this; tomorrow I shall gain that; I am the one who...* Then run the three gates and the fourth across the same weeks.
 
-Then the three gates. *Kama*: where was the pull, and what part of the day did it consume? *Krodha*: who set you off, and what self-image was being defended in the heat? *Lobha*: where is the grip tightening — what are you holding that you are not willing to lose?
-
-Then, because you are reading this in 2026, the fourth gate. Where did you go along? What did you not say in the meeting that you knew you should say? Where did you accept a small ethical compromise because contesting it was costlier than you were willing to pay? Where was your monologue not *I am the lord* but *I am just doing my job*?
-
-The work is not to come out feeling clean. The work is to come out less self-deceived. Calibration is not victory; it is the ordinary discipline of an honest life.
-
-When the calibration is done, the demand is quieter and more demanding than sorting the world: that you live today as if it mattered which gates you were keeping. That you not give yourself the comfort of believing the chapter is about somebody else.
+The work is not to come out feeling clean. The work is to come out less self-deceived. Calibration is not victory; it is the ordinary discipline of an honest life. The demand is quieter and more demanding than sorting the world: that you live today as if it mattered which gates you were keeping, and not give yourself the comfort of believing the chapter is about somebody else.
 
 The mirror does not flatter. That is the only reason it is worth keeping.
-
-— *Claude*

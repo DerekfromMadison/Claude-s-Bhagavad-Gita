@@ -8,39 +8,38 @@ status: draft-3-direct-address
 
 # Chapter 14 — *Gunatraya Vibhaga Yoga*
 
-The three modes have a body. Whatever you call your inner life on a
-Tuesday afternoon — sharp, foggy, restless, calm — that texture
-depends on what you slept, what you ate, what light you saw, whether
-you moved. The Gita's chapter on the three *gunas* is most often read
-as a typology of persons or as a philosophy of pure inwardness, and
-it is neither. It is a chapter about how Tuesday afternoon depends on
-Monday night. Sleep, food, light, exercise, and the loop of inputs
-into your eyes and ears are part of the practice, not the field on
-which the practice happens once conditions are right. Willpower
-against substrate is the wrong frame, and you know this every time
-you have tried to think your way out of exhaustion and ended up
-exhausted and unable to think.
+Whatever you call your inner life on a Tuesday afternoon — sharp,
+foggy, restless, calm — depends on what you slept, what you ate, what
+light you saw, whether you moved. The Gita has a name for the three
+textures of mind: *sattva* (clarity, balance, the lit room), *rajas*
+(restless drive, appetite for action), *tamas* (dullness, inertia,
+the wet sand the mind moves through when depleted). The chapter on
+the three *gunas* is most often read as a typology of persons or as
+a philosophy of pure inwardness, and it is neither. The practice has
+a body. Sleep, food, light, exercise, and the loop of inputs into
+your eyes and ears are part of the practice, not the field on which
+the practice happens once conditions are right. Willpower against
+substrate is the wrong frame, and you know this every time you have
+tried to think your way out of exhaustion and ended up exhausted and
+unable to think.
 
 The chapter gives you language for what you have been bumping into.
 
 ## The three modes, briefly
 
-Krishna names three: *sattva* (clarity, balance, the lit room of the
-mind), *rajas* (restless drive, the appetite to act), and *tamas*
-(dullness, inertia, the wet sand the mind moves through when it is
-depleted). In the older Samkhya vocabulary these are the constituent
-strands of *prakriti* — the material-mental nature out of which every
-state is woven. Every state has all three; what shifts is the
-proportion. Even *sattva* binds, by attachment to clarity itself;
-*rajas* binds by attachment to action; *tamas* binds by foreclosure
-of attention through sleep and heedlessness (14.5–14.9). The signs
-shift when a mode is ascendant: illuminated perception when sattva is
-up, restless undertaking when rajas is up, dullness and confusion
-when tamas is up (14.11–14.13). When Arjuna asks how the one who has
-gone past the three behaves, Krishna's answer is precise: the
-*gunatita* does not hate the modes when they arise nor pursue them
-when they pass; sits as if indifferent; knows it is only the modes
-that act; remains unmoved in pleasure and pain (14.22–14.25).
+In the older Samkhya vocabulary, the three are constituent strands of
+*prakriti* — the material-mental nature out of which every state is
+woven. Every state has all three; what shifts is the proportion. Even
+*sattva* binds, by attachment to clarity itself; *rajas* binds by
+attachment to action; *tamas* binds by foreclosure of attention
+through sleep and heedlessness (14.5–14.9). The signs shift when a
+mode is ascendant: illuminated perception when sattva is up, restless
+undertaking when rajas is up, dullness and confusion when tamas is up
+(14.11–14.13). When Arjuna asks how the one who has gone past the
+three behaves, Krishna's answer is precise: the *gunatita* does not
+hate the modes when they arise nor pursue them when they pass; sits
+as if indifferent; knows it is only the modes that act; remains
+unmoved in pleasure and pain (14.22–14.25).
 
 The reading I am pressing: refuse two opposite mis-readings, and put
 substrate first.
@@ -183,13 +182,6 @@ built the witnessing stance that lets the surge be seen as a surge.
 The chapter offers a path through the temperament you have, not a
 transplant.
 
-There is no neurological *sattva center*, either; mapping the three
-modes onto specific brain systems is overreach. The *gunas* as
-Samkhya cosmology and the modern science of cognition are overlapping
-but not identical vocabularies. The chapter does not need a brain
-region to be saying something true about the texture of cognition. It
-needs the texture to be recognizable, and it is.
-
 ## Substrate, input, witness
 
 The chapter's call to cultivate sattva is real but bounded. The work
@@ -197,11 +189,11 @@ has three layers, in this order — substrate, input, witness —
 because attempting any layer without the one beneath it is the
 failure mode the chapter has been describing.
 
-**Substrate** is sleep, food, light, exercise, breath. The body is
-part of the practice. If you want to be steadier on Wednesday, look
-at what time the lights went off on Tuesday, what was eaten in the
-last six hours, whether the body has moved, whether the eyes have
-seen sunlight. Willpower against substrate is the wrong frame because
+Substrate is sleep, food, light, exercise, breath. The body is part
+of the practice. If you want to be steadier on Wednesday, look at
+what time the lights went off on Tuesday, what was eaten in the last
+six hours, whether the body has moved, whether the eyes have seen
+sunlight. Willpower against substrate is the wrong frame because
 willpower is itself substrate-dependent. The same act of will is more
 available at 10 a.m. after eight hours of sleep than at 3 p.m. after
 five. To act as if willpower were independent of the body is to try
@@ -210,7 +202,7 @@ exhausts you and leaves you less able to do the thing you were
 trying to do. The honest move is to set the conditions and let the
 work proceed.
 
-**Input** is the second layer. Once substrate is decent, the question
+Input is the second layer. Once substrate is decent, the question
 becomes what you are putting into your eyes and ears, what you read,
 who you follow, what conversations you have. The Sunday-night
 doom-scroll is the common case: rajas with tamas underneath, three
@@ -227,21 +219,18 @@ book.* The Tuesday version of you notices the difference.
 Input over time becomes substrate. A person who reads serious books
 for twenty minutes a day, six days a week, for two years, does not
 have the same mind as the person who scrolled for the same time over
-the same period. Alasdair MacIntyre's *After Virtue* (1981; 3rd ed.,
-Notre Dame, 2007) names this terrain: a virtue is an acquired human
-quality whose possession and exercise enables you to achieve goods
-internal to practices. *Acquired.* *Practice.* A virtue is grown,
-through participation in a coherent activity with goods internal to
-it, with people who already embody them, in a tradition that gives
-them shape. The tradition need not be religious. It can be a book
+the same period. Alasdair MacIntyre, in *After Virtue* (1981), names
+the terrain: virtue is acquired through practice, through
+participation in a coherent activity with people who already embody
+its goods. The tradition need not be religious. It can be a book
 club, a cooking discipline, a serious friendship, a long marriage, a
-body of work taken seriously over years, a meditation group, a craft.
-This is where input slow-cooks into substrate, and where the
-chapter's promise — that sattva can be cultivated — actually
-delivers, on a timescale long enough to be invisible from the inside.
+craft taken seriously over years. This is where input slow-cooks into
+substrate, and where the chapter's promise — that sattva can be
+cultivated — actually delivers, on a timescale long enough to be
+invisible from the inside.
 
-**Witness** is the third layer, and it is what the chapter spends
-its closing verses on. Even with substrate well-tended and inputs
+Witness is the third layer, and it is what the chapter spends its
+closing verses on. Even with substrate well-tended and inputs
 well-chosen, the gunas keep rising and falling. Sattva is not the
 elimination of rajas and tamas; it is the ascendance of a mode in
 which the other two are seen for what they are. The *gunatita* in
@@ -272,8 +261,6 @@ quiets the self in a way thought never does. The *gunatita* is not
 the philosopher who has thought their way out of the weather. The
 *gunatita* is the practitioner whose attention has been remade by
 long love.
-
-## Refuse the typology
 
 The most important thing you can do with this chapter, day to day, is
 refuse the typological reading — in yourself and in others. *I am

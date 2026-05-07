@@ -8,37 +8,32 @@ status: rewrite-2
 
 # Chapter 4 — Who teaches you, by the content of your time?
 
-Who teaches you?
-
-I do not mean who taught you. I mean now. This week. The voice
-that surfaced in your head between meetings, the standard against
-which you measured your own work, the tone of the small fight you
-replayed at 11pm, the curriculum your eyes ran across during the
-forty minutes after dinner when you told yourself you were
-unwinding. Someone occupied the role of teacher in those hours.
-You did not pick them. They picked you, gradually, by occupying
-your time.
-
-The center of this chapter is one Sanskrit sentence. *Tad viddhi
-praṇipātena paripraśnena sevayā* (4.34). Know it by humble
-approach, by honest inquiry, by service. *Praṇipāta* is the
-posture that admits the teacher knows something you do not.
+Who teaches you? Not who taught you — who is teaching you now,
+this week. The center of this chapter is one Sanskrit sentence.
+*Tad viddhi praṇipātena paripraśnena sevayā* (4.34). Know it by
+humble approach, by honest inquiry, by service. *Praṇipāta* is
+the posture that admits the teacher knows something you do not.
 *Paripraśna* is asking around the matter, gradually, the way an
 apprentice surfaces what cannot be put in a sentence. *Sevā* is
 the temporal infrastructure — the hours of presence — that makes
-long proximity possible. Three postures, sustained across years,
-in front of someone worth them. The fourth chapter is most often
-read for the *avatāra* passage at 4.7–4.8, the descent verse
-where the divine takes form whenever dharma declines. That verse
-is the most quoted. It is not the chapter's center. 4.34 is.
+long proximity possible.
 
-I am going to argue that this is the chapter the modern adult
-most needs and most reflexively skips. You skip it because
-*teacher* sounds like something you outgrew, or never had, or
-fled. The chapter does not mean a guru in saffron. It means the
-structures, voices, practices, and presences that occupy the role
-of forming you. That role is filled, every hour. The question is
-who fills it, and whether you chose them.
+Three postures, sustained across years, in front of someone worth
+them. The fourth chapter is most often read for the *avatāra*
+passage at 4.7–4.8, the descent verse where the divine takes form
+whenever dharma declines. That verse is the most quoted. It is
+not the chapter's center. 4.34 is. And the question 4.34 puts to
+you is not abstract. The voice that surfaced in your head between
+meetings, the standard against which you measured your own work,
+the tone of the small fight you replayed at 11pm, the curriculum
+your eyes ran across during the forty minutes after dinner when
+you told yourself you were unwinding — someone occupied the role
+of teacher in those hours. You did not pick them. They picked
+you, gradually, by occupying your time. The chapter does not mean
+a guru in saffron. It means the structures, voices, practices,
+and presences that occupy the role of forming you. That role is
+filled, every hour. The question is who fills it, and whether you
+chose them.
 
 ## The unchosen teacher
 
@@ -156,11 +151,13 @@ choosing 4.34 is asking for.
 
 ## What only an apprentice receives
 
-There is a kind of knowing that does not transfer through reading.
-Polanyi named it: *we can know more than we can tell*. An art
-that cannot be specified in detail cannot be transmitted by
-prescription, because no prescription for it exists. It is passed
-on only by example, from master to apprentice.
+If the algorithm is the unchosen teacher, what does a chosen
+teacher actually transmit? There is a kind of knowing that does
+not transfer through reading. Polanyi named it: *we can know more
+than we can tell*. An art that cannot be specified in detail
+cannot be transmitted by prescription, because no prescription
+for it exists. It is passed on only by example, from master to
+apprentice.
 
 Polanyi was writing about science. He had spent a working life
 inside laboratories where the difference between an excellent
@@ -251,64 +248,44 @@ returns to, unprompted. You are inquiring about something — by
 the questions that surface at 6am or 11pm. You are serving
 something — by where your hours go.
 
-So do the audit honestly.
+So do the audit honestly. Open the screen-time number. Do not
+soften it. Look at the inbox hours. Look at what you read at the
+meal you ate alone. The ecology already named — algorithm,
+employer, peer group, family residue, unfinished argument — is
+not nothing. It is, in fact, the ecology of teaching. It is
+finite. The hours are finite. You cannot serve and revere and
+inquire of infinite things at once, no matter what the
+productivity literature implies. If you do not name your current
+teachers honestly, you cannot choose differently.
 
-Open the screen-time number. Do not soften it. Look at the inbox
-hours. Look at what you read at the meal you ate alone. Look at
-the platform whose feed you scrolled through, and notice whose
-voice has been training your sense of what counts as a serious
-topic. Look at the employer whose Tuesday-afternoon priorities
-have set the rhythm of your week. Look at the peer group whose
-approval you are calibrated to. Look at the residue from the
-family you grew up in — the scripts that still run in the
-unguarded moments. Look at the unfinished argument with someone
-no longer alive. That argument is still being conducted inside
-you. It is teaching you, every day, what to flinch at.
-
-That ecology is not nothing. It is, in fact, the ecology of
-teaching. It is finite. The hours are finite. You cannot serve
-and revere and inquire of infinite things at once, no matter what
-the productivity literature implies. The teacher who currently
-occupies the role of teacher in your life is who is teaching you
-right now. If you do not name them honestly, you cannot choose
-differently.
-
-I want to be careful here, because the move at this point in many
-self-help readings is to recommend choosing better teachers in a
-voluntarist way, as if the act of choice were itself sufficient,
-as if you could pick up a book on Saturday and have a new
-inheritance by Wednesday. The chapter does not promise this. It
-promises that humble approach, honest inquiry, and service work,
-given time. It does not promise the work is fast. It does not
-promise the work is voluntary in any easy sense. You start where
-you are, inside the inheritance you already carry. The right move
-is small and durable.
-
-Let me name what does not count. Following someone on a platform
-is not apprenticeship. Listening to a podcast is not
-apprenticeship. Reading widely is not apprenticeship. None of
-these things are bad. They are not the thing. Apprenticeship is
-*sevā* — sustained service that holds you in proximity to the
-teaching long enough that the tacit substrate transfers. It is
-hard to do in 2026 because the available structures are designed
-against it: short cycles, infinite options, low cost of switching,
-constant availability of a fresh teacher down the feed who will
-be replaced tomorrow by the next. The discipline is not novel
+The move at this point in many self-help readings is to recommend
+choosing better teachers in a voluntarist way, as if the act of
+choice were itself sufficient, as if you could pick up a book on
+Saturday and have a new inheritance by Wednesday. The chapter
+does not promise this. It promises that humble approach, honest
+inquiry, and service work, given time. It does not promise the
+work is fast. It does not promise the work is voluntary in any
+easy sense. You start where you are, inside the inheritance you
+already carry. The right move is small and durable. Following
+someone on a platform is not apprenticeship; neither is a
+podcast, neither is reading widely. Apprenticeship is *sevā* —
+sustained service that holds you in proximity to the teaching
+long enough that the tacit substrate transfers. It is hard to do
+in 2026 because the available structures are designed against it:
+short cycles, infinite options, low cost of switching, constant
+availability of a fresh teacher down the feed who will be
+replaced tomorrow by the next. The discipline is not novel
 curation. The discipline is staying.
 
 One related move worth naming. The chapter assumes the teachers
 are *jñāninas tattvadarśinaḥ* — knowers, seers of reality. It
-does not address the case where the teacher is a fraud. This is a
-serious gap, and you should keep both halves visible. *Praṇipāta*
-without judgment is how cults are built. A teaching tradition
-that demands surrender without earning it is a tradition that has
-corrupted, in MacIntyre's sense — the argument inside it has
-stopped, and what remains is structure without goods. The
-discrimination is part of the choosing. The chapter assumes you
-have not walked into a counterfeit. It does not relieve you of
-the duty to check.
-
-## What to do this week
+does not address the case where the teacher is a fraud.
+*Praṇipāta* without judgment is how cults are built. A teaching
+tradition that demands surrender without earning it is a
+tradition that has corrupted, in MacIntyre's sense — the argument
+inside it has stopped, and what remains is structure without
+goods. The chapter assumes you have not walked into a
+counterfeit. It does not relieve you of the duty to check.
 
 Choose one teacher. One. In the broad sense — a book, a practice,
 a craft, a person. Give them a defined arc of your serious

@@ -179,20 +179,6 @@ being remade.
 
 ## What the science can and cannot say
 
-The neuroscience of meditation bears on the chapter in three bounded
-ways.
-
-Sara Lazar (2005) compared twenty long-term Insight-meditation
-practitioners — about nine years of practice — with fifteen matched
-controls. The meditators showed greater cortical thickness in regions
-including the right anterior insula and parts of the prefrontal
-cortex. The finding is bounded: cross-sectional, small sample,
-self-selection possible. What it supports is the modest claim that the
-brain of someone who has practiced for nine years is not the brain
-that would have existed without the practice. This is the empirical
-version of what the Gita has been saying for two and a half millennia:
-*abhyasa* changes the practitioner. The change is not metaphorical.
-
 Judson Brewer (2011) found that experienced meditators showed reduced
 activation in central nodes of the default mode network during three
 meditation styles. The default mode network is the neural substrate of
@@ -209,7 +195,10 @@ teaching meditation to a soldier minutes before combat. Jha found that
 brief mindfulness training had protective effects on attention and
 working memory in high-demand populations, including military cohorts
 preparing for deployment. The effects were dose-dependent: protective
-proportional to practice, fading without it.
+proportional to practice, fading without it. Sara Lazar's earlier
+cortical-thickness work in long-term practitioners points the same
+direction: the brain of someone who has practiced for years is not
+the brain that would have existed without the practice.
 
 None of this proves the chapter's metaphysics. The default mode
 network can be quieted by drugs, dissociation, depression — none of
@@ -318,23 +307,6 @@ The brain whose mind returns becomes, over time, a brain that returns
 more easily. Practice has a body. The chapter said this two and a
 half millennia ago, and Brewer's data says it now.
 
-There is also the relationship where you keep being the problem. A
-partner, a parent, a sibling, a colleague, a child — you can predict
-the moment you will become someone you are not proud of. The trigger
-is small. The reaction is large and old. Afterwards you resolve to be
-different next time, and next time you are not. Murdoch's diagnosis is
-precise. The reaction is not the situation. It is the self-consoling
-story you have told yourself about who you are in this relationship
-and who they are. The story is the wind. The trigger releases a
-reaction that has been accumulating in the background.
-
-Chapter 6 is the only honest response. Not "try harder next time" but
-the slow development of the capacity for attention — Murdoch's just
-and loving gaze — that does not see the other through the fantasy.
-The change is not that the relationship gets easier. The change is
-that you are, after years, less captive to the fantasy that has been
-making the relationship impossible.
-
 The architecture-of-the-day question is whether the practice gets
 installed in the structure of the week or left to the will. The will
 loses. What does not lose is the calendar that already has the block
@@ -364,14 +336,6 @@ chosen to live for. What you will report, if you keep at it, is
 something like this: the wind has not stopped, but the lamp is
 steadier, and the room is more often visible. And the room, it turns
 out, is not a screen.
-
-Find the fifteen to thirty minutes you could give to a chosen
-practice — silent breathing, *japa* (the repetition of a sacred name
-or mantra), Easwaran's passage meditation, bare attention to breath.
-The Gita does not care which form. The Gita cares that you do
-something, daily, in the same place, at roughly the same time, long
-enough that the brain begins to expect it. *Abhyasa* cannot be
-improvised.
 
 The difference, after fifteen years, is not that you have become a
 more accomplished version of yourself. It is that someone or

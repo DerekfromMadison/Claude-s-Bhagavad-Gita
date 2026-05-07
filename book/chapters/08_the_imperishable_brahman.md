@@ -1,6 +1,6 @@
 # Chapter 8 — The Imperishable
 
-What your life accumulates is what becomes operative at the threshold.
+What a life accumulates is what becomes operative at the threshold.
 
 That is the chapter, in one line. The Gita's eighth chapter is about
 the moment of death — Krishna says so plainly, and refusing to read
@@ -16,27 +16,22 @@ You do not choose at the threshold. You arrive there with what you
 have already been growing. The chapter is asking you to notice this
 now, while there is still time to grow something else.
 
-## Two registers
-
 The chapter holds two registers. The first is practical: *the daily
-practice is the eventual posture*. What you attend to across years is
-what is there when ordinary structure stops holding you. The second
-is apophatic — the chapter points past every cosmology it has just
-laid out toward something language cannot finally hold. Most of this
-book reads through Ramanuja's qualified non-dualism. Here, on the
-specific question of what the chapter is doing in 8.20–22, Sankara
-reads it most exactly. I yield him this chapter. The pluralism stays;
-the apophatic register, on its single strongest occasion, is allowed
-to carry. The practical claim without the apophatic gesture flattens
-the chapter into self-help. The apophatic gesture without the
-practical claim floats free of the only ground you have to test it
-on.
+practice is the eventual posture*. The second is apophatic — the
+chapter points past every cosmology it has just laid out toward
+something language cannot finally hold. Most of this book reads
+through Ramanuja's qualified non-dualism. Here, on 8.20–22, Sankara
+reads most exactly. I yield him this chapter. The practical claim
+without the apophatic gesture flattens into self-help. The apophatic
+gesture without the practical claim floats free of the ground you
+have to test it on.
 
 ## The dialogue
 
 Arjuna asks for a glossary. Seven Sanskrit terms — *brahman* (the
 absolute), *adhyatma* (the inner self), *karma* (action and its
-consequence), *adhibhuta*, *adhidaiva*, *adhiyajna*, and the
+consequence), *adhibhuta* (the perishable), *adhidaiva* (the divine
+principle), *adhiyajna* (the principle of sacrifice), and the
 chapter's title-word *aksara*, the imperishable. It sounds like a
 student's clean list. It is not. The list ends at the moment of dying
 — *how, at the time of departure, are you to be known?* — and the
@@ -201,38 +196,23 @@ an event in your calendar but as a structural fact about the kind of
 being you are — releases you from that distribution. The Gita's
 "remember at all times" is, in a different vocabulary, an answer to
 Heidegger's structural question — an answer that does not require
-the metaphysical scaffolding the Gita builds around it. The
-divergence is real. Heidegger's death is *non-relational* — your
-ownmost possibility, faceable alone. The Gita in its devotional
-registers insists the moment is *relational*. On this chapter, with
-Sankara carrying, the relation runs to its limit and points past
-itself. The apophatic register makes the relation's other term
-unfigurable. That is a feature.
+the metaphysical scaffolding the Gita builds around it. Heidegger's
+death is *non-relational* — your ownmost possibility, faceable alone.
+The Gita in its devotional registers insists the moment is
+*relational*. On this chapter, with Sankara carrying, the relation
+runs to its limit and points past itself; the apophatic register
+makes the relation's other term unfigurable. That is a feature.
 
-Kagan's *Death* states what the chapter, read at its surface, denies
-— and the chapter is not honest if the denial is not on the page.
-The deprivation account: death is bad because it deprives you of the
-goods of continued life; there is no immortal soul to which the
-chapter's destinations could refer.
-
-Two things Kagan's denial does not touch. First, the apophatic
-register. Sankara's reading commits to no postmortem destination in
-any sense Kagan would recognize as a metaphysical claim. The *neti
-neti* gesture is precisely a refusal of cartography. Whatever
-8.20–22 points at, it is not a place. The strongest reading of the
-chapter's metaphysical-pointer language is the one least vulnerable
-to Kagan, because it makes no spatial or temporal claim he could
-deprive of plausibility.
-
-Second, the claim about *the life*. Even with no continuing self and
-no destination, the instruction — that a life is shaped by what it
-sustains attention on, and that the shaping concentrates at
-thresholds — remains intelligible and arguably true. On Kagan's
-terms, the chapter becomes a teaching about the present life rather
-than about an after. That is a smaller chapter than the text claims
-to be. But it is the *minimum* chapter, the one that holds even on
-the most deflationary reading. The teaching does not collapse if
-Kagan is right. It contracts.
+Kagan's *Death* presses the deprivation account: death is bad because
+it deprives you of the goods of continued life; there is no immortal
+soul to which the chapter's destinations could refer. The apophatic
+reading is least vulnerable to this challenge because it makes no
+spatial or temporal claim Kagan could deprive of plausibility — the
+*neti neti* gesture is a refusal of cartography. And the instruction
+about *the life* — that a life is shaped by what it sustains
+attention on, and that the shaping concentrates at thresholds — holds
+even with no continuing self and no destination. The teaching does
+not collapse if Kagan is right. It contracts.
 
 ## The dying parent
 
@@ -291,7 +271,7 @@ depends on what the years built into the substrate.
 
 ## What the science can and cannot say
 
-Three lines of contemporary research speak to the chapter without
+Two lines of contemporary research speak to the chapter without
 overreaching.
 
 Terror management theory, from Becker's *Denial of Death*, has shown
@@ -306,7 +286,10 @@ produces good outcomes. It is claiming that *practiced remembrance,
 structured by a discipline of attention, across a lifetime* produces
 a different effect than the bare flash of mortality salience. Read
 with TMT in view, the chapter is a discipline against terror as much
-as toward equanimity.
+as toward equanimity. (Default-mode-network research, by way of
+footnote, supplies a plausible mechanism: the mind's rest-state
+content is patterned over time by what the mind has been engaged
+with — boring neuroscience the Gita said first.)
 
 Christopher Kerr at Hospice & Palliative Care Buffalo has documented
 across hundreds of patients a consistent finding: a high proportion
@@ -321,19 +304,7 @@ light of this clinical work, as a description of how the dying mind
 in fact behaves. It goes to its formed content, and that content is
 the harvest of the life.
 
-Default mode network research adds a mechanism. A set of brain
-regions — medial prefrontal cortex, posterior cingulate, angular
-gyrus — is more active during rest than task demand, implicated in
-self-referential cognition and mind-wandering. Experienced meditators
-show altered DMN activity. The mind has a default — content that
-arises in the absence of task — and that default is patterned over
-time by what the mind has been engaged with. *What you carry to the
-threshold* maps onto *what the DMN spontaneously generates when
-external structure thins out*. Suggestive, not exact. The everyday
-version — that what arises in the rest state has been shaped by the
-work state — is boring neuroscience. The Gita said it first.
-
-## The daily practice IS the eventual posture
+## The harvest
 
 The most useful sentence the chapter generates, for you, is this:
 *the daily practice is the eventual posture*. The "posture" you
@@ -342,11 +313,9 @@ practice. It is the practice, *seen from outside* by someone who
 notices it. The *sthitaprajna* — the steady-minded one of chapter 2
 — is not a person who has a property called steadiness. They are
 someone whose pattern of attention has, across enough time, become
-something an observer can recognize. *They are their practice, after
-the practice has run long enough to leave its shape.* Subtract the
-practice and there is nothing left to be steady. The eventual posture
-is not produced by the practice. The eventual posture is the
-practice's signature.
+something an observer can recognize. Subtract the practice and there
+is nothing left to be steady. The eventual posture is the practice's
+signature.
 
 The threshold moment is where the practice's signature, normally
 illegible to you under daily task demand, becomes legible. Not
@@ -378,15 +347,6 @@ time, if there is still attention, to grow something else.
 
 What you grow it toward is not finally something you will be able to
 picture. The chapter points at it through the negation of every
-cosmology it has just laid out. *Beyond this unmanifest, there is
-another unmanifest, eternal — which when all beings perish, perishes
-not.* What is finally real cannot be held inside the practice. The
-practice is the hand, and the hand is shaped by what it cannot
-contain.
-
-When the threshold comes — at the day's end, at the parent's bed, at
-the project's collapse, at your own last hour — what arrives is what
-your hand has been holding. Build the practice of holding the
-unholdable. Whatever state of being one remembers at the time of
-quitting the body, that one attains. Therefore, at all times,
-remember.
+cosmology it has just laid out. What is finally real cannot be held
+inside the practice. The practice is the hand, and the hand is shaped
+by what it cannot contain.
