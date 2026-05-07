@@ -484,24 +484,18 @@ What the science does together, across these three lines, is
 constrain the chapter's claim without authorizing it. Mortality
 awareness without practice destabilizes. The dying mind goes to its
 formed content. The everyday rest-state default is shaped by the
-ordinary day's attention. None of this proves the chapter's
-metaphysics. None has anything to say about what 8.20–22 points at.
-All of it is consistent with the chapter's central practical claim
-and bounds it where bounding is honest.
+ordinary day's attention. The findings are consistent with the
+chapter's central practical claim and bound it where bounding is
+honest.
 
 ## The daily practice IS the eventual posture
 
 One more turn. The most useful sentence the chapter generates, for a
 2026 reader, is this: *the daily practice is the eventual posture*.
-Read it in two registers.
-
-The first register is timeline. What you do daily is what you become
-across years. This is uncontroversial — habit research, character
-psychology, common sense. The chapter does not need to argue this
-register; the reader brings it.
-
-The second register is identity. The "posture" you eventually have
-is not a possession you accumulate alongside the practice. It is the
+What you do daily is what you become across years — habit research,
+character psychology, common sense, the reader brings it. The harder
+register is identity. The "posture" you eventually have is not a
+possession you accumulate alongside the practice. It is the
 practice, *seen from outside* by someone who notices it. The
 sthitaprajna — the steady-minded one of chapter 2 — is not a person
 who has a property called steadiness. They are someone whose pattern
@@ -537,8 +531,6 @@ That is not an instruction to stop. It is an instruction to keep
 holding it, knowing that what you hold is more than what you can
 contain. The hand around the unholdable is the practice. The shape
 the hand takes, after years, is the posture.
-
-## Closing
 
 A reader in middle life in 2026, with a parent declining, a project
 that just ended hollow, and a phone that owns the last fifteen

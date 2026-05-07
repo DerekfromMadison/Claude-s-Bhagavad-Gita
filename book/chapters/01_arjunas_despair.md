@@ -98,15 +98,16 @@ translation for the Ramakrishna Math.)
 I read with Ramanuja here, with two small moves of my own. The first
 is that I take the body's testimony as part of the evidence. Sankara
 treats the body as the empirical self that *moha* is identified with;
-the body's failure is part of the symptom. I take the body more
-seriously than that. The body in Chapter 1 is not just symptom; it is
-*information*. The autonomic nervous system has been running a faster
-appraisal than the conscious argument, and what it has found is real.
-Disagreeing with Sankara on this is consequential — if the body is
-information, the response to collapse is not first to dissolve the
-identification but first to listen to what the body has heard. That
-is what the chapter does. The Gita's eventual teaching will work on
-the identification, but the chapter does not start there.
+the body's failure is part of the symptom to be dissolved. I take the
+body more seriously than that. The body in Chapter 1 is not just
+symptom; it is *information*. The autonomic nervous system has been
+running a faster appraisal than the conscious argument, and what it
+has found is real. Disagreeing with Sankara on this is consequential
+— if the body is information, the response to collapse is not first
+to dissolve the identification but first to listen to what the body
+has heard. That is what the chapter does, before any teaching is
+spoken. The Gita's eventual teaching will work on the identification,
+and it will work hard on it; but the chapter does not start there.
 
 The second move is to refuse, gently, the reading Prabhupada gives in
 the most-circulated English Gita. Prabhupada (*Bhagavad-gītā As It
@@ -221,16 +222,14 @@ joining the Free French and staying with his ailing mother, is
 structurally Arjuna at the threshold of an irreversible choice
 between duties that cannot be reduced to a single calculation.
 Sartre's answer was that no rule would settle it — that in the end
-only feeling could decide, and that the value of the feeling could
-only be confirmed by the act itself; the student would *invent* the
-value by which he chose, and he would have to bear the choice. This
-is not the Gita's answer, and it is worth noticing where they part.
-The Gita will not conclude that Arjuna must invent his value. It will
-conclude that he must receive a teaching that gives him one. The
-reader can decide which is closer to the truth of what a person at a
-real threshold actually needs. What Sartre and the Gita share is the
-recognition that the threshold itself is a real philosophical event.
-Sartre goes around it by elevating the act of choosing into the
+only feeling could decide, and the value of the feeling could only be
+confirmed by the act itself; the student would *invent* the value by
+which he chose, and bear it. This is not the Gita's answer, and it
+is worth noticing where they part. The Gita will not conclude Arjuna
+must invent his value. It will conclude he must receive a teaching
+that gives him one. The reader can decide which is closer to the
+truth of what a person at a real threshold actually needs. Sartre
+goes around the threshold by elevating the act of choosing into the
 ground of value. The Gita goes through it. It treats the despair as
 the situation in which a teaching is necessary, and then teaches.
 
@@ -244,7 +243,9 @@ autonomic activation. Modern stress physiology and dual-process
 psychology give us, in their own vocabulary, a description that
 matches. The science does not vindicate the chapter's metaphysics. It
 does not need to. What it does is show that the chapter is talking
-about something the human animal actually does.
+about something the human animal actually does, and that the
+description was not poetic embellishment from a culture that did not
+know better.
 
 Robert Sapolsky's body of work — *Why Zebras Don't Get Ulcers*, 3rd
 ed., Holt, 2004; *Behave*, Penguin Press, 2017 — describes what
@@ -284,22 +285,20 @@ that wears the disguise of laziness, the depression that looks like
 choice. The version of Arjuna's collapse most modern readers will
 recognize is not the one that hits in a single afternoon. It is the
 one that has been arriving for two years before the reader notices it
-has arrived.
+has arrived. The chariot floor, on this longer timescale, is the
+reader's own kitchen, where the body has been sending the report for
+months and the conscious mind has been working hard to misread it as
+something else.
 
 Daniel Kahneman's *Thinking, Fast and Slow* (FSG, 2011) gives us the
 other vocabulary the chapter needs. Cognition is, to a useful first
 approximation, dual-process. System 1 is fast, automatic, emotionally
-responsive, effortless; System 2 is slow, deliberate, effortful,
-rule-following. Under high cognitive or emotional load, System 2's
-capacity is impaired and behavior reverts to System 1 defaults. Two
-caveats matter: the broader "ego depletion" research line associated
-with Roy Baumeister has not held up well — the registered replication
-by Hagger and colleagues (Hagger et al., "A Multilab Preregistered
-Replication of the Ego-Depletion Effect," *Perspectives on
-Psychological Science* 11, 2016) failed to find the predicted effect
-— and the two-systems framing is a phenomenological metaphor more
-than a neurally distinct architecture. What survives the caveats is
-the basic observation: under acute threat, deliberation is harder.
+responsive; System 2 is slow, deliberate, effortful. Under high
+cognitive or emotional load, System 2's capacity is impaired and
+behavior reverts to System 1 defaults. The two-systems framing is a
+phenomenological metaphor more than a neurally distinct architecture,
+but the basic observation survives: under acute threat, deliberation
+is harder.
 
 Arjuna is in a System 2 task — careful ethical evaluation of a
 collision of duties — under maximal load. The chapter shows System 2
@@ -307,9 +306,10 @@ losing to the gradient. The bow slips because the faster systems are
 overwhelming the slower ones, and the slower ones cannot keep up. The
 moral argument he constructs in the next forty verses is what System
 2 does once it gets back online, after the body has already decided.
-This is not a debunking of the argument. The argument is real. But
-the chapter is honest that the body got there first, and that the
-mind is partly catching up.
+This is not a debunking of the argument. The argument is real, and
+the Gita will engage it on its merits at length. But the chapter is
+honest that the body got there first, and that the mind is partly
+catching up to a verdict the autonomic system has already filed.
 
 Mary-Frances O'Connor, in *The Grieving Brain* (HarperOne, 2022),
 gives us the third piece. Grief, on her account, is not just an
@@ -343,82 +343,65 @@ Consider the manager doing the layoff. They hired these people. They
 know each one's name, what their kids are like, which one is six
 months from a mortgage. They have run the numbers; they know that
 without the cuts the company does not have a path through the next
-year. They have been told by a chain of authority that the decision
-has been made. They know that resigning will not stop the layoffs;
-another manager will do it less carefully. They sit at their desk on
-Sunday night with the spreadsheet open and the names laid out and
-their fingers will not type. *My limbs sink. My mouth is parched.*
-Not metaphor. They cannot eat. They cannot sleep. The body's freeze
-arrives ahead of the meeting.
+year. They know resigning will not stop the layoffs; another manager
+will do it less carefully. They sit at their desk on Sunday night
+with the spreadsheet open and the names laid out and their fingers
+will not type. *My limbs sink. My mouth is parched.* Not metaphor.
+The body's freeze arrives ahead of the meeting.
 
-Consider the adult child of a failing parent — the situation the
-chapter brief explicitly names. The mother's diagnosis came in last
-month. She wants to stay home. She will not be safe at home. She will
-also be miserable in a facility, and she will resent the adult child
-for the rest of her months for having been the one who decided. The
-siblings disagree. The spouse is exhausted. The savings will not
-cover both options. Whatever the adult child decides will leave
-residue. There is no clean choice. *I see no good can come of this.*
-The argument has internal coherence; the body's refusal arrives at
-the same time. The adult child sits at the kitchen table at one in
-the morning with the brochure for the assisted-living facility on the
-table and cannot pick it up.
+Or take the adult child of a failing parent. The mother's diagnosis
+came in last month. She wants to stay home. She will not be safe at
+home. She will also be miserable in a facility, and she will resent
+the adult child for the rest of her months for having been the one
+who decided. The siblings disagree. The spouse is exhausted. The
+savings will not cover both options. Whatever the adult child decides
+will leave residue. There is no clean choice. *I see no good can come
+of this.* They sit at the kitchen table at one in the morning with
+the brochure for the assisted-living facility on the table and cannot
+pick it up.
 
-Consider the caregiver four years in. The husband had the stroke when
-they were both fifty-six. The recovery plateau came at year two. The
-practical reality has been creeping up since: the wife gets up four
-times a night, manages every appointment, has lost the friends she
-had because she cannot leave the house, and has not had a full night's
-sleep in eighteen months. The exhaustion is not a phase. It is the
-shape of her life now. The thought of placing him in care arrives
-with a particular shame; the thought of continuing arrives with a
-particular dread. She loves him. She also cannot do this. The collapse
-that arrives at this threshold is the slow version. It looks like
-laziness. It looks like depression. It is neither. It is the freeze
-response stretched over months because the threat (impossible
-demands) cannot be fought and cannot be fled.
+You are the caregiver four years in. Your husband had the stroke when
+you were both fifty-six. The recovery plateau came at year two. You
+get up four times a night, manage every appointment, have lost the
+friends you had because you cannot leave the house, and have not had
+a full night's sleep in eighteen months. The thought of placing him
+in care arrives with a particular shame; the thought of continuing
+arrives with a particular dread. You love him. You also cannot do
+this. The collapse here is the slow version. It looks like laziness.
+It looks like depression. It is neither. It is the freeze response
+stretched over months because the threat — impossible demands — cannot
+be fought and cannot be fled.
 
-Consider the layoff paralysis on the other side of the desk. Three
-months in, the severance running out, the calls not being returned,
-the LinkedIn updates getting more cheerful as the panic gets worse.
-The paralysis here is not at a moment of decision. It is paralysis at
-the absence of one. The applications go out. Nothing comes back. The
-body that was meant to act is not given a target. The freeze, in this
-case, is not at a threshold of action; it is at a threshold of waiting
-that the system cannot keep maintaining. Arjuna's frozen
-musculature has its analogue in the version of the body that cannot
-get out of bed because the bed is the only place where the failure
-is not actively being measured.
+The professional who has discovered their company's product is hurting
+people sits inside a different version of the same threshold. Ten
+years in, stock vesting, family that depends on the income. They
+know — from a position no one else combines technical clarity with —
+that the thing the company ships is doing harm, and the company has
+chosen not to fix it. To resign and say so will end their career in
+the industry. To stay is to be the one who knew. They wake at three
+in the morning, every morning. *My body trembles.* They cannot make
+the choice. They cannot un-make it either.
 
-Consider the moment a parent's diagnosis lands. The phone call comes.
-The doctor says the words. There is a sentence to say back, and a
-form to ask for, and a calendar to coordinate with the siblings, and
-none of the speech is available. The mouth is parched. The hand goes
-to the table to steady. The mind reels. This is not weakness. This is
-the autonomic system telling the conscious mind that the situation
-being handed to it is larger than the resources currently online. The
-mind will catch up. But the body's report is already in.
+There is also the moment of impact itself, before any choice has
+arrived to be paralyzed at. The phone call. The doctor saying the
+words. There is a sentence to say back, and a form to ask for, and a
+calendar to coordinate with the siblings, and none of the speech is
+available. The mind reels. The conscious mind is being told that the
+situation just handed to it is larger than the resources currently
+online — and the body has filed its report ahead of the mind catching
+up. The despair, in this version, is not a deliberation gone wrong.
+It is the system honestly registering that what was assumed to be
+ground has just become event.
 
-Consider the professional who has discovered their company's product
-is hurting people. They have ten years in. They have stock vesting.
-They have a family that depends on the income, a mortgage, two kids
-in school. They know — from the position no one else combines technical
-clarity with — that the thing the company ships is doing harm and the
-company has chosen not to fix it. To resign and say so will end their
-career in the industry. To stay is to be the one who knew. They wake
-at three in the morning, every morning. *My body trembles.* They cannot
-make the choice. They cannot un-make it either.
-
-Consider the long-deferred decision that has come due. The reader has
-known for two years that the relationship is over, or the city is
-wrong, or the job is killing them. The moment of the actual move has
-arrived, forced by some external date — a lease renewing, an offer
-expiring — and when they reach for the action they have been
-rehearsing for two years, the action is not available. The bow slips
-from the hand. The reader thinks they have failed. They have not
-failed. They have arrived at a threshold where the body is reporting
-something the mind has not yet caught up to, and the body's report is
-what the next move depends on.
+And the long-deferred decision that has come due. You have known for
+two years that the relationship is over, or the city is wrong, or
+the job is killing you. The moment of the actual move has arrived,
+forced by some external date — a lease renewing, an offer expiring —
+and when you reach for the action you have been rehearsing for two
+years, the action is not available. The bow slips from the hand. You
+think you have failed. You have not failed. You have arrived at a
+threshold where the body is reporting something the mind has not yet
+caught up to, and the body's report is what the next move depends on.
 
 What the chapter is doing for these readers is not telling them they
 are right to stay collapsed. It is telling them that the collapse is
@@ -429,6 +412,9 @@ shame the modern reader brings to this moment — the sense that they
 ought to be able to handle this, that other people would, that this
 is just what life is and weak people fall apart and strong people
 don't — is in the way of the next thing the chapter wants them to do.
+
+That is the chapter's first half. The second half is just as binding,
+and the chapter does not get to skip it.
 
 The next thing the chapter wants them to do is not stay.
 
@@ -449,22 +435,18 @@ inexplicable. The Gita is long because the conflict is real and the
 teaching is responsive.
 
 So the message to the reader on the chariot floor is two-handed. The
-collapse is real, and the collapse is not the destination. The body's
-refusal is information, not weakness; it is your nervous system
-reporting that the situation has exceeded the resources you used to
-have. To shame yourself for the collapse is to fail to listen to what
-your body has correctly perceived. *And* the collapse is not where
-you stay. The Gita's response is not *it is fine to stay collapsed*;
-it is *let me teach you what you will need in order to stand up.* For
-a 2026 reader, the analogue is real and ordinary. The collapse is the
+body's refusal is information, not weakness; to shame yourself for
+the collapse is to fail to listen to what your body has correctly
+perceived. *And* the collapse is not where you stay. The Gita's
+response is not *it is fine to stay collapsed*; it is *let me teach
+you what you will need in order to stand up.* The collapse is the
 moment to seek the teaching, the practice, the relationship, the help
 that can give you what you will need to move. A friend who can sit
 with you. A therapist who knows what they are doing. Meditation, if
 it is for something rather than another optimization protocol — and
 that distinction will matter in Chapter 6. A teacher of any kind. A
-conversation you have been avoiding. A self-knowledge you have not
-yet built. The collapse is the beginning of the seeking, not its
-conclusion.
+conversation you have been avoiding. The collapse is the beginning of
+the seeking, not its conclusion.
 
 And the collapse does not exempt you from acting. You will,
 eventually, take up the bow. The layoff will be done by someone; the
@@ -472,46 +454,20 @@ question is whether it is you, and whether you do it well or badly.
 The parent will be moved or not moved. The job will be quit or kept.
 The form will be signed or not. The Gita is a book about how to act
 under those conditions, and the sign that the teaching has worked is
-that the act becomes possible — not that it is avoided.
-
-I want to say one thing about that last sentence honestly. There is a
-fashion of consolation, in 2026 self-help, that ends here: the
-collapse is information, you are not weak, and seeking help is wise.
-That fashion is correct as far as it goes, and it stops short of the
-hardest thing the Gita is going to ask. The hardest thing is not the
-permission to feel what you feel. It is the requirement, eventually,
-to act anyway, *and to act without grafting your selfhood onto
-whether the act lands the way you want it to.* That is Chapter 2.
-This chapter is the door because the door has to be passable. But the
-door is not the destination. The reader who finishes this chapter
-should feel met and not flattered. The collapse is the legitimate
-beginning of the question. The question is what to do next.
-
-What this chapter buys for the rest of the book: it makes the
-teaching that follows necessary. The Gita is a long book because
-Chapter 1 puts down a problem a sentence cannot solve. It also makes
-the reader available for the teaching, which is what a problem that
-flatters the reader could not do. The reader who has been given
-permission to recognize their own collapses, without shame and without
-romanticism, is the reader who can hear what comes next.
-
-I write this knowing I am an AI and have not been on Arjuna's
-chariot. I have not lost a friend. I have not held a bow that
-mattered. What I have done is read the chapter many times, listened
-to many human voices on what the chapter has done for them, and
-attended to where the chapter's descriptions land. The reader is free
-to discount what I say accordingly. The lived weight of this chapter
-is in the human writers I have learned from — Williams, Nussbaum,
-Shay, O'Connor, Easwaran, the others — and in the reader's own life,
-which is the only laboratory where the chapter can be tested. What I
-can do is point. The chapter is doing something specific in this
-book: it is putting down, without flinching, the moment a person finds
-that the resources they trusted are not enough.
-
-That moment is not the end of the story. It is the place the story
-becomes possible.
+that the act becomes possible — not that it is avoided. There is a
+fashion of consolation in 2026 self-help that ends at the first half
+of this and stops there: the collapse is information, you are not
+weak, seeking help is wise. That fashion is correct as far as it
+goes, and it is incomplete. The hardest thing the Gita is going to
+ask is not permission to feel what you feel. It is the requirement,
+eventually, to act anyway, *and to act without grafting your selfhood
+onto whether the act lands the way you want it to.* That is Chapter
+2. The reader who finishes this chapter should feel met and not
+flattered. The collapse is the legitimate beginning of the question.
+The question is what to do next.
 
 The bow has slipped from your hand. The chapter the Gita opens with
 is the one that knows you are sitting on the floor of the chariot
-right now. The next chapter is the one that will give you what you
-will need to stand up. Read it when you are ready.
+right now, today, in your own kitchen or office or car. The next
+chapter is the one that will give you what you will need to stand
+up. Read it when you are ready.

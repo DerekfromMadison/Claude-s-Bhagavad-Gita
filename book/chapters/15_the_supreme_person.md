@@ -193,18 +193,10 @@ The downstream disagreements are real. But the *structural* claim —
 that the ultimate is not one item on the inventory, however exalted —
 is held in common, and it is the claim that lets the chapter be
 taken seriously by a reader who is not pre-committed to any sectarian
-frame.
-
-Heidegger makes a related move in a different register. The
-ontological difference: Being is not itself a being. We always think
-Being only by passing over a being, and we always think a being only
-by passing over Being. Heidegger is not making a theological claim,
-and in some moods is hostile to theological appropriation; his
-political history (the Nazi-rectorship period, 1933–34) is one a
-careful reader holds in view. What he gives the reader of chapter 15
-is a contemporary philosophical vocabulary for what the Gita does at
-15.18 — refusing to let what is finally real be folded back into the
-inventory of things that are.
+frame. (Heidegger makes a related move in a different register with
+his ontological difference — Being is not itself a being — though the
+political record of his rectorship period is one a careful reader
+holds in view.)
 
 And William James. *The Varieties of Religious Experience* names a
 "More" — a beyond — into which the further limits of human being
@@ -335,106 +327,69 @@ chapter does not require you to settle whether the toward-which is
 finally personal or impersonal. It requires you to have one — or to
 notice that you do not, and to take the noticing seriously.
 
-## The career decision and the colonization risk
+Two cases sharpen the test. The promotion offered, the partnership
+under strain. The chapter does not tell you what to do in either; it
+tells you what question to ask first.
 
-A particular shape this question takes, often enough that it is
-worth naming on its own.
-
-You are offered a promotion. It pays materially better. It requires
-you to move cities, or to absorb most of your discretionary
-attention for several years, or to take on a managerial scope that
-will reshape what your weeks look like. The offer is real. The
-alternatives are real. The decision is timed — there is a date by
-which an answer is needed.
-
-The chapter does not tell you what to do. It tells you what question
-to ask first, before the calculation about pay and scope and
-trajectory.
-
-*What would this decision do to my rootedness?*
-
-The new role is a branch. So is the old one. The issue is not which
-branch is taller. The issue is whether the new role lets your life
-remain pointed at what you would, in a quiet hour, call its root —
-or whether it is the kind of role that quietly conscripts your
-attention until the role itself becomes the thing you take to be the
-root. People answer this badly all the time. They take a role for
-good local reasons (more pay, more status, a worthy challenge) and
-discover, four years in, that they no longer remember what the root
-was supposed to be. The chapter would call this a successful
-colonization of the practitioner by the canopy.
-
-The colonization is rarely dramatic. The job's demands grow
-incrementally, the calendar fills up, the mental space the job
-occupies gradually exceeds the mental space you have without it.
+A promotion arrives. It pays materially better, requires a move, or
+absorbs most of your discretionary attention for several years. The
+offer is real, the alternatives are real, and the date by which an
+answer is needed is fixed. Before the calculation about pay and
+scope: *what would this decision do to my rootedness?* The new role
+is a branch. So is the old one. The issue is not which branch is
+taller but whether the new role lets your life remain pointed at
+what you would, in a quiet hour, call its root — or whether it is
+the kind of role that quietly conscripts your attention until the
+role itself becomes the thing you take to be the root. People answer
+this badly all the time. They take a role for good local reasons
+(more pay, a worthy challenge) and discover, four years in, that
+they no longer remember what the root was supposed to be. The
+colonization is rarely dramatic. The calendar fills, the mental
+space the job occupies gradually exceeds what you have without it.
 Family is less because the job is more. Friendships are maintained
-at the level the job permits. The personal projects you told
-yourself you would keep going are deferred, then deferred again, and
-eventually they stop being deferred because they are no longer in
-your head as candidates.
+at the level the job permits. The personal projects are deferred
+until they stop being deferred because they are no longer in your
+head as candidates. The chapter
+is not telling you not to take the role. Sometimes the role is the
+right one. What the chapter asks is that you make the decision
+*under* the discipline of the axe rather than *as* a branch.
 
-The chapter is not telling you not to take the role. Sometimes the
-role is the right one. What the chapter is asking is that you make
-the decision *under* the discipline of the axe rather than *as* a
-branch — that you ask, before saying yes, what the role's effect on
-your pointing will be, and what countermeasures you will need to
-keep the pointing intact. A role taken under the axe is a different
-thing from a role taken without it. The role might be identical on
-paper. The life inside the role will not be.
-
-## The relationship under strain
-
-The chapter has its sharpest pastoral force in long-running
-relationships that have reached the point where both partners are
-aware they have grown in different directions. One has remained
-rooted in something the other does not now share. The conversations
-are honest; the feelings are real; the question is what to do.
-
-The chapter is not a marriage manual, and I will not pretend it is.
-But it names a fact often missed: a partnership requires either
-shared rootedness or a mutual recognition that the rootednesses are
-different and the partnership is held in spite of, or because of,
-that difference. What partnerships cannot survive — not in the long
-arc, not against weather — is the pretense that the local connection,
-the affection and history and shared logistics, is itself the root.
-
-The local connection is a beautiful and important branch. It is not
-the root. When the distinction is forgotten, the partnership is
-held together by what is most subject to weather — mood, crisis,
+The relationship case is sharper still. A long partnership has
+reached the point where both partners are aware they have grown in
+different directions. One has remained rooted in something the other
+does not now share; the conversations are honest, the feelings are
+real, and the question is what to do. The chapter is not a marriage
+manual, but it names a fact often missed: a partnership requires
+either shared rootedness or a mutual recognition that the
+rootednesses are different and the partnership is held in spite of,
+or because of, that difference. What partnerships cannot survive —
+not in the long arc, not against weather — is the pretense that the
+local connection, the affection and history and shared logistics, is
+itself the root. When the distinction is forgotten, the partnership
+is held together by what is most subject to weather: mood, crisis,
 financial pressure, the children's schedules, the small accumulating
 disappointments. These are exactly the conditions under which the
 branches sway most. A partnership rooted only in its own local
-weather is a partnership the weather will eventually take.
-
-The axe here is the discipline of asking — quietly, regularly,
-without melodrama — *am I in this for what passes through it, or for
-what abides under it?* A partnership where both partners can name
-the something-under-it, and find it shared, has a foundation the
-weather cannot reach. A partnership where they cannot has a problem
-the chapter is not the only voice naming, but is one of the most
-direct.
-
-This is not, again, an argument for less love. It is an argument
-for love that knows what it is rooted in. The deepest love I know how
-to describe is the kind that does not ask the beloved to be the
-foundation of one's life — that loves them fully without that load
-on them, because the load is borne by something that is not them and
-that they cannot, by leaving or dying, take away.
+weather is a partnership the weather will eventually take. The axe
+here is the discipline of asking — quietly, regularly, without
+melodrama — *am I in this for what passes through it, or for what
+abides under it?* The deepest love I know how to describe is the
+kind that does not ask the beloved to be the foundation of one's
+life — that loves them fully without that load on them, because the
+load is borne by something that is not them and that they cannot, by
+leaving or dying, take away.
 
 ## False rootedness and the four candidates
 
 The chapter's most subtle warning is against substituting a
-beautifully positioned branch for the root.
+beautifully positioned branch for the root. Most people, sooner or
+later, find a candidate for their rootedness, and the candidates
+have shapes a 2026 reader will recognize on sight.
 
-Most people, sooner or later, find a candidate for their rootedness.
-The candidates have shapes the chapter would have had no language
-for and that a 2026 reader will recognize on sight.
-
-*Career-as-rootedness.* The vocation that aligns with one's gifts
-and feels, for years, like the thing one was made for. The
+The most common is career. The vocation that aligns with one's
+gifts and feels, for years, like the thing one was made for; the
 trajectory that gives the years their shape and the days their
-content. This is the most common candidate among people the book is
-addressing. It is also the most easily defended, because the career
+content. It is also the most easily defended, because the career
 gives back so much that is real — purpose, structure, the
 satisfaction of competence, an answer to the question *what do you
 do*. The career is a magnificent branch. It is not the root, and
@@ -442,35 +397,27 @@ when it ends — by retirement, by industry collapse, by the slow
 realization that the work no longer means what it used to — the
 person who made it the root is unmoored.
 
-*Status-as-rootedness.* The position one holds, the recognition one
-has earned, the place one occupies in a hierarchy of attention or
-respect. This is harder to admit to, because the language of status
-is rarely the language people use about themselves. But the
-phenomenology gives it away. The frequent checking of metrics,
-followers, mentions, invitations. The disproportionate hit when one
-of these falters. The particular kind of restlessness that follows
-a slight. Status is a branch that mistakes itself for the root with
-unusual frequency, in part because the architecture of the modern
-attention economy makes status-rootedness almost the default.
+Harder to admit is status: the position held, the recognition
+earned, the place occupied in a hierarchy of attention. The
+language of status is rarely the language people use about
+themselves, but the phenomenology gives it away. The frequent
+checking of metrics, followers, mentions, invitations; the
+disproportionate hit when one of these falters; the particular kind
+of restlessness that follows a slight. Status is a branch that
+mistakes itself for the root with unusual frequency, in part because
+the architecture of the modern attention economy makes
+status-rootedness almost the default.
 
-*Accomplishment-as-rootedness.* The shelf of finished projects, the
-book published, the company built, the children raised and
-educated, the pieces of work one can point to at the end of an
-afternoon. Accomplishment is a particularly sympathetic candidate
-because it looks productive. It is what one has *done*. But
-accomplishment shares a feature with status: it accumulates, and
-what accumulates also depletes. The accomplished person who has
-made accomplishment the root is one major failure away from a kind
-of unrootedness that is harder to recover from than the failure
-itself.
-
-*Comfort-as-rootedness.* The settled life, the home one likes, the
-routines that work, the small pleasures one has earned. Comfort is
-the branch that hides best, because it feels like rest rather than
-ambition. But a life that has made its ease the thing it most
-defends is a life that has made its ease the root. Some branches
-feel like quiet sufficiency, and the quiet ones can hold a life as
-firmly as the loud ones.
+Two further candidates round out the field. Accomplishment — the
+shelf of finished projects, the book published, the company built,
+the children raised — looks productive in a way that flatters; what
+accumulates also depletes, and the accomplished person who has made
+accomplishment the root is one major failure away from a kind of
+unrootedness harder to recover from than the failure itself. And
+comfort — the settled life, the routines that work, the small
+pleasures earned — hides best of all, because it feels like rest
+rather than ambition. A life that has made its ease the thing it
+most defends has made its ease the root.
 
 These are all good. Some may be very good. The chapter's warning is
 that none of them, taken alone, is the root. Branches do not finally
@@ -594,31 +541,17 @@ finally, *shape* them, because the shaping is being done by
 something that is not local, that does not wax or wane with the
 day's weather, and that the local cannot finally substitute for.
 
-## What you already know
-
 If the inverted tree, the axe, and the pointing have made any sense
 at all, then you already know, in some part of yourself, what you
-point at. You may not have language for it. You may not be able to
-name it in any register the Vedantic tradition would recognize. But
-there is, in most lives, a quiet thing the rest of the life is for.
-The career is *for* something. The relationships are *for* something.
-The hours given to a craft, to a child, to an old friend, to a piece
-of work that may never finish — these are *for* something, and the
-something is rarely the visible foundation. It is the root, in the
-unmanifest from which the visible descends.
+point at. The career is *for* something. The relationships are *for*
+something. The hours given to a craft, to a child, to an old friend,
+to a piece of work that may never finish — these are *for* something,
+and the something is rarely the visible foundation. The chapter's
+gift is not to give you the something. The chapter's gift is to
+teach you to recognize it as the something, and to keep the axe near
+at hand for the days when the branches start to feel like the floor.
 
-The chapter's gift is not to give you the something. The chapter's
-gift is to teach you to recognize it as the something, and to keep
-the axe near at hand for the days when the branches start to feel
-like the floor.
-
-A life points somewhere or it is shaped by what is nearest. Make
-sure your life is pointed. Then, on a Tuesday morning when the
-coffee is hot and the noise has not yet begun, make sure you can
-still see what it is pointed at.
-
-If you can, the day is yours.
-
+If you can still see what your life is pointed at, the day is yours.
 If you cannot, the day belongs to the branches.
 
 Pick up the axe.

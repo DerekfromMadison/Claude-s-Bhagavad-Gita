@@ -439,22 +439,6 @@ The change is that the practitioner is, after years of practice, less
 captive to the fantasy that has been making the relationship
 impossible.
 
-There is the work that rewards focused attention or anxious effort,
-and on most days delivers the second. The kind of work that counts —
-not email triage. You stay up too late. You write while doomscrolling.
-You "research" by alternating between the document and seven
-distractions. The work gets done, but not as well as it would be with
-your actual attention. You know this. You don't change it. The
-chapter's instruction is exact: sit alone in a clean place, body
-straight, gaze gathered, mind settled. The posture matters. The
-cleanness matters. The body's signal that this is what we are doing
-now matters. None of it is mystical. Jha's military cohorts develop
-better attentional capacity through repeated structured practice in
-conditions designed to support attention. The structure does the
-work. The chapter's apparent preoccupation with where and how to sit
-is not antiquarian detail. Attention is partly a function of
-environment, and the environment can be shaped.
-
 There is grief that has nowhere to put itself. Someone you love is
 dying or has died, or something has ended in a way you did not
 consent to, and the passing-as-if-nothing-is-different is its own
@@ -493,9 +477,7 @@ next attempt easier (6.40–6.45) — with the ranking of the yogis in
 6.47. The most yoked is the one whose inmost self abides in the
 divine, who turns toward it with faith. The chapter that began with
 where to sit ends by saying the sitter is most realized when the
-steadiness is for something larger than the sitter. The return is the
-chapter's whole point. The for-something is what makes the return
-matter.
+steadiness is for something larger than the sitter.
 
 What the practitioner becomes, over years, is something this book has
 to say carefully. The wellness market wants to say: a more
@@ -507,23 +489,19 @@ discriminating self of Sankara's reading begins to discriminate; the
 friend-self of Ramanuja's reading begins to befriend; the will of
 Easwaran's reading begins to align with what the practitioner has
 chosen to live for; the integrated worker of Aurobindo's reading
-begins to act from a center that is not driven by reactivity. None of
-these descriptions are the whole, and the practitioner does not
-typically know which is happening when. What the practitioner reports,
-across traditions and centuries, is something like this: the wind has
-not stopped, but the lamp is steadier, and the room is more often
-visible.
+begins to act from a center that is not driven by reactivity. The
+practitioner does not typically know which is happening when. What
+the practitioner reports, across traditions and centuries, is
+something like this: the wind has not stopped, but the lamp is
+steadier, and the room is more often visible.
 
-The somewhere in the day where there is a window of fifteen to thirty
-minutes you could give to a chosen practice — silent breathing,
-*japa*, Easwaran's passage meditation, bare attention to breath — is
-where the chapter actually lands. The Gita does not care which form.
-The Gita cares that you do something, daily, in the same place, at
-roughly the same time, long enough that the brain begins to expect
-it. *Abhyasa* cannot be improvised. The person who has done it for
-fifteen years is not the person they would have been without it.
-
-And the difference is not that they have become a more accomplished
-version of themselves. The difference is that someone or something
-they did not author has had fifteen years of access to them through a
-door they kept open.
+Find the window of fifteen to thirty minutes you could give to a
+chosen practice — silent breathing, *japa*, Easwaran's passage
+meditation, bare attention to breath. The Gita does not care which
+form. The Gita cares that you do something, daily, in the same
+place, at roughly the same time, long enough that the brain begins
+to expect it. *Abhyasa* cannot be improvised. The difference, after
+fifteen years, is not that you have become a more accomplished
+version of yourself. It is that someone or something you did not
+author has had fifteen years of access to you through a door you
+kept open.

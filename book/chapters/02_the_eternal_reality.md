@@ -169,13 +169,10 @@ Four readings, one verse. They disagree about the metaphysics — Is
 the agent finally non-dual? Distinct? An instrument of a personal
 divine? An instrument of an evolving spiritual working? — and they
 converge on the practice. Act. Do not graft selfhood onto the
-result.
-
-The convergence is the chapter's strongest evidence. Sankara and
-Ramanuja agreed about almost nothing else; they disagreed about
-nearly every metaphysical question one can put to the Vedanta. They
-agreed on this. The instruction is more durable than any single
-metaphysical frame.
+result. Sankara and Ramanuja disagreed about nearly every
+metaphysical question one can put to the Vedanta. They agreed on
+this. The instruction is more durable than any single metaphysical
+frame.
 
 What the instruction prohibits, on the reading I am committing to,
 is the *collapse of agency into result* — the move by which the
@@ -209,24 +206,17 @@ not a "further fact" beyond the physical and psychological facts
 about a person. It is constituted by relations of psychological
 continuity and connectedness — chains of overlapping memories,
 intentions, beliefs, character — and there is no separately
-existing self that *has* these relations. Parfit's most-cited
-conclusion is that personal identity, in the strict sense, is not
-what matters in survival; what matters is continuity and
-connectedness with any cause. Once those are present, the further
-question of whether the resulting person "is the same person" is
-empty.
+existing self that *has* these relations. What matters in survival
+is continuity, not identity in the strict sense.
 
 The Pali Buddhist tradition's *anattā* — not-self — is older than
 the classical Vedantic commentators and was the Gita's nearest
-philosophical opponent in its own century. Bhikkhu Bodhi, the
-contemporary American Theravada monk and translator, is careful to
-note that *anattā* is not a denial of all selfhood: the Buddha does
-not say "there is no person." It is the precise denial that any of
-the five aggregates — form, feeling, perception, formations,
-consciousness — singly or together, is the substantial abiding self
-the non-Buddhist traditions of the time were positing. The Gita's
-*atman* is exactly that. There is the flow of aggregates; there is
-no *atman* underneath.
+philosophical opponent in its own century. Bhikkhu Bodhi notes that
+*anattā* is not a denial of all selfhood; it is the precise denial
+that any of the five aggregates — form, feeling, perception,
+formations, consciousness — singly or together, is the substantial
+abiding self the Gita's *atman* names. There is the flow of
+aggregates; there is no *atman* underneath.
 
 This book does not pretend it has settled the metaphysics. It has
 read across the traditions, weighed the readings, and committed to
@@ -312,12 +302,8 @@ wise person becomes free of disturbance. The Gita's frame, in
 2.55–2.72, is *constitutive*. The *sthitaprajña* has not just
 gotten their judgments right; they have undergone a reorganization
 of the place from which judgments are made. The seat of identity
-has shifted.
-
-A reader with only Epictetus has the technique. A reader with only
-the Gita has the orientation. Read together, they sharpen each
-other — and both, working at the level of practice, converge with
-something the chapter's portrait describes from inside.
+has shifted. A reader with only Epictetus has the technique; a
+reader with only the Gita has the orientation.
 
 ### What the science can show
 
@@ -510,11 +496,6 @@ grieving as if everything that mattered has been annihilated.
 The grief is real. The annihilation is not the right shape of the
 loss.
 
-Whether the consolation is finally true is a question this chapter
-does not settle. Whether it is *available* as a posture in which to
-grieve is not in question. It has been used by hundreds of millions
-of human beings for over two thousand years. It is still in use.
-
 ### Where the chapter leaves you
 
 The chapter is foundation, not instruction. Krishna does not yet
@@ -538,11 +519,5 @@ cannot reach. You will be able to act fully in a world whose
 results are not in your gift, and to grieve fully when what you
 love is taken, without either action or grief swallowing the place
 inside you from which both are done.
-
-That place is what *atman* names. Whether it is *Brahman*, or
-*jīva*, or aggregates moving in the appearance of a self, the
-classical commentators will keep arguing for as long as the human
-mind keeps trying to think these things through. The instruction
-does not wait for the argument to settle.
 
 Pick up the work. Do not pick up the result.

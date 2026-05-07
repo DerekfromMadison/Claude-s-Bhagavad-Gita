@@ -104,50 +104,27 @@ trouble starts when they are conflated.
 
 ## The traditions read the chapter different ways
 
-I will be brief here, because the cluster of disagreements has been
-laid out in earlier chapters and the cast of commentators is
-introduced once in front matter; I do not want to re-litigate the
-metaphysical questions for which Chapter 7 already chose the floor.
-But the Visvarupa is read differently by different traditions, and
-the differences matter for what the chapter is teaching.
+The Visvarupa is read differently by different traditions, and three
+of those readings are load-bearing for what the chapter teaches.
+
+Ramanuja, on the qualified non-dual reading I have committed to as
+the manuscript's metaphysical floor, takes the cosmic form as the
+actual body of the divine — what Arjuna asked for and what the Lord
+granted, neither subordinate to a more ultimate formless reality nor
+a pedagogical staging. The cosmos with all its beings, including the
+warriors and their unfolding deaths in time, is the body of the Lord.
+To see the *viśvarūpa* is to see what is actually the case. *Bhakti*
+— sustained loving attention to the personal form — is the mode of
+relation in which this seeing is survivable.
 
 Sankara, on the Advaita reading, treats the cosmic form as a real
-disclosure but not the ultimate reality; the form is a teaching
-device, a granted vision, that points beyond itself to the formless
-*nirguṇa Brahman*. The granted-ness is itself the signal: what
-requires granting is not final. Ramanuja, on the qualified non-dual
-reading I have committed to as the manuscript's metaphysical floor,
-takes the cosmic form as the actual body of the divine — what Arjuna
-asked for and what the Lord granted, neither subordinate to a more
-ultimate formless reality nor a pedagogical staging. The cosmos with
-all its beings, including the warriors and their unfolding deaths in
-time, is the body of the Lord. To see the *viśvarūpa* is to see what
-is actually the case. *Bhakti* — sustained loving attention to the
-personal form — is the mode of relation in which this seeing is
-survivable.
-
-Prabhupada, on the Gaudiya Vaishnava reading, agrees the universal
-form is real but reads the chapter's positive teaching as the
-*denouement*: the highest devotional relation is to the personal
-two-armed Krishna whom the devotee can love directly; the request at
-11.45 for the gentler form is not regression but recognition. Where
-Prabhupada slides into sectarian specifics about which personal form
-is the supreme one I do not follow. The structural claim, that the
-chapter culminates in the return to a face one can love, I do.
-
-Gandhi and Tilak, on the activist *karma yoga* readings, foreground
-11.33 — *be merely an instrument* — as the chapter's central ethical
-demand. The cosmic vision is not just contemplative theology; it
-terminates in instruction. Tilak's reading is the more austere: the
-warriors are already participants in a process larger than any one
-warrior's choice; refusing the action is not non-violence, it is
-self-deception. Gandhi adds the discipline that Tilak does not
-centrally hold — *anāsakti*, action without ownership — and refuses
-to derive license from the cosmic disclosure. Be the instrument; do
-not claim the action as yours; do not attach to its fruits. The
-distinction Gandhi insists on, between action as instrument and
-action as participation in the destroying side itself, will turn out
-to be the distinction the chapter most needs in 2026.
+disclosure but not the ultimate reality; the form is a granted
+vision that points beyond itself to the formless *nirguṇa Brahman*.
+The granted-ness is itself the signal: what requires granting is not
+final. Ramanuja can underweight this. The divine eye is given for the
+duration of the vision and then implicitly withdrawn. The chapter
+stages a discontinuity, not a permanent acquisition — and Sankara is
+right that this matters.
 
 Aurobindo synthesizes the registers. The *viśvarūpa* is the
 manifestation of what he calls the Time-Spirit, the World-Lord in
@@ -160,24 +137,24 @@ by reading the destruction as cosmic progress when the chapter does
 not say *and the cosmos is moving forward*. It says *I am time,
 ripened, come to destroy these worlds*.
 
-The literary-academic readers — Miller, Zaehner, Mascaró — approach
-the chapter as the dramatic peak of the poem, which it is. The arc
-moves from Arjuna's collapse in Chapter 1, through nine chapters of
-teaching, to a visionary moment that breaks the dialogic register
-entirely, and then back to a conversation changed by the vision.
-Without this rupture the later chapters lose their experiential
-ground. Treating the chapter as primarily a literary event
-underweights what it asks of the reader, but the literary readers are
-right that it is, among other things, the moment where the poem stops
-being a teaching and becomes an experience-report.
+Three other voices belong in the cluster but do not need full
+treatment here. Prabhupada reads the chapter's denouement as
+recognition that the highest devotional relation is to the personal
+two-armed Krishna; I take the structural claim and leave the
+sectarian specifics. Gandhi and Tilak foreground 11.33 — *be merely
+an instrument* — as the chapter's central ethical demand, with
+Gandhi insisting (against Tilak) that *anāsakti* refuses to derive
+license from the cosmic disclosure; the distinction will turn out
+to be what the chapter most needs in 2026. The literary-academic
+readers — Miller, Zaehner, Mascaró — are right that the chapter is,
+among other things, the moment where the poem stops being a teaching
+and becomes an experience-report.
 
 What the readings share, and what I take as the floor: the chapter
-stages an experience-type that is not generic mysticism. It has a
-specific structure. Vastness is granted; vastness is unbearable;
-vastness is asked to recede; vastness recedes; the personal face
-returns; the embodied life resumes, marked by what was seen. Each
-tradition foregrounds a different element of the structure. None can
-do without the structure as a whole.
+stages an experience-type with a specific structure. Vastness is
+granted; vastness is unbearable; vastness is asked to recede;
+vastness recedes; the personal face returns; the embodied life
+resumes, marked by what was seen.
 
 ## What modern philosophy can lend the chapter
 

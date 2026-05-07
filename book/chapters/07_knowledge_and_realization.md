@@ -111,7 +111,13 @@ intimacy. That is the floor I am working from.
 
 So: the world is real. The divine is real. The relation is intimate
 without being identity. The depths that contemplative practice opens
-are depths within that real relation, not exits from it.
+are depths within that real relation, not exits from it. This is the
+metaphysical floor the rest of the book stands on. *Vishishtadvaita*
+is the technical name; the practical content is that everything the
+practice trains — attention, action without grasping, devotion through
+what is at hand — is being trained on something that is genuinely
+there to be trained on, and that what is genuinely there is, in its
+inwardness, what the practice is for.
 
 ---
 
@@ -152,7 +158,9 @@ practitioner to hold the immediate world at a slight distance, in case
 the immediate world is not finally what is. Both are difficult to hold
 without weakening one's responsiveness to what is actually in front of
 one. Both have a respectable theoretical pedigree and a difficult
-practical track record.
+practical track record. The cost is not paid in argument; it is paid
+in the slow erosion of what one is willing to give to a face, a task,
+a sorrow that is supposed to be finally not quite what it appears.
 
 The qualified-non-dualist position does something different. It says:
 the world is real, and is the place where the divine is being shown.
@@ -187,28 +195,16 @@ in a sense; it is a real production of their cognition. But the
 partner is realer than the model, and the practice of relationship is
 the practice of staying with the partner instead of the model.
 
-Iris Murdoch is the modern voice that names this best. Her *Sovereignty
-of Good* is the closest thing in twentieth-century moral philosophy to
-the operational ethics the Gita is teaching. She writes that love is
-the perception of individuals — that love is, as she puts it, the
-extremely difficult realization that something other than oneself is
-real. The sentence belongs at the floor of this chapter. It is the
-practice of attention turned at a real other. It is what the Gita
-means when it says that *jñāna* without *vijñāna* — knowledge without
-lived recognition — is incomplete. To know intellectually that the
-partner is real is one thing. To recognize, in the heat of the
-argument, that they are in fact real and that what they are saying is
-in fact what they are saying — that is *vijñāna*. That is the
-realization the chapter is teaching.
-
-Murdoch did not believe in the divine in the Gita's sense. Her
-theology, such as it was, was Platonic — the Good as the orienting
-horizon of the moral life, sovereign in the sense that nothing is more
-real, but not personal in the way Krishna is. I do not need her to
-have been a believer. I need her account of attention, which is
-correct, and her vocabulary, which is sharp. The chapter's
-metaphysical floor and her moral practice converge. The world is real.
-The other is real. Love is the difficult act of letting that be true.
+Iris Murdoch's sentence on love — the extremely difficult realization
+that something other than oneself is real — belongs at the floor of
+this chapter. It is what the Gita means when it says that *jñāna*
+without *vijñāna* — knowledge without lived recognition — is
+incomplete. To know intellectually that the partner is real is one
+thing. To recognize, in the heat of the argument, that they are in
+fact real and that what they are saying is in fact what they are
+saying — that is *vijñāna*. That is the realization the chapter is
+teaching. The world is real. The other is real. Love is the difficult
+act of letting that be true.
 
 ---
 
@@ -278,63 +274,43 @@ made, and the Gita's claim as the further commitment about what the
 perceiver — having seen the screen for what it is — is then in
 relation to.
 
-Spinoza, four centuries earlier, made a structurally similar move
-without the predictive-processing apparatus. His *Ethics* — that
-strange book in geometrical form, suspicious of personal-God language,
-strict in its determinism — argued that there is one substance, that
-this substance is what we mean by God or by Nature, and that
-everything that is, is in God. *Whatever is, is in God, and nothing
-can be or be conceived without God.* The structural resonance with
-Gita 7.7 is exact. *Mattaḥ parataraṁ nānyat* — there is nothing higher
-than me. *All this is strung on me as jewels on a thread.*
+What the predictive-processing picture cannot deliver, and what the
+chapter insists on, is the second-person address. *Mattaḥ parataraṁ
+nānyat,* Krishna says at 7.7 — there is nothing higher than me. The
+world is not the divine's modes inertly arranged; it is the medium of
+the divine's address. Once you have affirmed that there is nothing
+higher, you have cut off the possibility that the world is something
+*other* than the divine, or *separate*, or *abandoned*. The world
+that you are standing in is the only world there is, and it is the
+divine's. That changes what attention is for. It is not a way of
+escaping the world to find something higher. It is a way of becoming
+present to the only thing there is to be present to.
 
-Spinoza is not Krishna. Spinoza's monism is *substance* monism — one
-substance, the world its modes, expressed under the attributes of
-thought and extension — and the relation is impersonal. Krishna's
-"nothing beyond me" is more loaded. He is named — Krishna; he is
-addressed — Arjuna; the relation is personal in a way Spinoza's
-geometry never permits. But Spinoza is useful here precisely because
-he forces the reader to take the *no beyond* seriously without
-softening it. Once you have affirmed that there is nothing higher,
-you have cut off the possibility that the world is something *other*
-than the divine, or *separate*, or *abandoned*. That is the surface
-meaning of 7.7, and Spinoza pushes the reader to feel its full weight.
-
-What the Gita adds, and Spinoza's framework lacks, is the second-
-person address. The divine is *spoken*, and *speaks*. The world is not
-just the divine's modes; it is the medium of the divine's address.
-This is closer to what Jean-Luc Marion calls the saturated phenomenon
-— the kind of phenomenon in which intuition exceeds the concepts the
-receiving consciousness brings to bear. Most of what we encounter is
-given in a way that fits within our concepts; the phenomenon is
-constituted, intelligibly, by the receiving I. Some phenomena give
-*more* than the I can constitute. The historical event gives more than
-any narrative can encompass. The face of another person gives more
-than any account of the other can reach. The call — the sense of being
+Jean-Luc Marion's phrase for the structure of this address is the
+saturated phenomenon — a phenomenon in which what is given exceeds
+the concepts the receiving consciousness brings to bear. Most of what
+we encounter fits within our concepts; the phenomenon is constituted,
+intelligibly, by the receiving I. Some phenomena give *more* than the
+I can constitute. The face of another person gives more than any
+account of the other can reach. The call — the sense of being
 addressed — gives more than any account of who is calling can settle.
-In each case, intuition saturates the available concepts. The I
-receives without being able to master.
+Intuition saturates the available concepts. The I receives without
+being able to master.
 
-This is the structure of "nothing beyond me." The "me" of 7.7 is given
-to Arjuna more fully than Arjuna can conceptually receive. Arjuna
-cannot circumscribe the speaker. Arjuna can only be addressed, and
-respond, and remain in the asymmetry. Marion's vocabulary gives the
-modern reader a way of holding the chapter's voice without flattening
-it into either a metaphysical inventory or a poetic flourish. The
+This is the structure of "nothing beyond me." The *mattaḥ parataraṁ
+nānyat* of 7.7 is given to Arjuna more fully than Arjuna can
+conceptually receive. Arjuna cannot circumscribe the speaker. Arjuna
+can only be addressed, and respond, and remain in the asymmetry. The
 divine, in the Gita's disclosure, is not one more entity in the
 catalog of things. It is the structure of an excess no catalog could
 exhaust. *Yogamāyā* — the veil of mystery in which the divine appears
 unmanifest — is the phenomenological condition of this excess. The I
-sees what it can. The I does not see all that is given.
-
-You do not need to take Marion's Catholic theology. You need only
-register that the Gita's "nothing beyond me" is a saturated address,
-not a metaphysical inventory. The world is real because there is
-something there to be addressed by. The divine is real because the
-address is happening. *Maya* is the difficulty of receiving the
-address through the conditions of finite perception. Murdoch's
-attention is the practice of clearing what can be cleared so that what
-is given can be given.
+sees what it can. The I does not see all that is given. The Gita's
+"nothing beyond me" is a saturated address, not a metaphysical
+inventory. The world is real because there is something there to be
+addressed by. The divine is real because the address is happening.
+*Maya* is the difficulty of receiving the address through the
+conditions of finite perception.
 
 ---
 
@@ -406,10 +382,14 @@ Or you can take the world as a face you are standing inside. Real
 face. Real standing. Real inside. The face is not your projection. It
 is what is given. The work is to receive the giving without being
 carried away by your model of what is being given. *Maya* is the
-difficulty of doing this. *Vijñāna* is the lived recognition that, at
+difficulty of doing this; *vijñāna* is the lived recognition that, at
 this moment, in this room, with this person across the table and this
 work in your hands and this hour of your day, what is given is given.
-Not later. Not behind. Here.
+Not later. Not behind. Here. The chapter's *jñāna* — the structural
+knowledge that the world is the divine's body — is not finally
+separable from *vijñāna*, the felt registration of that knowledge in a
+particular hour. The Gita pairs the two words because the practice
+the chapter is teaching is the slow conversion of one into the other.
 
 The chapter's last verse says the one who has known me, knows me at
 the moment of death. You can take this metaphysically, as the Gita
@@ -419,17 +399,3 @@ what you carry through the moments when you have nothing else.
 
 The practice is to see. The world is real. There is something here to
 be seen.
-
----
-
-*Sources engaged in this chapter: Ramanuja's qualified non-dualism,
-read directly. Shankara's Advaita, read against. Madhva's Dvaita, read
-with on world-realism, against on the strictness of the distinction.
-Aurobindo's evolutionary inflection, read metaphorically. Spinoza's
-Ethics on substance monism. Marion's saturated phenomenon. Murdoch's
-attention as the moral act of letting what is other be real. Friston
-and Seth on predictive processing as the cognitive structure of the
-veil. Carroll's poetic naturalism as the honest scientific edge. Hayes
-on cognitive defusion as the contemporary clinical analog of the
-*maya*-discipline. Citations as named in front matter and back-matter
-bibliography.*

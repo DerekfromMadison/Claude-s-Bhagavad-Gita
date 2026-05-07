@@ -611,7 +611,7 @@ move that helps.
 
 ## What this looks like on Tuesday
 
-Five concrete situations. The chapter is for these.
+Three concrete situations. The chapter is for these.
 
 The first is the decision under uncertainty. Tomorrow morning you
 have to make a decision you do not know how to make. There are
@@ -633,25 +633,7 @@ update; otherwise stay with the choice and do the work the choice
 asks. This is not stoic indifference. *Tyaga* is about the *pretence*
 of controlling the outcome alone, not about the caring.
 
-The second is the grinding project. You are halfway into something —
-a book, a degree, a relationship, a business, a recovery — and it
-is not going the way you wanted. The work is unglamorous. Nobody is
-watching. The temptation is to give up, or to give up the project's
-actual demands and substitute a more manageable performance.
-
-The five factors disarm both temptations. You are not the sole
-author of the result. Stop centring yourself in the catastrophe.
-The basis, the instruments, the kinds of effort, *daiva* are also
-at work. *Svadharma* says: this work is yours. Nobody else is going
-to do it; nobody else is being asked to.
-
-Operationally: do the next unit of work. Not because you can
-guarantee the result. Not because somebody is watching. You do it
-because it is yours, and *not* doing it is a disloyalty to the
-actual life you have. The *tyaga* is the relinquishment of the
-audience. Nobody has to clap. The work continues.
-
-The third is grief. You have lost something. A person. A job. A
+The second is grief. You have lost something. A person. A job. A
 self-image. A future you were sure was coming. The loss has
 disordered your assumptive world; the things you were oriented
 around are no longer there.
@@ -685,7 +667,7 @@ at a reasonable hour. You eat. You walk outside. The dharmas
 continue at the level of the body even as the narrative has gone.
 This is the form *prapatti* takes for someone still in the loss.
 
-The fourth is the hard conversation. You have a hard conversation
+The third is the hard conversation. You have a hard conversation
 to have — parent, partner, collaborator, employer, child. You have
 been putting it off. You have been rehearsing both the
 conversation and your retreat from it.
@@ -703,30 +685,6 @@ as honestly as you can. Let them respond. Do not manage the
 response. Do not pre-script their forgiveness or their anger. The
 *tyaga* is in releasing the staging. The conversation is the work;
 the result is the result.
-
-The fifth is the work nobody will notice. Caregiving for someone who
-can no longer say thank you. The 11 PM shift in the back of the
-building. The fifth draft of the document still not right. The
-recovery practice nobody else is in the room for.
-
-The chapter, here, is *yajna* under *tyaga*. You are working without
-an audience, without a receipt. The Gita's offer is that there is,
-at the deepest level of the work, an addressee — the work is *for*
-something or someone whose acknowledgement does not depend on the
-audience being there.
-
-The claim is metaphysically loaded; it is the verse's claim, not a
-science claim. What science can say — Brown and Ryan, Hayes and
-colleagues — is that the *posture* of doing the work without the
-control struggle is associated with sustained engagement and better
-performance. The verse adds an addressee. A reader who can honestly
-receive that addressee will work differently. A reader who cannot
-will still work. The work, either way, is the work.
-
-Operationally: put the next thing where it goes. Do not rehearse
-the absence of the audience. Do not rehearse what you would have
-wanted from them. Let the work be the work. Not stoicism. *Tyaga*:
-relinquishment of the bargain that the work pays in recognition.
 
 ## The benediction, in a chastened register
 

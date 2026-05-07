@@ -42,8 +42,6 @@ they could tell you what *kṣetrajña* means in Sanskrit.
 
 This is Gandhi's reading and it is right. We will return to it.
 
-## What the field contains
-
 The first move is to notice how much the chapter is willing to put
 on the field's side of the line. Verses 5 and 6 list what is in
 the *kṣetra*: the five great elements; *ahaṅkāra*, the I-sense;
@@ -86,8 +84,6 @@ It will be there during the next. It is not a magical interior
 homunculus. It is the bare fact that there has been someone for
 whom the weather has been weather.
 
-## The classical disagreement, and where it lands
-
 The traditions disagree sharply about what the *kṣetrajña* finally
 is. The disagreement is over a single verse — 13.2 — and it is
 worth seeing exactly what is at stake before deciding what to do
@@ -111,15 +107,13 @@ into the supreme; it adds the supreme as a knower in addition.
 Personhood survives. (Ramanuja, *Gītā Bhāṣya*, trans.
 Adidevananda.)
 
-Madhva, reading through Dvaita's eternally plural substances,
-reads chapter 13 as a demonstration of *taratamya* — gradation
-among selves and between selves and the supreme. When Krishna says
-*know me as the knower of the field in all fields*, he means *as
-the supreme knower*, not as numerically identical with individual
-knowers. The supreme is the eternal master; the soul, the eternal
-servant. The chapter articulates the structure of distinction
-without which the language of love, surrender, and worship across
-the Gita becomes incoherent.
+Madhva's Dvaita reading insists on eternal distinction between
+selves and between selves and the supreme: when Krishna says *know
+me as the knower of the field in all fields*, he means *as the
+supreme knower*, not as numerically identical with the individual.
+The supreme is the eternal master; the soul, the eternal servant.
+Without that distinction, the language of surrender and worship
+across the Gita becomes incoherent.
 
 Aurobindo, reading through integral yoga, refuses the dichotomy.
 Sankhya gives the dualism of *prakṛti* and *puruṣa*, field and
@@ -166,15 +160,17 @@ where he goes are following something the text supports. I am
 choosing, and I want the reader to see the choice.
 
 The witness emphasis comes from Sankara, and on this chapter I
-want to keep him close. The chapter's description of the knowable
-as "neither existent nor non-existent," "indivisible yet appearing
-divided," "the light of all lights" sits naturally in Sankara's
-apophatic register. Sankara's central observation — that the
-witness in any body whatsoever is not properly identified with the
-particular contents of that body, that the felt difference between
-"my consciousness" and "yours" is owed to the bodies' conditioning
-of a deeper continuity of awareness — is one of the most
-penetrating readings of what the chapter is up to. Whether or not
+want to keep him close — closer than I keep him in most of the
+book. The chapter's description of the knowable as "neither
+existent nor non-existent," "indivisible yet appearing divided,"
+"the light of all lights" sits naturally in Sankara's apophatic
+register, in a way it does not sit elsewhere. Sankara's central
+observation — that the witness in any body whatsoever is not
+properly identified with the particular contents of that body,
+that the felt difference between "my consciousness" and "yours"
+is owed to the bodies' conditioning of a deeper continuity of
+awareness — is one of the most penetrating readings of what the
+chapter is up to. Whether or not
 one follows him all the way to strict identity, his pressure on
 *the witness is not the body's contents* is exactly the pressure
 the chapter is putting. Sankara is doing real work here. I will
@@ -210,11 +206,8 @@ encounterable. The personal is not a concession to weak
 intellects.
 
 The technical sectarian dispute over numerical identity-versus-
-distinction at verse 2 — I set aside. I am not entitled to decide
-it, and the chapter does not. The synthesis does not require the
-decision.
-
-## What the modern philosophers are asking
+distinction at verse 2 I set aside. The synthesis does not require
+the decision.
 
 The question chapter 13 is asking — what is the relation between
 the field and the knower of the field? — is one of the defining
@@ -312,8 +305,6 @@ body and its knower are not two substances but two aspects of one
 embodied phenomenon. None of them solves the chapter. All of them
 read the chapter's question as live.
 
-## What the science contributes
-
 Where modern science speaks to the chapter, it speaks to the
 *kṣetra* side of the line — to what is in the field — without
 resolving anything about the knower. This is not a complaint. It
@@ -352,26 +343,16 @@ performs — a representation, not a primitive given. The witness is
 not the felt sense of being yourself. That felt sense is part of
 the field. The witness is what knows the felt sense.
 
-Anil Seth, in *Being You* (2021), develops the **predictive
-processing** account: the brain is an active generator of
-hypotheses about the world and the body, constantly updating
-against incoming signals. What we experience as the world is the
-brain's best current model of the world; what we experience as the
-self is the brain's best current model of the body's physiological
-state. Perception is not a passive reading-off; it is a
-constructed inference. The same applies to the experience of being
-a particular self. There is no homunculus inside watching the
-show. There is the show, and the show contains a model of "the
-one watching the show," which is part of what is shown.
-
-Predictive processing addresses Chalmers's *easy problems* — how
-the brain constructs its model of self and world — without
-resolving the *hard problem*. Seth's "real problem" reformulation
-tries to make progress on the hard problem via the easy ones,
-which is honest work, but not the same as solving it. What
-predictive processing does, decisively, is locate the constructed
-felt-sense of self within the *kṣetra*. The thing that feels like
-being you is a model the brain runs. It is part of what the
+Anil Seth's predictive processing account in *Being You* (2021)
+extends this. The brain is an active generator of hypotheses about
+world and body, constantly updating against incoming signals; what
+we experience as the self is the brain's best current model of the
+body's physiological state. There is no homunculus inside watching
+the show; the show contains a model of "the one watching the
+show," which is part of what is shown. Predictive processing
+locates the constructed felt-sense of self decisively within the
+*kṣetra*, without resolving the hard problem. The thing that feels
+like being you is a model the brain runs. It is part of what the
 chapter would have called field.
 
 Marcus Raichle and colleagues identified a network of midline
@@ -399,64 +380,41 @@ own analysis: the I-sense is in the field; the witness is
 elsewhere. Science refines the field without forcing a verdict on
 the knower. That is exactly the relation the chapter sets up.
 
-## Where the distinction does work
-
 The whole point of the distinction is what it changes in an
-ordinary week. Six places where it does.
+ordinary week. Three places where it does.
 
-**The body in pain.** A headache has lasted three days. Your jaw
-is clenched. There is throbbing behind your right eye. You are
-becoming the headache.
+A headache has lasted three days. Your jaw is clenched. There is
+throbbing behind your right eye. You are becoming the headache. But
+who is becoming the headache? The body is in pain. The pain is in
+the *kṣetra*. The one who notices the pain is pain is *kṣetrajña*,
+and that one is not in pain. There is a small operational
+difference between *I am pain* and *there is pain happening in this
+body, and I am the one noticing it*. The first is a closed loop.
+The second has a tiny aperture. The aperture is where *kṣānti*,
+patience, gets its grip. The clinical literature on chronic pain
+calls this *cognitive defusion* or *decentering* — relating to pain
+as pain rather than as the totality of self. The mechanism is
+exactly what 13.7–13.11 is training for. The same opening shows up
+when a wave of anxiety arrives, when shame loops, when the dread
+at four a.m. spreads: weather in the field, real, passing through.
+Practice the equanimity the chapter names twice and the wave still
+arrives — you watch it, it passes, you do not become it.
 
-Who is becoming the headache? The body is in pain. The pain is in
-the *kṣetra*. The one who knows the pain is pain is *kṣetrajña*.
-That one is not in pain. The pain is happening to the body. The
-knower of the body knows the pain is happening to the body.
+You picked up the phone to check the time. Eleven minutes later you
+are watching a video about a celebrity you do not care about.
+Attraction-and-aversion is the field's machinery; it runs whether
+the *kṣetrajña* is paying attention or not. *Vairāgya*, dispassion;
+*ātma-vinigrahaḥ*, self-mastery over the senses; the absence of
+*ahaṅkāra* that gets hooked by every novel stimulus. The phone
+still does what it does — its design is explicit about capturing
+you — but you can feel the tug arrive, recognize it as
+field-mechanism, decline. The same diagnosis applies to the way
+work, over years, becomes who you are. *I am my work* is
+field-machinery, among the most stubbornly sticky pieces a
+present-day person carries. The job is *kṣetra*. You are
+*kṣetrajña*. Its outcomes matter; they do not constitute you.
 
-This is not denial of the pain. The pain still hurts. But there is
-a small operational difference between *I am pain* and *there is
-pain happening in this body, and I am the one noticing it*. The
-first is a closed loop. The second has a tiny aperture. The
-aperture is where *kṣānti*, patience, gets its grip. The clinical
-literature on chronic pain calls this *cognitive defusion* or
-*decentering* — relating to pain as pain rather than as the
-totality of self. The mechanism is exactly what 13.7–13.11 is
-training for.
-
-**The wave of anxiety.** A wave of anxiety arrives. Chest tightens.
-Stomach drops. A fast feed of catastrophic possibilities. The week
-is full of things you have to do and you cannot do any of them.
-
-Weather in the field. The *kṣetra* includes (13.5–13.6) desire,
-hatred, pleasure, pain, the body-aggregate, awareness, fortitude.
-Anxiety belongs in this list. It is the weather where you are, not
-who you are. The qualities relevant here are *sthairyam*,
-steadfastness; *ātma-vinigrahaḥ*, self-mastery; the equanimity in
-pleasant and unpleasant the chapter names twice. Practice them and
-the wave still arrives. You watch it; it passes; you do not become
-it. The contemporary clinical analogues — ACT, MBCT, DBT — train
-precisely this capacity, and the convergence with the chapter's
-prescription is not coincidence. They are addressing the same
-human structure.
-
-**The phone.** You picked up the phone to check the time. Eleven
-minutes later you are watching a video about a celebrity you do
-not care about. You were carried.
-
-Attraction-and-aversion is the field's machinery. It runs whether
-the *kṣetrajña* is paying attention or not. *Vairāgya*,
-dispassion; *ātma-vinigrahaḥ*, self-mastery over the senses; the
-absence of *ahaṅkāra* that gets hooked by every novel stimulus.
-The phone still does what it does — its design is explicit about
-capturing you — but you can feel the tug arrive, recognize it as
-field-mechanism, decline. The phone is *kṣetra*. You are
-*kṣetrajña*. The relation has to be rebuilt, moment by moment, and
-the rebuilding is the practice.
-
-**Grief.** Someone you loved is dead. The room they used to be in
-is empty. The number you would have called has nobody to answer
-it.
-
+Someone you loved is dead. The room they used to be in is empty.
 Krishna in 13.8 names the perception of the misery of birth, old
 age, disease, and death a quality of *jnana*. The chapter does not
 promise grief will be less. It says the one who is grieving is not
@@ -471,36 +429,6 @@ event in the field; and continuing, slowly, to act from the
 steadier interior. Tedeschi on post-traumatic growth, Baumeister on
 meaning, describe in their own vocabularies what this looks like
 when it succeeds.
-
-**Aging.** You catch sight of your reflection. The face is older
-than you expect. The body has gone on aging while you have not
-been paying attention.
-
-The body in the mirror is *kṣetra*. The one surprised by the
-reflection — who has been here the whole time — is *kṣetrajña*.
-This is one of the chapter's quietest gifts. The thing in the
-mirror is not who you have been. Something else has been reading
-the mirror. Not a denial of the body or of mortality — the chapter
-names the perception of the misery of birth, old age, disease, and
-death as a quality of *jnana*. It refuses identification of self
-with the changing body. Aging is the field changing. The watcher
-is the same watcher.
-
-**Work that consumes identity.** Your work has, over years, become
-who you are. You introduce yourself by your job. When the work is
-bad, you are bad; when it is good, you are good.
-
-The I-sense is in the field (13.5). *I am my work* is field-
-machinery, among the most stubbornly sticky pieces a present-day
-person carries. *Amānitvam*, freedom from the desire to be
-honored; *adambhitvam*, non-pretense; the absence of *abhimāna*,
-self-importance. Practicing them does not require quitting the
-job. It requires noticing the moment when the job's status becomes
-the status of the self, and declining the trade. The job is
-*kṣetra*. You are *kṣetrajña*. Its outcomes matter; they do not
-constitute you.
-
-## A working list for the week
 
 If the chapter is to make good on its claim to relevance, it has
 to enter the rhythm of an actual week. The qualities of *jnana* in
@@ -544,21 +472,15 @@ practice is in the second clause.
 
 This is what the chapter asks. Build these into your life and the
 field/knower distinction stops being a doctrine and becomes a way
-of seeing. You start to feel the difference between the weather of
-the field — the moods, the cravings, the wounds, the ambitions —
-and the steadier interior point from which the weather is seen as
+of seeing. You feel the difference between the weather of the
+field — the moods, the cravings, the wounds, the ambitions — and
+the steadier interior point from which the weather is seen as
 weather. You stop arguing with the weather. You stop pretending
 you are not having weather. You watch the weather and act from the
-watcher.
-
-That is the chapter, in the only form that finally matters. The
-metaphysics is real and worth taking seriously. The science is
-informative and worth taking seriously. The list is what closes
-the loop. A person who cannot, this week, decline one performance
+watcher. A person who cannot, this week, decline one performance
 for praise has not understood the chapter, regardless of how
-fluently they can recite verse 2 in Sanskrit. A person who can,
-this week, decline one performance for praise has begun to
-understand the chapter, regardless of whether they have read a
+fluently they can recite verse 2 in Sanskrit. A person who can has
+begun to understand it, regardless of whether they have read a
 single classical commentary.
 
 Sit for ten minutes. Watch the weather. Notice that you are not

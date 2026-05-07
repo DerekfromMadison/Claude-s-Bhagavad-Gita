@@ -218,16 +218,12 @@ it speaks in the chapter's direction.
 
 Mihaly Csikszentmihalyi's flow research adds a second piece. Across
 rock climbers, factory workers, and surgeons sampled by experience
-sampling, the moments of greatest absorption and reported well-being
-arose when challenge matched skill, neither too easy nor too hard,
-in the service of an activity that had become *autotelic* —
-containing its own end. The chapter does not promise flow as a
-reward; that would itself be a fruit. But the *shape* of action
+sampling, the moments of greatest absorption arose when challenge
+matched skill in the service of an activity that had become
+*autotelic* — containing its own end. The *shape* of action
 Chapter 3 recommends — full engagement, release of the grip on
 outcomes external to the activity — is the shape flow research
-finds most reliably produces flow. The flow literature is silent on
-the chapter's wider frame of *lokasangraha*; within the narrower
-frame of individual experience, the convergence is real.
+finds most reliably produces flow.
 
 ## *Svadharma*: the wrong life expertly performed
 
@@ -383,38 +379,11 @@ chapter has ruled all four singletons out. It recommends the
 structure.
 
 Sankara, reading through Advaita, would frame the structure as
-preparatory. *Karma yoga* purifies the inner instrument so that
-*jnana* — the direct knowledge that liberates — can arise. The
-work shapes the worker; practice without attachment is also the
-discipline that produces the conditions for the inner state. Ann
-Graybiel's MIT lab has spent decades mapping how habits become
-*chunked* in basal ganglia circuits, so that once initiated, a
-sequence runs as a unit with reduced moment-by-moment cortical
-involvement. Most of what a person does on any given day is run by
-chunked sequences proceeding without conscious initiation. The
-discipline the chapter calls for, in this register, is not stopping
-action but introducing conscious endorsement to chunked sequences —
-re-shaping the chunks by acting differently long enough that the
-new pattern chunks instead. Sankara's *purificatory* reading and
-Graybiel's neuroscience of habit converge on the same operational
-fact: the work forms the worker; the only way to change what one
-is becoming is to change what one is doing, sustained long enough
-for the doing to become the being.
-
-What I am keeping from each tradition: from Sankara, that practice
-forms the practitioner. From Ramanuja, that *yajna* has a
-relational logic — the offering is to *something*, and that
-something is not abstract. From Tilak, that the chapter's plain
-sense is engagement, not withdrawal, and that pious-sounding
-recommendations to renounce one's working life can be a
-misappropriation of the text. From Gandhi, the operable inner
-discipline of *anasakti* and the moral grammar of *svadharma* as
-self-reliance against imitation. From Aurobindo, that *yajna* is
-not a private ethic but a structural feature of how a world
-sustains itself. The cluster — Ramanuja, Aurobindo, Easwaran,
-Gandhi — carries the synthesis, with Tilak as the chapter's
-plain-sense corrective and Sankara as the chapter's check on
-glibness about how much practice the inner life takes.
+preparatory: *karma yoga* purifies the inner instrument so that
+*jnana* can arise. The work shapes the worker. The chapter does
+not require Advaita to make this point — the only way to change
+what one is becoming is to change what one is doing, sustained
+long enough for the doing to become the being.
 
 ## The diagnostic
 
@@ -442,16 +411,13 @@ is not to leave the system — that exit, again, does not exist. The
 recommendation is to refuse the substitution. Hold to what is
 internal. Let the metric be a metric.
 
-*Anasakti* is operationalized in the diagnostic. So is *yajna*: the
-practice has internal goods, and orienting to them is the form of
-offering available inside whatever constraints one cannot escape.
-*Svadharma* is operationalized in the prior question — *is this
-even my practice, or am I succeeding at someone else's?*
-*Lokasangraha* is operationalized in the wider question the
-diagnostic implies — *who is this practice for?* — which the
-internal goods themselves answer once the metric is set down. The
-four pillars have one diagnostic between them, because they are
-four faces of one structure.
+The four pillars have one diagnostic between them, because they
+are four faces of one structure. *Anasakti* is the inner release
+the question tests for. *Yajna* is the orientation toward internal
+goods that follows from passing the test. *Svadharma* sits in the
+prior question — *is this even my practice?* *Lokasangraha* sits
+in the wider one the diagnostic implies — *who is this practice
+for?*
 
 You cannot withdraw. The chapter has been clear about that from its
 first verses. What you can do is choose, again, today, the form your

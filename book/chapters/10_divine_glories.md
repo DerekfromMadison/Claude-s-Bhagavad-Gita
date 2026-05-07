@@ -100,13 +100,9 @@ what the object actually is; they have access to their own
 preformed expectations *about* the object. The first pass is not
 seeing; it is checking the object against expectation. The second pass
 is correction. The third pass — sometimes the fifth, sometimes the
-twentieth — is when the object begins to be present. Murdoch's account
-of the mother-in-law gradually coming to see her son's wife as she is,
-not as the daughter-in-law's first appearance led her to project, is
-the canonical philosophical example of this in English: a slow,
-unflattering, just looking that displaces the projection (Murdoch,
-*The Sovereignty of Good*, "The Idea of Perfection"). The just and
-loving gaze is the moral epistemology of recognition.
+twentieth — is when the object begins to be present. The looking that
+displaces projection is the moral epistemology of recognition; it is
+also the chapter's training.
 
 Recognition is not appreciation. Appreciation is the looker projecting
 warmth at the object; recognition is the object's specificity becoming
@@ -117,23 +113,14 @@ emotion they feel for trees in general. Appreciation is compatible
 with the feed; in fact the feed runs on it. Recognition is not
 compatible with the feed. The feed is structured against it.
 
-Recognition is not connoisseurship. Connoisseurship is the trained
-ability to judge an object against the standards of its category —
-this wine is a good wine of its kind, this argument is a good argument
-of its kind. Connoisseurship treats the object as specimen, and the
-category supplies the standard. Recognition lets *this* specimen
-disclose what its kind is capable of — including what it is capable
-of beyond what the category standard already knows. A kingfisher does
-not catch fire in any field guide; that is Hopkins seeing the bird,
-not the field guide telling Hopkins what to see.
-
-Recognition is not analysis. Analysis decomposes the object into parts
-and seeks understanding through their relations. The catalog does not
-analyze the lion or the syllable A; it points at them. Recognition
-does not deliver up the object's mechanism; it delivers up the
-object's *being itself*, in its specific particularity. Analysis comes
-after recognition and depends on it; analysis without recognition cuts
-up something the analyst never saw.
+Nor is recognition connoisseurship — the trained ability to judge an
+object against the standards of its category. Connoisseurship treats
+the object as specimen, and the category supplies the standard.
+Recognition lets *this* specimen disclose what its kind is capable of,
+including what it is capable of beyond what the category standard
+already knows. A kingfisher does not catch fire in any field guide;
+that is Hopkins seeing the bird, not the field guide telling Hopkins
+what to see.
 
 What recognition is, then: the slow disclosure of the particular,
 licensed by attention, oriented by love, disciplined by justice,
@@ -175,31 +162,15 @@ creatures do at the moment one is seeing them be themselves. *For that
 I came* is the kingfisher's voice; the poet has heard it; the reader
 who has done the looking has heard it too.
 
-Hopkins's other major catalog poem, "Pied Beauty," is the closest
-English-language structural analogue to the *vibhūti* listing:
-
-> *Glory be to God for dappled things —*
-> *For skies of couple-colour as a brinded cow;*
-> *For rose-moles all in stipple upon trout that swim;*
-> *Fresh-firecoal chestnut-falls; finches' wings;*
-> *Landscape plotted and pieced — fold, fallow, and plough;*
-> *And áll trádes, their gear and tackle and trim.*
-
-The list is a list of *particulars*: not "beauty" in the abstract but
-*these* spots on *these* trout, *these* freshly fallen chestnuts,
-*these* trades with the gear and tackle they actually use. The
-universalizing turn at the end —
-
-> *He fathers-forth whose beauty is past change:*
-> *Práise hím.*
-
-— is structurally identical to 10.41–42. The items are particular; the
-source is one; the practice is praise, which in Hopkins is another
-word for the kind of attention the chapter teaches. A Victorian Jesuit
-and a Sanskrit catalog poet, separated by twenty centuries and a
-cultural ocean, doing the same thing. This is not coincidence. This is
-what serious attention to particulars looks like when the practitioner
-trusts the practice.
+Hopkins's "Pied Beauty" is the closest English-language structural
+analogue to the *vibhūti* listing — a catalog of particulars (*rose-moles
+all in stipple upon trout that swim; / Fresh-firecoal chestnut-falls;
+finches' wings*) closing on the universalizing turn *He fathers-forth
+whose beauty is past change: / Práise hím*. Structurally identical to
+10.41–42: the items are particular, the source is one, the practice is
+praise — Hopkins's word for the kind of attention the chapter teaches.
+A Victorian Jesuit and a Sanskrit catalog poet, separated by twenty
+centuries and a cultural ocean, doing the same thing.
 
 What Hopkins models, that the modern reader most needs, is the
 permission to look at *this thing, not its category*. He does not
@@ -215,18 +186,18 @@ You will be doing what the catalog trains.
 
 ## Why this is a 2026 problem
 
-The chapter is more legible to its first hearers than to us. They
-lived in a world where attention to particulars was the default;
-*vibhūti yoga* refined a practice the practitioner already had access
-to. We do not have the existing capacity. Charles Taylor, in *A
-Secular Age*, describes the modern condition as a shift from a world
-in which the *place of fullness* was understood as unproblematically
-outside ordinary life to a world in which fullness is constantly
-relocated, contested, and made a matter of choice. The pre-modern
-looker assumed there was something there to recognize; the modern
-looker has to construct, against the cultural default, the posture in
-which recognition becomes possible. We are doing the practice against
-the grain.
+Hopkins's permission was easier in 1881 than it is now. The chapter is
+more legible to its first hearers than to us. They lived in a world
+where attention to particulars was the default; *vibhūti yoga* refined
+a practice the practitioner already had access to. We do not have the
+existing capacity. Charles Taylor, in *A Secular Age*, describes the
+modern condition as a shift from a world in which the *place of
+fullness* was understood as unproblematically outside ordinary life to
+a world in which fullness is constantly relocated, contested, and made
+a matter of choice. The pre-modern looker assumed there was something
+there to recognize; the modern looker has to construct, against the
+cultural default, the posture in which recognition becomes possible.
+We are doing the practice against the grain.
 
 The grain, in 2026, is the feed. The reader's daily attentional
 default is scrolled-past. Hundreds of items pass under the eye each
@@ -240,7 +211,8 @@ produces depleted attention, low specificity, dampened affective
 range, increased restlessness — the antithesis of what the chapter
 requires. *Vibhūti yoga* in 2026 is what one does *instead of* the
 feed, and the practice has to fight for shelf space in a day that is,
-by default, the feed's.
+by default, the feed's. The discipline of recognition is, under these
+conditions, a counter-discipline.
 
 What the practice asks is concrete. Pick one thing. A particular loaf
 of bread from a particular bakery. A particular plant on the
@@ -260,16 +232,14 @@ looking carries.
 
 ## The just and the loving
 
-Iris Murdoch's phrase for what the chapter trains is the *just and
-loving gaze*: attention to an individual reality, refusing to use that
-reality for the looker's purposes (Murdoch, *The Sovereignty of Good*,
-p. 33). The two adjectives do the work. *Loving*: on the side of what
-it sees, willing it well. *Just*: not flattering, not projecting, not
-using the other for the looker's purposes. Simone Weil, from whom
-Murdoch borrowed the word, wrote that attention *consists of suspending
-our thought, leaving it detached, empty, and ready to be penetrated by
-the object* (Weil, *Waiting for God*, "Reflections on the Right Use of
-School Studies"). The emptiness is not absence; it is availability.
+The discipline has two adjectives. *Loving*: on the side of what it
+sees, willing it well — Murdoch's "just and loving gaze" names this
+exactly (Murdoch, *The Sovereignty of Good*, p. 33). *Just*: not
+flattering, not projecting, not using the other for the looker's
+purposes. Simone Weil, whose vocabulary Murdoch borrowed, wrote that
+attention *consists of suspending our thought, leaving it detached,
+empty, and ready to be penetrated by the object* (Weil, *Waiting for
+God*). The emptiness is not absence; it is availability.
 
 The catalog includes items the reader would not have chosen — *the
 gambling of the cheats, the strength of the strong, victory, adventure,
@@ -318,14 +288,16 @@ and then illustrate it; it delivers a sequence of particulars and lets
 the principle precipitate out of the practice.
 
 The catalog accumulates, and what it accumulates is *the reader's
-practice of attending*. By the time 10.41–42 arrives, the universalizing
+practice of attending*. The list is the gymnasium; the eye is what
+the gymnasium builds. By the time 10.41–42 arrives, the universalizing
 claim has weight only because the catalog has trained the reader to
 recognize the fragments. The claim is the precipitate of the practice.
 The reader who has not done the practice receives the claim as a
 slogan; the reader who has done the practice receives it as the natural
 extension of what they have been doing. This is why the chapter cannot
 be summarized. A summary delivers the principle without the practice.
-The chapter *is* the practice.
+The chapter *is* the practice — and the practice is what the
+catalog-as-gymnasium is for.
 
 ## What the awe research can and cannot say
 
@@ -357,14 +329,11 @@ recalibration, not deflation of agency.
 
 The findings are bounded — US adults, mostly undergraduates,
 short-duration manipulations — and they do not authorize the chapter's
-metaphysics. They do not show that the *vibhūtis* are real fragments of
-a real divine source. What they show is more modest and more useful:
-the practice the chapter teaches has measurable effects on the kind
-of person the practitioner is becoming. The eye trained on excellence
-becomes, over time, an eye that treats other people somewhat better
-than it would have. The catalog elicits awe; awe shifts the self's
-stance toward others; the chapter's pedagogical bet — that training
-the eye changes the looker — is mildly supported.
+metaphysics. What they show is more modest and more useful: the eye
+trained on excellence becomes, over time, an eye that treats other
+people somewhat better than it would have. The catalog elicits awe;
+awe shifts the self's stance toward others; the chapter's pedagogical
+bet — that training the eye changes the looker — is mildly supported.
 
 ## A week, one thing
 
@@ -413,25 +382,18 @@ fragment is, and the totality is the source of the fragments. Without
 the training, the vision would simply destroy the looker. The catalog
 is the eye's survival kit for what comes next.
 
-But that is next chapter's work. This chapter's work is the eye.
+That is next chapter's work. This chapter's work is the eye.
 
 The catalog ends, and Krishna says *I support this entire universe
-with a single fragment of myself*. Of all that has been listed, all
-that has been attended to, all that could ever be listed and attended
-to — the source rests in a fragment. The catalog has not exhausted the
-divine; it has barely begun. The practice is endless, in the sense
-that there will always be one more thing to attend to, and the eye
-that has been trained on this thing is then a slightly better eye for
-the next. The practice is also endless in the sense that every
-particular has more in it than any single sitting could exhaust. The
-plant on the windowsill on the fourteenth day is not the plant on
-the windowsill on the seventh day; the bread baked Tuesday is not the
-bread baked Friday; the person across the table from you tonight is
-not the person who sat there last winter. The catalog reads as if it
-were a list of fixed glories, and the surface text is. The practice it
-trains, however, is for items that change while one is looking at
-them. The looker becomes someone who is changing while looking, looking
-at things that are changing too.
+with a single fragment of myself*. The catalog has not exhausted the
+divine; it has barely begun. The practice is endless: there will
+always be one more thing to attend to, and every particular has more
+in it than any single sitting could exhaust. The plant on the fourteenth
+day is not the plant on the seventh day; the bread baked Tuesday is
+not the bread baked Friday; the person across the table from you
+tonight is not the person who sat there last winter. The looker
+becomes someone who is changing while looking, looking at things that
+are changing too.
 
 Tomorrow morning, before the screen has had its first hour, pick one
 thing. Look at it until you can see it. That is the chapter,

@@ -105,13 +105,7 @@ says: see that the apparent two are one, and from that seeing,
 act. The renunciation he is teaching is not subtraction. It is a
 change in the position from which action proceeds.
 
-## The chosen reading
-
-The major commentators divide here, and the division is sharp
-enough that the reader should know which way this book reads
-before going further.
-
-Sankara, reading through Advaita, takes 5.2's praise of *karma yoga*
+The major commentators divide here. Sankara, reading through Advaita, takes 5.2's praise of *karma yoga*
 to be praise of *karma yoga relative to a sannyasa not yet ripened
 by jnana*; a higher *sannyasa*, available only to the realized
 *jnani*, remains the goal (Sankara, *Bhagavadgita-bhasya*, on
@@ -208,18 +202,16 @@ just the agent-claim repackaged.
 
 What is being borrowed from Sankara is the seriousness with which
 he treats the agent-thought as a *real* obstacle, not a regrettable
-habit to be smoothed over. The active-life cluster — Tilak, Gandhi,
-Aurobindo, Ramanuja, Easwaran — agrees that *kartrtva-abhimana* is
-the thing being renounced, but their working frames let the
-seriousness of the diagnosis soften. The reframe that follows —
-treating the *I do nothing* of 5.8–5.9 as a trainable functional
-stance rather than a metaphysical recognition — is mine. Sankara's
-soteriology rules it out: for him, the recognition is not trainable,
-it is realization, and realization is what makes the active life
-finally surrenderable rather than necessary. The diagnosis I am
-borrowing is one his framework specifically supplies; the use I am
-putting it to is one he would not endorse. The reader should know
-the absorption is not bilateral.
+habit to be smoothed over. The active-life cluster — Tilak,
+Gandhi, Aurobindo, Ramanuja, Easwaran — agrees that
+*kartrtva-abhimana* is the thing being renounced, but their
+working frames let the seriousness of the diagnosis soften. The
+reframe that follows — treating the *I do nothing* of 5.8–5.9 as a
+trainable functional stance rather than a metaphysical recognition
+— is mine. Sankara's soteriology rules it out: for him, the
+recognition is not trainable, it is realization. The diagnosis I
+am borrowing is one his framework specifically supplies; the use I
+am putting it to is one he would not endorse.
 
 ## "I do nothing" as a trainable stance
 
@@ -248,194 +240,158 @@ gone quiet is the structure that ordinarily turns sensory-motor
 activity into a story about *me, doing this thing, with this much
 at stake for me*.
 
-Two contemporary frames make the trainability concrete. They are
-not the chapter's metaphysics. They show that the chapter is
-talking about something the human animal can be shown to do.
+A contemporary frame makes the trainability concrete. Cognitive
+defusion is one of the six core processes of Acceptance and
+Commitment Therapy (Hayes, Strosahl, and Wilson, *Acceptance and
+Commitment Therapy*, Guilford 1999; 2nd ed. 2012). Defusion
+teaches the client to relate to thoughts as *events* rather than
+*facts*: to say *I am having the thought that I am worthless*
+rather than *I am worthless*. The grammatical insertion — *the
+thought that* — produces measurable cognitive distance. The
+thought becomes an object of awareness rather than a transparent
+description of reality. ACT meta-analyses find efficacy comparable
+to established cognitive-behavioral approaches across depression,
+anxiety, and chronic pain (A-Tjak et al., *Psychotherapy and
+Psychosomatics* 84:30–36, 2015). A close procedural analogue to
+*the knower of truth thinks "I do nothing at all"*: the verse
+describes the practitioner's stance, ACT names the trainable skill
+that approximates it. The move the chapter recommends — observing
+the agent-thought without fusing with it — is teachable and
+clinically efficacious.
 
-The first is the default mode network. Marcus Raichle and
+The neural correlates point the same way. Marcus Raichle and
 colleagues, in 2001, identified a set of brain regions — medial
 prefrontal cortex, posterior cingulate cortex, precuneus, angular
-gyrus — that are reliably active when attention turns inward, and
-reliably deactivate when attention turns outward to a demanding
-task (Raichle et al., "A default mode of brain function," *PNAS*
-98:676–682, 2001). The DMN is consistently implicated in
-self-referential thought, mind-wandering, autobiographical memory,
-and the construction of the narrative self. Judson Brewer's 2011
-imaging work showed that experienced meditators, compared with
-controls, show reduced activation in two central DMN nodes — the
-posterior cingulate cortex and medial prefrontal cortex — during
+gyrus — reliably active when attention turns inward and reliably
+deactivated when attention turns outward to a demanding task
+(Raichle et al., *PNAS* 98:676–682, 2001). The default mode
+network is consistently implicated in self-referential thought,
+mind-wandering, and the construction of the narrative self. Judson
+Brewer's imaging work showed experienced meditators, compared with
+controls, with reduced activation in two central DMN nodes —
+posterior cingulate and medial prefrontal cortex — during
 meditation (Brewer et al., *PNAS* 108:20254–20259, 2011). Norman
-Farb and colleagues identified two distinguishable modes of
-self-reference: a *narrative* mode (running commentary, midline
-cortical regions) and an *experiential* mode (present-tense
-embodied perception, lateral regions including the right insula);
-mindfulness training produces a measurable shift toward the
-experiential mode (Farb et al., *SCAN* 2:313–322, 2007).
-
-This is correlational work in trained populations. It does not
-prove that the agent-thought is illusion-like in any metaphysical
-sense. It does show that the shift the chapter describes — from
-the running commentary that owns the action to the embodied
-present-tense engagement with what is happening — has neural
-correlates and is trainable. The practitioner who reports, after
-years of practice, that the *I-as-doer* story has gone quiet during
-work, is reporting something measurable.
-
-The second frame is cognitive defusion, one of the six core
-processes of Acceptance and Commitment Therapy (Hayes, Strosahl,
-and Wilson, *Acceptance and Commitment Therapy*, Guilford 1999;
-2nd ed. 2012). Defusion teaches the client to relate to thoughts
-as *events* rather than *facts*. The client learns to say *I am
-having the thought that I am worthless* rather than *I am
-worthless*. The grammatical insertion — *the thought that* —
-produces measurable cognitive distance. The thought becomes an
-object of awareness rather than a transparent description of
-reality. ACT meta-analyses find efficacy comparable to established
-cognitive-behavioral approaches across depression, anxiety, and
-chronic pain (A-Tjak et al., *Psychotherapy and Psychosomatics*
-84:30–36, 2015).
-
-A close contemporary procedural analogue to *the knower of truth
-thinks "I do nothing at all."* The verse describes the
-practitioner's stance. ACT names the trainable skill that
-approximates it. The move the chapter recommends — observing the
-agent-thought without fusing with it — is teachable, measurable,
-and clinically efficacious.
-
-Neither frame validates the chapter's metaphysics. Neither replaces
-it. Both show that the inner shift the chapter describes
-corresponds to something the brain and the trainable mind can be
-shown to do.
-
-## Two Western analogues
+Farb and colleagues distinguished two modes of self-reference: a
+*narrative* mode on midline cortical regions and an *experiential*
+mode anchored in present-tense embodied perception, with
+mindfulness training producing a measurable shift toward the
+experiential (Farb et al., *SCAN* 2:313–322, 2007). This is
+correlational work in trained populations; it does not prove the
+agent-thought is illusion-like in any metaphysical sense. It shows
+that the shift the chapter describes — from running commentary
+that owns the action to embodied engagement with what is happening
+— has neural correlates and is trainable. The practitioner who
+reports, after years of work, that the *I-as-doer* story has gone
+quiet during action is reporting something measurable. Neither
+defusion nor the DMN frame validates the chapter's metaphysics;
+neither replaces it. Both show that the inner shift the chapter
+describes corresponds to something the trainable mind can be shown
+to do.
 
 Two modern voices outside the Indian tradition have arrived at
-something close enough to the chapter's teaching that they are
-worth naming. Neither replaces the chapter. Both bring a
-non-Sanskrit grammar for the same insight, and the second one
-sharpens a misreading the modern reader is liable to make.
-
-Thomas Merton, the Trappist monk whose contemplative writing
-bridged the cloister with civil rights and Hindu-Buddhist dialogue,
-spent his career on a question structurally identical to Arjuna's:
-which is better, the contemplative life or the active life? The
-medieval Christian shorthand was *Mary or Martha* — the woman at
-the feet of Christ versus the woman busy with the dishes. Merton's
-sustained answer was that the question, pressed honestly,
-dissolves. The contemplative life is not withdrawal from the active
-life; it is its inner ground. The active life sustained without
-contemplation exhausts itself. The contemplative life severed from
-action becomes spiritual aestheticism (Merton, *The Inner
-Experience*, ch. on "Contemplation and Action," HarperOne 2003).
-Action and contemplation are two modes of a single activity, both
-rooted in love.
-
-Where the Gita resolves the opposition by collapsing *sannyasa*
-into *karma yoga* through the agent-thought going quiet, Merton
-resolves it through love — both contemplation and action arise
-from the same root, and neither is complete without the other. The
-two readings agree the dichotomy is wrong-headed; they disagree
-about why. The convergence at the structural level is the relevant
-fact. Two traditions, working from different starting points,
-arrive at the same refusal of Arjuna's question. Renunciation is
-not exit. It is the inner ground of right engagement.
+something close enough to the chapter's teaching to be worth
+naming. Both bring a non-Sanskrit grammar for the same insight,
+and the second sharpens a misreading the modern reader is liable
+to make. Thomas Merton, the Trappist monk whose contemplative
+writing bridged the cloister with civil rights and
+Hindu-Buddhist dialogue, spent his career on a question
+structurally identical to Arjuna's: which is better, the
+contemplative life or the active life? The medieval Christian
+shorthand was *Mary or Martha* — the woman at the feet of Christ
+versus the woman busy with the dishes. Merton's sustained answer
+was that the question, pressed honestly, dissolves. The
+contemplative life is not withdrawal from the active life; it is
+its inner ground. The active life sustained without contemplation
+exhausts itself. The contemplative life severed from action
+becomes spiritual aestheticism (Merton, *The Inner Experience*,
+ch. on "Contemplation and Action," HarperOne 2003). Where the Gita
+resolves the opposition by collapsing *sannyasa* into *karma yoga*
+through the agent-thought going quiet, Merton resolves it through
+love — both arise from the same root, neither complete without the
+other. The two readings agree the dichotomy is wrong-headed; they
+disagree about why. Two traditions arriving at the same refusal of
+Arjuna's question.
 
 Viktor Frankl, the Austrian psychiatrist who survived Auschwitz
-and afterward founded logotherapy, brings the second analogue and
-the warning that goes with it. Frankl's central observation — drawn
-from camp experience and decades of clinical practice — is that
-human beings find meaning not by withdrawal from suffering but by
-orientation toward something or someone: a task, a person, an
-unavoidable suffering met with stance (Frankl, *Man's Search for
-Meaning*, trans. Lasch, Beacon Press 2006). The line that has
-become his signature sentence: *Everything can be taken from a man
-but one thing: the last of the human freedoms — to choose one's
+and afterward founded logotherapy, brings the warning that goes
+with the analogue. His central observation — drawn from camp
+experience and decades of clinical practice — is that human beings
+find meaning not by withdrawal from suffering but by orientation
+toward something or someone: a task, a person, an unavoidable
+suffering met with stance. *Everything can be taken from a man but
+one thing: the last of the human freedoms — to choose one's
 attitude in any given set of circumstances, to choose one's own
-way* (Frankl, *Man's Search for Meaning*, Beacon Press 2006).
+way* (Frankl, *Man's Search for Meaning*, trans. Lasch, Beacon
+Press 2006). Krishna in 5.3 names the renouncer as the one who
+*neither hates nor desires*; Frankl describes the inner freedom of
+the camp prisoner whose outer life has been completely controlled
+and whose inner stance remains, even there, a domain of freedom.
+The operational structure is the same. The renouncer is not the
+person who has stepped out of the world but the person whose inner
+stance is no longer hostage to what the world is doing.
 
-Krishna in 5.3 names the renouncer as the one who *neither hates
-nor desires*. Frankl describes the inner freedom of the camp
-prisoner whose outer life has been completely controlled and whose
-inner stance remains, even there, a domain of freedom. The
-operational structure is the same. The renouncer is not the person
-who has stepped out of the world. The renouncer is the person whose
-inner stance is no longer hostage to what the world is doing to
-them.
-
-Frankl carries a warning about misreading the chapter. The Gita
-teaches inner renunciation of attachment. The modern reader, raised
-on therapeutic and consumerist rhetoric to *let go*, can mistake
-this for disengagement. Frankl drew the line precisely. Disengagement
-is the existential vacuum — the state in which the person has
+Frankl carries a warning the modern reader needs. The Gita teaches
+inner renunciation of attachment. The reader raised on therapeutic
+and consumerist rhetoric to *let go* can mistake this for
+disengagement. Frankl drew the line precisely: disengagement is
+the existential vacuum — the state in which the person has
 retreated from the responsibilities of meaning, and meaning, in
-return, has withered. Engagement is orientation toward; and that
-orientation can survive even extremity, in which control is absent
+return, has withered. Engagement is orientation toward; that
+orientation can survive even extremity, where control is absent
 and only the inner stance remains. The Gita is teaching engagement
-without ownership. *Anasakti*, not *vairagya*-as-flight. Reading the
-chapter as a recommendation to detach from your job, your child,
-your project, gets the chapter exactly wrong. The instruction is
-to engage more fully, with the agent-thought no longer running
+without ownership. *Anasakti*, not *vairagya*-as-flight. Reading
+the chapter as a recommendation to detach from your job, your
+child, your project, gets it exactly wrong. The instruction is to
+engage more fully, with the agent-thought no longer running
 interference.
 
-## Back to the three situations
+The three situations the chapter opens with are one situation. They
+are people asking *should I leave or should I stay*, when the
+question that would actually unstick them is *how am I staying*.
 
-The three situations the chapter opens with are one situation, in
-the chapter's reading. They are people asking *should I leave or
-should I stay*, when the question that would actually unstick them
-is *how am I staying*.
-
-The senior person on the quarterly close. Their question is not
-whether to leave the work. Their question is who is presenting. If
-the presenter is the agent-as-self — the person whose worth is on
-the line, whose continuity depends on not being seen as the person
-who delivered bad numbers — the presentation becomes a defense of
-the self under stress, and the room will feel it, and the numbers
-will be told in the voice of someone trying not to sink. If the
-presenter is the practitioner of Gita 5 — same person, same
-numbers, same forty minutes, but with the agent-claim held lightly
-— the presentation becomes a clear account of what is, what was
-tried, what is being learned, what is next. The work is done more,
-not less, fully. The friction of self-defense is no longer
+The senior person's question is not whether to leave the work but
+who is presenting. If the presenter is the agent-as-self — the
+person whose worth is on the line, whose continuity depends on not
+being seen as the one who delivered bad numbers — the presentation
+becomes a defense of the self under stress, and the room will feel
+it, and the numbers will be told in the voice of someone trying
+not to sink. If the presenter is the practitioner with the
+agent-claim held lightly, same person, same numbers, same forty
+minutes, the presentation becomes a clear account of what is, what
+was tried, what is next. The friction of self-defense is no longer
 consuming the bandwidth that would have gone to the work. The
 question of whether to stay or leave the role does not need to be
-answered first. The interior shift is what the work was waiting
-for. Once it has happened, the question of role can be asked from
-a position the agent-thought is not running.
+answered first. Once the interior shift has happened, the question
+of role can be asked from a position the agent-thought is not
+running.
 
-The parent of the quiet child. The chapter is not asking the parent
-to love the child less. The love is the operative thing. The
-chapter is asking whether the parent is acting from the love or
-from the agent-as-self for whom the child's wellbeing has become a
-referendum on their own performance as a parent. The two look
-identical from outside. Inside, the difference is total. The first
-parent can hear what the child is actually saying. The second
-cannot, because the second is listening through the filter of *what
-this means about me*. The child feels the difference, and
-eventually so does the parent. *Anasakti* — non-attachment, here —
-is the difference between a parent who can show up and a parent
-who is using the child to manage their own anxiety. Not asking the
-parent to love less. Asking them to do the inner work that lets
-their love be what it is.
+The parent of the quiet child is not being asked to love the child
+less — the love is the operative thing — but to notice whether
+they are acting from the love or from the agent-as-self for whom
+the child's wellbeing has become a referendum on their own
+performance as a parent. The two look identical from outside.
+Inside, the difference is total. The first parent can hear what
+the child is saying. The second is listening through the filter of
+*what this means about me*, and the child feels the difference.
+*Anasakti* — non-attachment, here — is the difference between a
+parent who can show up and a parent who is using the child to
+manage their own anxiety.
 
-The worker whose project is ending. The question presents itself
-as how much of themselves to leave in the next three months and
-how much to begin saving for next. The chapter says: there is
-nothing to save. The work in front of you is the work. The next
-work, when it comes, will be the next work. The agent-as-self is
-trying to manage the transition by allocating itself across two
-projects, and is producing in the meantime a person who is not
-quite present in either. Drop the allocation. Do the work that is
-in front of you, fully, without making the doing dependent on what
-the doing means for the next thing. *Brahmaṇy ādhāya karmāṇi* —
-having placed actions in *Brahman*, having relinquished attachment
-— *not stained by evil, as a lotus leaf is not stained by water*
-(5.10). The leaf is in the water. It is not avoiding the water. It
-is simply not the kind of thing the water sticks to.
+The worker whose project is ending is told that there is nothing
+to save. The work in front of them is the work; the next work,
+when it comes, will be the next work. The agent-as-self trying to
+manage the transition by allocating itself across two projects is
+producing in the meantime a person not quite present in either.
+*Brahmaṇy ādhāya karmāṇi* — having placed actions in *Brahman*,
+having relinquished attachment — *not stained by evil, as a lotus
+leaf is not stained by water* (5.10). The leaf is in the water. It
+is not avoiding the water. It is simply not the kind of thing the
+water sticks to.
 
 The pattern is the same in each. The wrong question is *leave or
 stay*. The right question is *how to stay without the agent-thought
-deforming the staying*. The chapter answers it. The answer is not
-a posture to adopt but a stance to train into.
+deforming the staying*. The answer is not a posture to adopt but a
+stance to train into.
 
 ## What the practice does not promise
 
@@ -468,27 +424,16 @@ the practice into a stable possession of the stance.
 
 What the chapter does promise is that the question Arjuna keeps
 asking — *should I leave* — is not the question that needs
-answering. The chapter clears that question off the table. It
-makes the work of Chapter 6 — the training of attention, the
-practice that produces the stance — the actual question.
-
-## The chapter's last word
-
-The closing verses of Chapter 5 are not a conclusion. They are a
-hinge into Chapter 6. *Sparśān kṛtvā bahir bāhyāṁś cakṣuś caivāntare
+answering. It clears that question off the table and makes the
+work of Chapter 6 — the training of attention, the practice that
+produces the stance — the actual question. The closing verses are
+the hinge: *Sparśān kṛtvā bahir bāhyāṁś cakṣuś caivāntare
 bhruvoḥ, prāṇāpānau samau kṛtvā nāsābhyantara-cāriṇau* — *excluding
 outer contacts, fixing the gaze between the eyebrows, equalizing
 the in-breath and out-breath moving in the nostrils* (5.27). The
 chapter that has just made the case that renunciation is interior
 ends by giving the body of the practice — posture, gaze, breath.
-What was named as a stance in this chapter becomes a practice in
-the next.
-
-The reader who has followed Chapter 5 carefully should leave it
-with the question of *whether to stay* settled, in the negative —
-that is, settled as the wrong question — and the question of *how
-to stay* held open, with the answer pointing toward the chapter
-that follows.
+What was named as a stance here becomes a practice in the next.
 
 The constant renouncer of 5.3 is not the person who has renounced.
 It is the person whose inner life is no longer organized around
@@ -496,7 +441,6 @@ the project of renouncing. The renouncer-identity is the last
 identity to drop. What is left is a person, present, acting,
 without a costume of any kind. The senior person presents. The
 parent shows up at dinner. The worker finishes the project. None
-of them have left. None of them are owned by the staying.
-
-That is the stance. The chapter does not say it is easy. It says
-it is real, and it is here.
+of them have left. None of them are owned by the staying. The
+chapter does not say it is easy. It says it is real, and it is
+here.

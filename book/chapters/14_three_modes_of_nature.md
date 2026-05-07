@@ -117,62 +117,44 @@ minutes. Drink a glass of water. Eat actual food. Look at the
 horizon for two minutes. Sattva is not summoned by willpower
 against tamas. It is reached by tending to what tamas is naming.
 
-The 9 a.m. coffee surge after three hours of sleep is the inverse.
-You are sharp, fast, sure of yourself, and about to write a
-difficult message to a colleague. *Rajas* is at its sharpest edge
-with no sattva ballast. The chapter calls it *trishna sanga*:
-craving, attachment to action. The decisions made from this state
-are the ones the rested afternoon-self looks at with a wince. The
-chapter's instruction is not to suppress rajas. It is to recognize
-when rajas is in charge of the judgment, and to refuse to act on
-its certainty. Wait. Do the easier work first. Write the message
-tomorrow at ten, after a real night's sleep, and notice the
-difference in what your hands type.
-
-The Sunday-night doom-scroll is rajas with tamas underneath. Three
-hours on the phone since dinner. The motion of scrolling has the
-texture of activity — *I am keeping up, I am informed* — but the
-contents accumulate as dread, comparison, the slow erosion of
-attention. By the second hour the chapter's diagnostic for tamas is
-exact: heedlessness, foreclosure of attention. Closing the app at
-nine and reading something difficult for forty minutes is not
-*being good*. It is choosing the input that lets sattva rise in the
-morning.
-
-The argument with the partner under sleep deprivation deserves the
-same recognition. You are right. You can prove it. You are about
-to prove it and watch the relationship cool for two days. *The
-truth matters* is true and incomplete. The drive to be *seen* as
-right is rajas; the steadiness that would let you see your partner
-clearly is sattva, and sattva is not present in the mind of someone
-who has slept four hours after a bottle of wine. The discriminating
-intellect Krishna keeps describing across the Gita is not the
-intellect that wins arguments. It is the intellect that knows what
-the actual situation calls for, and the actual situation often
-calls for fewer words and more attention. The chapter is not
+The argument with the partner under sleep deprivation has the same
+shape from the rajasic side. You are right. You can prove it. You
+are about to prove it and watch the relationship cool for two days.
+*The truth matters* is true and incomplete. The drive to be *seen*
+as right is rajas; the steadiness that would let you see your
+partner clearly is sattva, and sattva is not present in the mind of
+someone who has slept four hours after a bottle of wine. The
+discriminating intellect Krishna keeps describing across the Gita
+is not the intellect that wins arguments. It is the intellect that
+knows what the actual situation calls for, and the actual situation
+often calls for fewer words and more attention. The chapter is not
 asking anyone to become a doormat. It is naming the difference
 between being right and being wise, and pointing out that the
 difference depends in part on how much one has slept.
 
-The decision under metabolic depletion is the same shape. Three
-a.m., the fourth night in a row of poor sleep, the offer letter on
-the screen, the voice saying *take it* or *decline it* loud and
-sure. The rested self knows things this version of you cannot
-access. The chapter's account of the gunas as substrate-dependent
-gives grounds to wait. Sleep on it literally, for two nights, and
-let the rested self render the verdict. *Sattva from rest* is not a
-metaphor in the chapter. It is the chapter's claim about how the
-mode rises.
+The decision under metabolic depletion is the same shape on a
+longer arc. Three a.m., the fourth night in a row of poor sleep,
+the offer letter on the screen, the voice saying *take it* or
+*decline it* loud and sure. The rested self knows things this
+version of you cannot access. The chapter's account of the gunas as
+substrate-dependent gives grounds to wait. Sleep on it literally,
+for two nights, and let the rested self render the verdict. *Sattva
+from rest* is not a metaphor in the chapter. It is the chapter's
+claim about how the mode rises.
 
-A week of overwork collapsed into a Saturday on the couch is the
-final variant. Sixty hours, bad food, no exercise, and now the body
-will not move. *I needed a rest* is true and incomplete. The shape
-of this rest is collapse, not restoration. Restorative rest is
-sattvic — long sleep, real food, time outside, something
-interesting in the mind. Collapse rest is tamas — the body refusing
-further demand. Both are sometimes necessary. Recognizing which one
-this Saturday actually is gives you back the ability to plan the
-next week without lying to yourself about the difference.
+The same diagnostic frame fits the smaller cases. The 9 a.m. coffee
+surge after three hours of sleep produces decisions the rested
+afternoon-self looks at with a wince — rajas at its sharpest edge
+with no sattva ballast. The Sunday-night doom-scroll moves from
+informed-keeping-up into dread by hour two — rajas with tamas
+underneath, motion that erodes attention. The Saturday on the
+couch after a sixty-hour week is the case where *I needed a rest*
+is true and incomplete because the shape of this rest is collapse
+rather than restoration. Restorative rest is sattvic — long sleep,
+real food, time outside, something interesting in the mind.
+Collapse rest is tamas — the body refusing further demand.
+Recognizing which one this Saturday actually is gives back the
+ability to plan the next week without lying about the difference.
 
 ## What the science actually allows the chapter to claim
 
@@ -180,25 +162,17 @@ The substrate the chapter is pointing at is not metaphor. Russell
 Foster and Leon Kreitzman, in *Circadian Rhythms: A Very Short
 Introduction* (OUP, 2017), summarize the now-well-replicated finding
 that circadian phase modulates attention, mood, decision quality,
-and risk preference across the day. The same person, well-rested at
-ten in the morning, performs differently from the same person at
-three in the afternoon after a poor night's sleep, who in turn
-performs differently from the same person at midnight after eight
-hours of stimulant-driven labor. None of this should be surprising
-to anyone who has lived in a body, and the empirical literature
-catches up with what Krishna is naming when he says that the modes
-*rise and fall* in the same person.
-
-Matthew Walker, in *Why We Sleep* (Scribner, 2017), is the more
-popularly known synthesis on the cognitive cost of sleep
-restriction. I cite him cautiously: Alexey Guzey's 2019 review
-documented several specific overstatements in the book, and the
-careful position is that the broad and well-replicated finding —
-that chronic sleep restriction degrades attention, working memory,
-and emotional regulation — is solid even where some of Walker's
-specific claims have not held up. The chapter does not need
-Walker's strongest claims. It needs only that sleep matters for
-cognition, and the literature settles that without him.
+and risk preference across the day. The broader sleep-cognition
+literature converges on the same shape: chronic sleep restriction
+degrades attention, working memory, and emotional regulation in
+predictable ways. The same person, well-rested at ten in the
+morning, performs differently from the same person at three in the
+afternoon after a poor night's sleep, who in turn performs
+differently from the same person at midnight after eight hours of
+stimulant-driven labor. None of this should be surprising to anyone
+who has lived in a body, and the empirical literature catches up
+with what Krishna is naming when he says that the modes *rise and
+fall* in the same person.
 
 The harder honesty is on the other axis. Robert Plomin, longtime
 director of the Twins Early Development Study at King's College
@@ -211,38 +185,27 @@ population-level statistic, not a per-person decomposition; it does
 not say that any individual is *50 percent genetic and 50 percent
 chosen*; it does not specify which genes do which work. But it does
 say something the chapter has to live with. A substantial portion
-of personality is not trainable. The genetic contribution is real,
-durable, and is a lower bound on what practice can move.
+of personality is not trainable. Mary Rothbart's developmental
+framework (*Becoming Who We Are*, Guilford, 2011) confirms the
+shape from the other direction: temperamental dimensions are
+observable in early infancy, predictive enough to forecast adult
+personality, and modifiable enough that environment, experience,
+and practice continue to shape them across life. The genetic
+contribution is real and durable; the modifiable portion is real
+and substantial.
 
 This matters because there is a temptation, when reading a chapter
 like 14, to over-promise. *Cultivate sattva and you will become a
 sattvic person.* The honest version is more bounded. Practice works
-on the portion of variance that is not genetically fixed. Some
-people arrive in the world with temperaments closer to what the
-chapter calls sattvic — calmer attention, lower negative
-affectivity, stronger effortful control — and others arrive with
-temperaments tilted toward rajasic drive or tamasic obstruction.
-Mary Rothbart's framework of temperament (*Becoming Who We Are*,
-Guilford, 2011) gives the developmental version: the dimensions
-*surgency/extraversion*, *negative affectivity*, and *effortful
-control* are observable in early infancy, predictive enough to
-forecast adult personality, and modifiable enough that environment,
-experience, and practice continue to shape them across life. The
-last word matters. *Modifiable enough.* Not infinitely. But not
-fixed.
-
-The two findings together let the chapter make exactly the claim it
-should make and not more. The chapter's call to cultivate sattva is
-working with the substantial portion of variance that remains
-within the reach of practice, and is not pretending that the rest
-will yield. A person whose baseline temperament tilts toward
-rajasic drive will not, by practice, become a temperamentally
-contemplative person. They can become a person whose rajasic drive
-is expressed within steadier attention, who notices the surge
-sooner, who chooses inputs that do not amplify it, who has built
-the witnessing stance that lets the surge be seen as a surge. That
-is what the chapter is offering. It is not a personality transplant.
-It is a path through the temperament one has.
+on the portion of variance that is not genetically fixed. A person
+whose baseline temperament tilts toward rajasic drive will not, by
+practice, become a temperamentally contemplative person. They can
+become a person whose rajasic drive is expressed within steadier
+attention, who notices the surge sooner, who chooses inputs that do
+not amplify it, who has built the witnessing stance that lets the
+surge be seen as a surge. That is what the chapter is offering. It
+is not a personality transplant. It is a path through the
+temperament one has.
 
 A second limit is worth naming. There is no neurological *sattva
 center*; mapping the three modes onto specific brain systems is
@@ -254,37 +217,24 @@ The chapter does not need a brain region to be saying something
 true about the texture of human cognition. It needs the texture
 itself to be recognizable, and it is.
 
-## Bhikkhu Bodhi on the *kilesas*
-
 A useful counterpoint comes from the Buddhist tradition, which does
 not use the language of the gunas but has a structurally adjacent
-diagnostic. The three classical *kilesas* — defilements,
-afflictions — are *lobha* (greed), *dosa* (hatred), and *moha*
-(delusion): forces that distort cognition, condition action, and
-bind beings to suffering. They are diagnosed in order to be
-uprooted. Bhikkhu Bodhi, the contemporary American Theravada monk
-and translator, has done as much as any single voice to make the
-early Buddhist psychology accessible; in *In the Buddha's Words*
-(Wisdom Publications, 2005) he emphasizes that the early teaching
-is therapeutic in form. The kilesas are not categories of person.
-They are forces in every mind, treated as such for the purpose of
-practice.
-
-The structural proximity is striking. Three forces that distort
-cognition (the kilesas) sit alongside three modes of nature that
-bind embodied experience (the gunas). Both diagnostic frameworks
-treat the forces as operating in every person rather than as
-distinguishing types. Both name practice as the way through. The
-metaphysics differs: the Buddhist tradition does not posit
-*prakriti* as a substantial nature, does not posit an *atman* that
-watches the gunas; the Gita's metaphysical floor (Ch. 7's qualified
-non-dualism) is not the Buddha's. But the *psychology* of
-diagnosis-and-practice is cousin on both sides. The Buddhist
-counterpoint sharpens the non-typological reading: if the kilesas
-are forces in every mind, and the structural parallel holds, then
-the gunas too are best read as forces present in every soul rather
-than as labels that distinguish them. The chapter is a frame for
-attention, not a system for sorting people.
+diagnostic. The three classical *kilesas* — *lobha* (greed), *dosa*
+(hatred), and *moha* (delusion) — are forces that distort
+cognition, condition action, and bind beings to suffering. Bhikkhu
+Bodhi, the contemporary Theravada monk and translator, emphasizes
+in *In the Buddha's Words* (Wisdom Publications, 2005) that the
+early teaching is therapeutic in form: the kilesas are diagnosed in
+order to be uprooted, treated as forces operating in every mind
+rather than as categories of person. The metaphysics differs from
+the Gita's: the Buddhist tradition does not posit *prakriti* as a
+substantial nature, does not posit an *atman* that watches the
+gunas. But the psychology of diagnosis-and-practice is cousin on
+both sides, and the parallel sharpens the non-typological reading.
+If the kilesas are forces in every mind, the gunas too are best
+read as forces present in every soul rather than as labels that
+distinguish them. The chapter is a frame for attention, not a
+system for sorting people.
 
 ## MacIntyre on virtue as practice
 
@@ -330,10 +280,10 @@ chapter is not promising a transplant. It is naming a direction.
 If the gunas are movements rather than types, and if practice works
 on the substantial portion of variance that is not fixed, then the
 chapter's call to cultivate sattva is a real call but a bounded
-one. The work has three layers, in the order substrate first,
-input second, witness third — because attempting any layer without
-the one beneath it is the failure mode the chapter has been
-describing.
+one. The work has three layers, in the order substrate first, input
+second, witness third — because attempting any layer without the
+one beneath it is the failure mode the chapter has been describing.
+Each layer is necessary; none is sufficient on its own.
 
 Substrate is sleep, food, light, exercise, breath. The body is part
 of the practice. A reader who wants to be steadier on Wednesday
@@ -355,18 +305,18 @@ there.
 Input is the second layer. Once substrate is decent, the question
 becomes what one is putting into one's eyes and ears, what one is
 reading, who one is following, what one is watching, what
-conversations one is having. The Sunday-night doom-scroll example
-showed the mechanics: rajas with tamas underneath, three hours of
-motion that accumulates as dread. The cultivation move is the
-unglamorous one of choosing inputs that leave the mind clearer
-rather than busier — books over feeds, sustained reading over
-fragmented intake, a few good conversations over many shallow ones,
-silence sometimes, walks without earbuds, mornings without screens
-for the first hour. The chapter does not name a particular input
-diet; it names a result and asks the reader to find the inputs that
-produce it. *Sattva is what comes after a morning that began with
-twenty minutes of silence and a book.* The Tuesday version of you
-notices the difference.
+conversations one is having. The Sunday-night doom-scroll is the
+common case: rajas with tamas underneath, three hours of motion
+that accumulates as dread. The cultivation move is the unglamorous
+one of choosing inputs that leave the mind clearer rather than
+busier — books over feeds, sustained reading over fragmented
+intake, a few good conversations over many shallow ones, silence
+sometimes, walks without earbuds, mornings without screens for the
+first hour. The chapter does not name a particular input diet; it
+names a result and asks the reader to find the inputs that produce
+it. *Sattva is what comes after a morning that began with twenty
+minutes of silence and a book.* The Tuesday version of you notices
+the difference.
 
 Input over time becomes substrate. This is the slow part. A person
 who reads serious books for twenty minutes a day, six days a week,
@@ -462,22 +412,17 @@ otherwise tomorrow. The chapter's frame, applied to people one
 loves, dissolves into ordinary attention to what they are going
 through. Which is the point.
 
-## Where this chapter is going
-
-The chapter does not stop at 14. The three-mode framework continues
-into 17, where Krishna applies it to faith, food, sacrifice,
-austerity, and gift, and into 18, where it applies to action,
-knowledge, and joy. The reader who has been working on substrate,
-input, and witness in the spirit of 14 finds that the next two
-chapters give the framework lived legs. The work of cultivating
-sattva is not the work of any single domain. It is the slow
-shaping of a life across all the domains in which the gunas show
-up, which is all of them. *What you eat, what you read, who you
-love, how you work, what you give, what you abstain from.* These
-are not separate questions. They are the same question asked at
-different angles. The chapter on the three modes is one of the
-chapters where the Gita is most clearly a manual for the texture of
-ordinary days.
+The three-mode framework continues into 17, where Krishna applies
+it to faith, food, sacrifice, austerity, and gift, and into 18,
+where it applies to action, knowledge, and joy. The reader who has
+been working on substrate, input, and witness in the spirit of 14
+finds that the next two chapters give the framework lived legs.
+The work of cultivating sattva is not the work of any single
+domain. It is the slow shaping of a life across all the domains in
+which the gunas show up, which is all of them. *What you eat, what
+you read, who you love, how you work, what you give, what you
+abstain from.* These are not separate questions. They are the same
+question asked at different angles.
 
 What the chapter finally asks of a reader in 2026 is unromantic
 and consequential. Sleep enough. Eat real food. Move the body. See
