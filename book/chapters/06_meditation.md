@@ -14,11 +14,12 @@ Notice where the instruction is given. Not in a temple, not in a
 hermitage. Krishna and Arjuna are in a chariot between two armies,
 and what to do with this day has not been settled. The most sustained
 instruction in contemplative practice arrives on the line where
-action is required. Whatever the practice teaches has to work *here*.
+action is required. Whatever the practice teaches has to work here.
 
-The instructions are specific. Sit in a clean place, body straight,
-gaze gathered. Eat moderately. Sleep moderately. Act moderately. The
-intemperate does not practice well. Practice has a body.
+The instructions are specific. Sit in a clean place, with the body
+straight and the gaze gathered. Eat moderately, sleep moderately, act
+moderately. The intemperate does not practice well. The practice has
+a body.
 
 The load-bearing image arrives early: the yogi of restrained mind is
 *like a lamp in a windless place that does not flicker*. There is
@@ -37,8 +38,8 @@ which the friend-self becomes stronger over time — not by
 overpowering the other, but by returning, again, under the wind.
 
 No teacher, no priest, no app can lift you for you. Meditation
-cannot be outsourced. You can read about it forever. You will not
-be lifted until you sit.
+cannot be outsourced. You can read about it forever, but you will
+not be lifted until you sit.
 
 Then Arjuna asks the question every honest practitioner asks. The
 mind is restless; turbulent, strong, and obstinate. Holding it down
@@ -79,7 +80,7 @@ whether or not you call it that.
 The mechanics of meditation overlap substantially with what you
 would learn in an eight-week mindfulness course. The quarrel is not
 whether the technique is real. The quarrel is what the technique is
-*for*. The yogi ranked highest is the one whose meditation is
+for. The yogi ranked highest is the one whose meditation is
 oriented toward something the practitioner did not author. The
 practice has an object, and the object is not the practitioner.
 
@@ -99,7 +100,7 @@ It is 11:14 a.m. You opened your laptop at 8:30 with two intentions.
 By now: a tab open with someone else's argument from three days ago;
 news unrelated to the day's work; a Slack thread that has recruited
 an answer not yours to give. You are not distracted in the casual
-sense. You are *ramped*. The mediated environment is, by design, a
+sense. You are ramped. The mediated environment is, by design, a
 wind machine. Every app company competes to engineer the wind to
 your particular susceptibility. Treating this as a problem of
 personal discipline is about as useful as treating drowning as a

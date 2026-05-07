@@ -10,7 +10,7 @@ first. You are not authorized to occupy the position of
 time-as-destroyer. The Gita's central discipline — action without
 attachment to outcome — presupposes a process whose source is not
 oneself. When you are nearer to source than to instrument, the
-activist license does not apply. *Time-as-destroyer* names what you
+activist license does not apply. Time-as-destroyer names what you
 are not.
 
 Arjuna asks to see what Krishna has been describing. Krishna grants
@@ -30,7 +30,7 @@ Arjuna breathes, settles. The dialogue resumes in the register a
 body can hold.
 
 The argument turns on holding two positions apart. The first is
-*time as destroyer*. The cosmic form names itself this way. The
+time as destroyer. The cosmic form names itself this way. The
 phrase folds two meanings into one: time as that in which things
 unfold is the same word as time as that which ends them. The
 destroying face and the unfolding face are not separable. The
@@ -38,7 +38,7 @@ cosmic process consumes what it produces. The warriors are already
 its. Arjuna has not authored their deaths. The deaths are time's,
 working through whatever instruments time uses.
 
-The second is *instrument only*. One verse later, the form
+The second is instrument only. One verse later, the form
 instructs Arjuna: stand up, fight, win glory; these warriors are
 already slain by me; you are merely an instrument. He is the
 occasion through which the cosmic work becomes visible. He is not
@@ -65,7 +65,7 @@ craft, a creature — that holds the embodied life inside something
 larger without requiring continuous direct vision of the whole.
 This is available secularly. It just requires a face.
 
-Now press the second claim. *Be merely an instrument* presupposes
+Now press the second claim. Being merely an instrument presupposes
 a process whose source is not oneself. You are not authorized to
 claim the time-as-destroyer position. When the human is in fact
 the source, the instrument-framing collapses, and with it the
@@ -75,10 +75,10 @@ continuum between agent and instrument of larger processes. Fair.
 But the discernment is the point, case by case, knowing the answer
 in some cases will be that the activist license does not apply.
 
-Three faces of the present. *The worker at the frontier.* The
-researcher in synthetic biology whose tools sit within reach of
-catastrophe; the engineer at a fossil-fuel firm whose work is, in
-aggregate, the largest single contributor to a planetary process
+Consider three faces of the present. The worker at the frontier.
+The researcher in synthetic biology whose tools sit within reach
+of catastrophe; the engineer at a fossil-fuel firm whose work is,
+in aggregate, the largest single contributor to a planetary process
 the older readings would have called time's alone; the strategist
 in a defense ministry; the worker at an AI lab whose system is
 reshaping cognition at scale. None of these is time-as-destroyer.
@@ -91,24 +91,25 @@ is that for some workers in some roles the question is real, and
 the chapter does not perform the discernment for them. Whether you
 are instrument or closer to source is the work you must do.
 
-*The doomscroll.* Continuous exposure to the suffering of the
-world at planetary scale, without the divine eye to bear it and
-without a gentler form to return to, is the cosmic vision without
-the granting and without the resolution. Vastness without
+Then there is the doomscroll. Continuous exposure to the suffering
+of the world at planetary scale, without the divine eye to bear it
+and without a gentler form to return to, is the cosmic vision
+without the granting and without the resolution. Vastness without
 accommodation. Terror without the face. The phone delivers the
 cosmic register on tap. Nothing shuts it off. This is not a
-sustainable human condition. The implication is not *do not look*.
-It is *do not remain in the cosmic register past the point your
-nervous system can hold*. Build the practices of return. The
-morning conversation, the work in front of you, the meal with one
-specific person — that is what makes the looking sustainable.
+sustainable human condition. The implication is not that you should
+not look. It is that you should not remain in the cosmic register
+past the point your nervous system can hold. Build the practices of
+return. The morning conversation, the work in front of you, the
+meal with one specific person — that is what makes the looking
+sustainable.
 
-*The bedside.* Time-as-destroyer shows up at the bedside. Watching
-a parent decline, a partner deteriorate, a child suffer something
-you cannot fix — these are encounters with cosmic process at the
-scale of the single life. You cannot remain in the cosmic
-register; you would not survive it. You attend to the face. The
-specific person, the specific hand, the specific breath. The
+Finally, the bedside. Time-as-destroyer shows up at the bedside.
+Watching a parent decline, a partner deteriorate, a child suffer
+something you cannot fix — these are encounters with cosmic
+process at the scale of the single life. You cannot remain in the
+cosmic register; you would not survive it. You attend to the face.
+The specific person, the specific hand, the specific breath. The
 cosmic process is real. The face in front of you is the mode in
 which you relate to all of it without being broken.
 
@@ -116,13 +117,14 @@ When you have been allowed to see something too big to hold, the
 right response is to ask for the face back. The asking is granted.
 The face is real. The disclosure does not get cancelled by the
 return — it gets carried, in a form a finite life can bear. Stand
-back up. Pick up the bow. Go to work on Tuesday. But as instrument
-in a process whose source you are not. And when the ordinary work
-has become the kind for which that distinction can no longer be
-taken for granted, ask the harder question: *am I, in this case,
-the instrument, or am I closer to the source?* Time-as-destroyer,
-for the human, is a role without permission. Ask for the face.
-Carry what you saw. Live the rest of the day at human scale.
+back up. Pick up the bow. Go to work on Tuesday. But go as
+instrument in a process whose source you are not. And when the
+ordinary work has become the kind for which that distinction can
+no longer be taken for granted, ask the harder question: am I, in
+this case, the instrument, or am I closer to the source?
+Time-as-destroyer, for the human, is a role without permission.
+Ask for the face. Carry what you saw. Live the rest of the day at
+human scale.
 
 ---
 

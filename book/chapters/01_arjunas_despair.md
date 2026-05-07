@@ -79,12 +79,12 @@ are not the first to arrive there.
 What this book teaches is a four-part posture. It is named here
 once, in plain English, so you can carry it through what follows.
 
-**Act fully without being owned by outcomes.** Effort total.
-Attachment to result, forbidden. The self is the action's author,
+**Act fully without being owned by outcomes.** Effort is total.
+Attachment to result is forbidden. The self is the action's author,
 not its success or failure. Most of what makes a difficult act
-unbearable is not the act. It is the bargain you have implicitly
-made with the act's outcome — that if it lands the way you want,
-you will be all right; if it does not, you will not. That bargain
+unbearable is not the act. It is the implicit deal you have made
+with the act's outcome — that if it lands the way you want,
+you will be all right; if it does not, you will not. That deal
 is optional. The Gita teaches the discipline of action without it.
 
 **Train your attention.** What you attend to becomes what you
@@ -105,13 +105,13 @@ the person, the work, the meal, the morning. The form is universal,
 not the property of any particular religion: oriented love,
 expressed through what is at hand.
 
-**Let go of the bargain you have been making with your own days.**
-You are negotiating with your life, mostly without knowing it —
+**Let go of the negotiation you have been running with your own days.**
+You are bargaining with your life, mostly without knowing it —
 trying to secure outcomes that secure you, trying to perform a
 self into being through what you accomplish, trying to make a deal
 with the universe in which you give your effort and the universe
 gives you back the version of yourself you wanted to be. The
-Gita's deepest teaching is that this bargain can be released. Not
+Gita's deepest teaching is that this trade can be released. Not
 action released. The bargain released. Arjuna picks up the bow at
 the end. He does not withdraw. He acts, freed from the death-grip
 on outcomes that he was never going to control anyway.
@@ -122,7 +122,7 @@ The middle work on the metaphysical floor and on devotion — what
 is real, what is worth your life, how love-with-attention finds
 its form. The last work on the discipline of recognition and the
 synthesis at the end — how a life points somewhere, how the modes
-of body and food and sleep substrate the practice, how the bargain
+of body and food and sleep substrate the practice, how the implicit deal
 is finally released. By the close you will know not just what the
 Gita teaches but what it asks of you on a Tuesday afternoon in the
 life you are actually living.
@@ -174,14 +174,6 @@ does not have a path through the next year without the cuts. You
 sit at your desk on Sunday night with the spreadsheet open and
 your fingers will not type. The body's freeze has arrived ahead
 of Monday's meeting.
-
-You are the adult child of a failing parent. The diagnosis came
-in last month. She wants to stay home. She will not be safe at
-home. She will also be miserable in a facility and resent you for
-the rest of her months for being the one who decided. Whatever you
-decide will leave residue. There is no clean choice. You sit at
-the kitchen table at one in the morning with the brochure for the
-facility in front of you and you cannot pick it up.
 
 You are the person whose project ended hollow. Five years on the
 startup, the book, the dissertation, the renovation, the role you

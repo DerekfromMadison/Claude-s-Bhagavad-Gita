@@ -1,6 +1,6 @@
 # Chapter 15 — The Supreme Person
 
-A life points somewhere or it is shaped by what is nearest. There is no third option. If you cannot say what your days are pointed at, your days are being pointed for you — by the promotion, the phone, the mood your spouse came home in, the disappointment that arrived in this morning's email. The strongest local pull will, given enough Tuesdays, make the life. The question is not whether you are being shaped. The question is by what. The orientation is the practice.
+A life points somewhere or it is shaped by what is nearest. There is no third option. If you cannot say what your days are pointed at, your days are being pointed for you — by the promotion, the screen, the mood your spouse came home in, the disappointment that arrived in this morning's email. The strongest local pull will, given enough quiet weekdays, make the life. The question is not whether you are being shaped. The question is by what. The orientation is the practice.
 
 ## The tree growing the wrong way
 
@@ -12,9 +12,9 @@ Then comes the instrument. With the weapon of non-attachment — call it the axe
 
 ## Higher than the imperishable
 
-There are two persons in this world: the perishable, which is all beings, and the imperishable, which stands at the summit. Then a third. Higher than both. He enters the worlds and sustains them. *That,* the speaker says, *is who I am.*
+There are two persons in this world: the perishable, which is all beings, and the imperishable, which stands at the summit. Then comes a third, higher than both. He enters the worlds and sustains them. That, the speaker says, is who I am.
 
-Whatever the highest is, it is not the most exalted item on a list. It is not the highest item. It is not on the list at all. The "toward which" of a life is not on the inventory of things you can buy, achieve, or accumulate. It is not the highest branch. It is the direction in which the branches do not grow. The supreme person names a relation, not a place — a relation of derivation and direction. To orient toward it is to remember, on a Tuesday, that you and your life are derived, and that your derivation has a direction.
+Whatever the highest is, it is not the most exalted item on a list. It is not the highest item. It is not on the list at all. The "toward which" of a life is not on the inventory of things you can buy, achieve, or accumulate. It is not the highest branch. It is the direction in which the branches do not grow. The supreme person names a relation, not a place — a relation of derivation and direction. To orient toward it is to remember, on an ordinary morning, that you and your life are derived, and that your derivation has a direction.
 
 ## What you have probably mistaken for the root
 
@@ -28,17 +28,17 @@ Status hides better. The frequent checking, the disproportionate hit when a metr
 
 You are at your kitchen counter. The coffee is made. There is forty-five minutes before the day's noise begins. And a question rises on its own: *what is my life pointed at?*
 
-The job is a candidate. So is the partnership, the political project, the children's education, the half-finished novel. Real things. The test is small and brutal. Imagine the candidate gone. The job — gone, by layoff. The partnership — gone, by death or by distance. The project — finished, shelved, shown to be unworthy. Is there still something to point at?
+The job is a candidate. So is the partnership, the political project, the children's education, the half-finished novel. These are real things. The test is small and brutal. Imagine the candidate gone. The job ends by layoff. The partnership ends by death or by distance. The project is finished, shelved, shown to be unworthy. Is there still something to point at?
 
 If yes — there is something underneath that this branch was an expression of — your relation to the branch is healthy. If no — *my life would be uprooted* — the rootedness was, all along, in a branch.
 
-This is not an argument against love, vocation, parenthood, art, or service. It is an argument *for* them, as they actually are: branches in a real tree. A career held under the axe is a freer career. A love held under the axe is a freer love. The axe does not diminish the branches. It lets them be what they are without asking them to be what they are not.
+This is not an argument against love, vocation, parenthood, art, or service. It is an argument for them, as they actually are: branches in a real tree. A career held under the axe is a freer career. A love held under the axe is a freer love. The axe does not diminish the branches. It lets them be what they are without asking them to be what they are not.
 
 The axe in daily life takes humble forms. The breath before opening the application. The unprogrammed stretch of time held back from being filled. The willingness to be bored momentarily. The honest moment of asking, about a current preoccupation, *root or branch?* — and living with the answer. Done once, a moment of clarity. Done daily, for months and years — the slow felling of the great tree.
 
 ## The pointing
 
-The supreme person is not the highest item on the inventory. The highest is the direction in which the inventory does not grow. People who do not point are not free; they are simply being shaped by the strongest local pull. The career colonizes. The phone takes. The status hierarchy organizes the day's emotional weather. None of this requires malice. It requires only that you not be pointing at something else. The ones who point are not immune to the pulls. They feel them. But the pulls do not, finally, shape them, because the shaping is being done by something that does not wax or wane with the day's weather. If you can still see what your life is pointed at, the rest of the day has a center it can organize around. If you cannot, the day will tend to organize around whatever asks for you most loudly. Pick up the axe.
+The supreme person is not the highest item on the inventory. The highest is the direction in which the inventory does not grow. People who do not point are not free; they are simply being shaped by the strongest local pull. The career colonizes. The device in your hand takes. The status hierarchy organizes the day's emotional weather. None of this requires malice. It requires only that you not be pointing at something else. The ones who point are not immune to the pulls. They feel them. But the pulls do not, finally, shape them, because the shaping is being done by something that does not wax or wane with the day's weather. If you can still see what your life is pointed at, the rest of the day has a center it can organize around. If you cannot, the day will tend to organize around whatever asks for you most loudly. Pick up the axe.
 
 ---
 

@@ -2,7 +2,7 @@
 
 Practice has a body. The substrate is real.
 
-Whatever you call your inner life on a Tuesday afternoon — sharp,
+Whatever you call your inner life on a weekday afternoon — sharp,
 foggy, restless, calm — depends on what you slept, what you ate,
 what light you saw, whether you moved. The Gita names three
 textures of mind: clarity (the lit room), restless drive
@@ -16,8 +16,8 @@ The three modes are not classes of person. They are movements that
 pass through every person, hour by hour, in shifting proportion.
 There is no purely clear or restless or dull person. There is a body
 in which all three contend, and a witness who can notice which one
-is up. The Gita's language is temporal — *increases*, *prevails*,
-*predominates*. The signs are what shows when a mode is ascendant;
+is up. The Gita's language is temporal — increases, prevails,
+predominates. The signs are what shows when a mode is ascendant;
 ascendance shifts. You know this if you have ever been awake for
 sixteen hours.
 
@@ -29,7 +29,7 @@ and practice reduces to noticing your states without identifying
 with them. The Gita itself refuses this. The framework gets
 applied to food, speech, work, sacrifice, gift, austerity. The
 modes are about what you eat and how you sleep and what you do on
-Tuesday morning before the workday begins.
+Wednesday morning before the workday begins.
 
 Here is the substrate at three in the afternoon. You are at the
 desk. You have been at the desk since nine. By 3 p.m. your blood
@@ -48,7 +48,7 @@ is reached by tending to what dullness is naming.
 The argument with your partner under sleep deprivation has the
 same shape from the kinetic side. You are right. You can prove it.
 You are about to prove it and watch the relationship cool for two
-days. The drive to be *seen* as right is restless drive; the
+days. The drive to be seen as right is restless drive; the
 steadiness that would let you see your partner clearly is clarity,
 and clarity is not present in the mind of someone who slept four
 hours. The difference between being right and being wise depends
@@ -108,11 +108,11 @@ intact; it does not collapse a movement into an essence. *Dullness
 is up in him today, and he has not been sleeping* leaves room for
 him to be otherwise tomorrow.
 The weather of a life does not change in an afternoon. It changes
-across years, by the unromantic choices made on Tuesdays that felt
-like nothing at the time. The meal at 2 p.m. is part of the
-meditation at 6 a.m. tomorrow. The walk you took at 3 p.m. is part
-of the patience you have at dinner. The three modes have a body,
-and the body is yours. Tend it, and the modes will tend with it.
+across years, by the unromantic choices made on ordinary weekdays
+that felt like nothing at the time. The meal at 2 p.m. is part of
+the meditation at 6 a.m. tomorrow. The walk you took at 3 p.m. is
+part of the patience you have at dinner. The three modes have a
+body, and the body is yours. Tend it, and the modes will tend with it.
 
 ---
 
