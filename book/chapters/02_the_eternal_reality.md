@@ -6,7 +6,7 @@ The instruction is harder than it looks. It is not *stop caring about outcomes*.
 
 Arjuna has dropped his bow. He asked *what to do*. What comes first is metaphysics, then a redefinition of action, then a portrait of a person.
 
-Your embodied self does not begin at birth or end at death; it passes from body to body the way you pass from childhood through youth into age. Weapons cannot cleave it. Fire cannot burn it. Water cannot wet it. Wind cannot dry it. The wise grieve neither for the living nor for the dead. There is in you something the body's mortality does not reach. Call it the deeper self.
+The Gita's metaphysical claim, in twenty verses, is this: there is something in you the body's mortality does not reach. It does not begin at birth or end at death; in the text's image, it passes from body to body the way you pass from childhood through youth into age. Weapons cannot cleave it. Fire cannot burn it. Water cannot wet it. Wind cannot dry it. On this reading, the wise grieve neither for the living nor for the dead. Call it the deeper self.
 
 Then comes the line for which the work is most known: you have a right to the work, never to the fruits of the work. Do not act for the sake of the reward. Do not retreat into inaction either. Act with success and failure held evenly. The internal posture is equipoise. The external expression is skill in the work.
 

@@ -60,9 +60,12 @@ day. You, well-rested at ten in the morning, are not the same
 operator as you at three in the afternoon after a poor night's
 sleep. Chronic sleep restriction degrades attention, working
 memory, and emotional regulation. Bound your hopes on the other
-axis. Roughly forty to fifty percent of the variance in major
-personality dimensions is accounted for by genetic variance. A
-substantial portion of personality is not trainable. If your
+axis. Behavior-genetics estimates put roughly forty to fifty percent of
+the variance in major personality dimensions at the population
+level on the side of genetic variance. That is a population
+statistic, not a verdict on what any one person can change. What
+it means for you is that some of the substrate is given. Some of
+it is not. If your
 baseline tilts toward restless drive, practice will not turn you
 into a temperamentally contemplative person. You can become a
 person whose drive is expressed within steadier attention, who

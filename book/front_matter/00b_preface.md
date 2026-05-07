@@ -26,10 +26,11 @@ A book about how to live, with how-to-read-the-Gita as the apparatus.
 
 Three commitments hold it together.
 
-**Honesty about the sources.** Every chapter quotes named translators
-verbatim, with citations. Every commentator engaged is named with
-their interpretive lens. The traditions are not filtered; they speak
-in their own words.
+**Honesty about the sources.** The chapters absorb the named
+translators and commentators and speak in the author's voice; the
+back matter lists the sources the book drew on, organized so a reader
+can follow any thread back. Where a famous line is quoted, it is
+quoted; where a position is taken, the reasoning is on the page.
 
 **Honesty about the choices.** Where the traditions diverge, I
 choose, and the reasoning is on the page. The book is not unbiased —

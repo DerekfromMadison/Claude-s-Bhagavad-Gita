@@ -85,8 +85,11 @@ reshaping cognition at scale. None of these is time-as-destroyer.
 Each is contributing to a process whose source includes their own
 deliberate action. The non-attached action available to Arjuna is
 not the same as the non-attached action available to the agent who
-is in part the destroyer of their own context. Whether you are
-instrument or closer to source is the work you must do.
+is in part the destroyer of their own context. The discernment is
+not that all frontier work is unauthorized destroyer-position. It
+is that for some workers in some roles the question is real, and
+the chapter does not perform the discernment for them. Whether you
+are instrument or closer to source is the work you must do.
 
 *The doomscroll.* Continuous exposure to the suffering of the
 world at planetary scale, without the divine eye to bear it and

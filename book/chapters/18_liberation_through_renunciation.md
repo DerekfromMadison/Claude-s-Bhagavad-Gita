@@ -4,7 +4,7 @@ Stop trying to save yourself by your performance.
 
 Not by stopping the work. Not by walking away from the relationships, the obligations, the ordinary day. Prescribed action continues. The bargain ends. The bargain that says, *if I do enough, if I do it well enough, if the result comes in the way I planned, I will be okay.* That bargain comes off the table. You may not have called it a bargain. You have been carrying it anyway — performing your way toward a security the performance was never going to deliver. Put down the performance as a metaphysics of self-rescue. Then keep working. The release of the death-grip on outcomes while the hand stays open for the next act.
 
-This is the synthesis. Not a fourth path beside action, knowledge, and devotion — what those three become when they are no longer being clutched by an agent who believes the outcome depends entirely on him. The misreading is to hear surrender as quietism, as exit from the field. Surrender is integration. The posture under which action keeps happening, but no longer to save you.
+This is the synthesis. Not a fourth path beside action, knowledge, and devotion — what those three become when they are no longer being clutched by an agent who believes the outcome rests entirely on their own performance. The misreading is to hear surrender as quietism, as exit from the field. Surrender is integration. The posture under which action keeps happening, but no longer to save you.
 
 Arjuna picks up the bow.
 

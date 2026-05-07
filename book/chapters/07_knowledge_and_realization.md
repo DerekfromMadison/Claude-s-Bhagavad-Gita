@@ -42,10 +42,12 @@ pedigree. Corrosive when held operationally. If the world is a
 simulation, the people in it are non-player characters. The
 grief is rendered. The face across the room is a textured
 polygon. The work is a quest item. You can hold this position
-intellectually and continue to behave well. But the position is
-heavy, and it bleeds. The longer you hold it, the more the
-question *does this actually matter?* recurs. The only honest
-answer the position permits is *probably not*.
+intellectually and continue to behave well. The simulation
+hypothesis is philosophically interesting and not refutable. But
+operationally, the day's grief, the hand on a shoulder, the work
+in front of you do not change shape under it — they ask the same
+things of you whether or not the substrate is what you think it
+is.
 
 The same move appears in older language. Treat your daughter's
 wedding as a projection on the screen of consciousness. Treat

@@ -57,10 +57,12 @@ grip your meditation have merely moved the grip.
 
 The slip-and-return pattern is the practice. You sit. The mind
 wanders. You notice. You return. That is one repetition. Richard
-Davidson's lab at Wisconsin has spent decades scanning practitioners
-and found what serious sitters already know: the brain whose mind
-returns becomes, over time, a brain that returns more easily. The
-neural circuits supporting steadiness thicken with use. The wandering
+Davidson's lab at Wisconsin has spent decades scanning practitioners,
+and the relevant brain circuits show measurable change in long-term
+sitters — the literature is real, but the effect sizes are modest
+and the population is selected. What serious practitioners already
+know is more pedestrian: the mind that has rehearsed returning
+returns more easily. The wandering
 is not the failure. The return is the practice. Score the return,
 not the wandering.
 
@@ -88,9 +90,10 @@ effects. The trouble is when they become the point. A meditation
 practice organized around your own optimization is the small self
 with a more accomplished publicist. The for-something criterion is
 narrow on purpose. The lamp must illumine something. The something
-must be real. It must exceed the small self. The technique without
-the orientation is wellness. The orientation without the technique
-is sentiment.
+must be real. It must exceed the small self. Technique without orientation
+tends to drift toward wellness. Orientation without technique
+tends to drift toward sentiment. Both drifts are real failure
+modes; neither is what is being taught here.
 
 It is 11:14 a.m. You opened your laptop at 8:30 with two intentions.
 By now: a tab open with someone else's argument from three days ago;

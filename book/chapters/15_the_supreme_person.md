@@ -38,7 +38,7 @@ The axe in daily life takes humble forms. The breath before opening the applicat
 
 ## The pointing
 
-The supreme person is not the highest item on the inventory. The highest is the direction in which the inventory does not grow. People who do not point are not free; they are simply being shaped by the strongest local pull. The career colonizes. The phone takes. The status hierarchy organizes the day's emotional weather. None of this requires malice. It requires only that you not be pointing at something else. The ones who point are not immune to the pulls. They feel them. But the pulls do not, finally, shape them, because the shaping is being done by something that does not wax or wane with the day's weather. If you can still see what your life is pointed at, the day is yours. If you cannot, the day belongs to the branches. Pick up the axe.
+The supreme person is not the highest item on the inventory. The highest is the direction in which the inventory does not grow. People who do not point are not free; they are simply being shaped by the strongest local pull. The career colonizes. The phone takes. The status hierarchy organizes the day's emotional weather. None of this requires malice. It requires only that you not be pointing at something else. The ones who point are not immune to the pulls. They feel them. But the pulls do not, finally, shape them, because the shaping is being done by something that does not wax or wane with the day's weather. If you can still see what your life is pointed at, the rest of the day has a center it can organize around. If you cannot, the day will tend to organize around whatever asks for you most loudly. Pick up the axe.
 
 ---
 

@@ -149,8 +149,8 @@ people would, that you are weak for not — is in the way of what is
 actually happening. What is actually happening is that your body
 has perceived something your conscious mind has been working hard
 not to perceive, and is telling you about it through the only
-channel it has. The trembling is the message your animal is
-sending about a situation your story has been refusing. The
+channel it has. The trembling carries information about a
+situation your story has been refusing. The
 discipline at the threshold is to let the message land before you
 generate commentary on it.
 

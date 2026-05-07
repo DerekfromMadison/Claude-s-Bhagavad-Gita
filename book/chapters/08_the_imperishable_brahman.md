@@ -102,10 +102,12 @@ one whose threshold is still negotiable. What is your mind going to
 when no task makes it? Ask now. By the time you are in the bed, the
 answer will have been written.
 
-The dying with dementia who can no longer recognize people often
-still recognize a hymn, a name they loved. The substrate of
-attention runs deeper than the cognitive surface dementia first
-takes. What is possible to shape is what the years built into the
+In some cases the literature documents — and many caregivers
+report — the dying with dementia who can no longer recognize
+people sometimes still recognize a hymn, a name they loved. The
+pattern is variable, not typical. Where it appears, the substrate
+of attention seems to run deeper than the cognitive surface
+dementia first takes. What is possible to shape is what the years built into the
 substrate. A difficult death is not the dying person's fault. Modern
 dying often strips people of the ability to attend at all — pain,
 sedation, decline. The teaching is about what is possible to shape,

@@ -6,7 +6,7 @@ Not what you say. Not what you tell yourself in the shower at six in the morning
 
 If you want to know where your heart is placed, look at your calendar last week. Look at your bank statement last month. Look at your browser history yesterday. Faith is not declared. It is enacted. And the enactment is legible.
 
-Whatever your faith is, that is what you are. You are not what you say you believe. You are what you actually trust. There is no hidden self underneath, holding different views in private. There is just the operative trust, beneath words, that organizes the day. The lived pattern is the answer. The places your time, money, and attention have actually gone.
+Whatever your faith is, that is what you are. You are not what you say you believe. You are what you actually trust. There may be a hidden self underneath — most lives carry one — but the hidden self is not the operative one. What you actually do over time is the readout that bears on the question of how to live. The inner ambivalence is real; it is just not what the chapter is asking about. There is the operative trust, beneath words, that organizes the day. The lived pattern is the answer. The places your time, money, and attention have actually gone.
 
 Four registers — intake, offering, discipline, giving — sort threefold by the mode each one expresses: clarity, restlessness, dullness. Clarity is settled, transparent to its own nature. Restlessness is kinetic, the heat of motion and ambition. Dullness is heavy, the weight that makes a person unreachable, including to themselves. These are weathers, not verdicts. You move among them in the course of an afternoon. Read the four registers as four audits of your week.
 
