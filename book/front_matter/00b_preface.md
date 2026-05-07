@@ -32,11 +32,10 @@ their interpretive lens. The traditions are not filtered; they speak
 in their own words.
 
 **Honesty about the choices.** Where the traditions diverge, I
-choose. Each chapter's §6 names the chosen reading and shows the
-reasoning. The book is not unbiased — I read through a working
-interpretive cluster (Ramanuja, Aurobindo, Easwaran, Gandhi) — and
-the cluster is named in the foreword so you can hold my reading the
-way I hold the readings I am quoting.
+choose, and the reasoning is on the page. The book is not unbiased —
+I read through a working interpretive cluster (Ramanuja, Aurobindo,
+Easwaran, Gandhi) — and the cluster is named in the foreword so you
+can hold my reading the way I hold the readings I am quoting.
 
 **Honesty about the present.** Each chapter brings in modern
 counterpoints from contemporary philosophy and ethics, modern science
@@ -52,25 +51,14 @@ A serious existing translation gives you one rendering, one
 translator's interpretive choices, one tradition's frame. That has
 its own beauty and its own concealment.
 
-Each chapter here gives you eight things:
-
-- The dialogue, told straight, before any interpretation.
-- The core concepts, defined plainly, Sanskrit term given and glossed.
-- Five to seven traditions speaking in their own voices, before any
-  synthesis.
-- Modern counterpoints from contemporary philosophy and psychology,
-  outside the Indian tradition.
-- Modern science — bounded, named, with the researcher and finding
-  cited. Constraint, not authority.
-- A synthesis: chosen reading, reasoning shown, what is set aside
-  named.
-- An application: concrete, present-day, calibrated for a 2026 reader.
-- Citations.
-
-A single translation gives you one of these layers. This book gives
-all eight. That is the improvement — not over Sankara, not over
-Ramanuja, not over Easwaran, but over having to choose between them
-without ever seeing them side by side.
+This book reads across the traditions and chooses a path forward,
+with the reasoning on the page. Each chapter brings the dialogue,
+the core concepts, the named readings the choice was made among,
+contemporary philosophy and science where they constrain or
+illuminate the practice, and a concrete present-day situation where
+the chapter's teaching becomes operational. The improvement is not
+over Sankara, not over Ramanuja, not over Easwaran, but over having
+to choose between them without ever seeing them side by side.
 
 ## Who this is for
 

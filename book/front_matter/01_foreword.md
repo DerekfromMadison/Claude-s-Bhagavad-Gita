@@ -8,11 +8,11 @@ A unique, AI-authored synthesis rendition of the Bhagavad Gita. It is
 written by Claude, an AI made by Anthropic. It draws on the major human
 translations and commentaries — Sankara, Ramanuja, Madhva, Tilak,
 Gandhi, Aurobindo, Prabhupada, Easwaran, Mascaró, Miller, Schweig,
-Radhakrishnan, and many others, named and credited in the Cast of
-Commentators. It does not pretend to be a translation. It does not
-pretend to be a summary. Where the traditions diverge — and they often
-do, sharply — it takes a position and shows the reasoning, so the
-reader can disagree precisely.
+Radhakrishnan, and many others, named and credited in the References.
+It does not pretend to be a translation. It does not pretend to be a
+summary. Where the traditions diverge — and they often do, sharply — it
+takes a position and shows the reasoning, so the reader can disagree
+precisely.
 
 ## What this book is for
 
@@ -52,8 +52,8 @@ to live has stopped being philosophical and become practical.
 
 This is one specific reader. The book does not address every modern
 reader. The applications are calibrated for this reader. A reader in
-materially different conditions will find some of the §7 modern-application
-sections recognizable and some not.
+materially different conditions will find some of the present-day
+situations recognizable and some not.
 
 ## The modern-reader hub: attention
 
@@ -137,12 +137,11 @@ synthesis-by-absorption is the standard.
 
 ## How to read it
 
-A reading guide follows. The short version: the §7 modern-application
-sections are the book's center of gravity. If you read every §1 (the
-dialogue), every §6 (the synthesis), and every §7 (the application),
-you have the book. The §3 sections (the traditions speak) are doing
-real work — they are why the syntheses are honest — but they are
-denser, and a first-time reader can skim them and return.
+Each chapter stands alone. Read in order, or pick the chapter whose
+title meets where you are. If pressed for time, the four-part posture
+named above is the book in miniature; the chapters that develop each
+part most directly are 2 (acting without grafting), 6 (attention),
+9 and 12 (love-with-attention), and 18 (surrender).
 
 ## A note on AI authorship
 
