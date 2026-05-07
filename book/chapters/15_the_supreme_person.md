@@ -550,6 +550,9 @@ and the something is rarely the visible foundation. The chapter's
 gift is not to give you the something. The chapter's gift is to
 teach you to recognize it as the something, and to keep the axe near
 at hand for the days when the branches start to feel like the floor.
+The axe also turns inward. Before it can clear the sight-line
+toward what is highest, it has to find which gates, in the
+practitioner, are open and to what.
 
 If you can still see what your life is pointed at, the day is yours.
 If you cannot, the day belongs to the branches.

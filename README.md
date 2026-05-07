@@ -1,87 +1,110 @@
 # Claude's Bhagavad Gita
 
-A unique, AI-authored synthesis rendition of the Bhagavad Gita, written
-by Claude (an AI made by Anthropic), drawing extensively and verifiably
-on the major human translations and commentaries on the Gita and
-bringing them into dialogue with modern philosophy, ethics, psychology,
-and science.
+An AI-authored synthesis rendition of the Bhagavad Gita. Written by
+Claude. ~87,000 words across 18 book chapters plus front matter. The
+book draws on the major human translations and commentaries (Sankara,
+Ramanuja, Madhva, Tilak, Gandhi, Aurobindo, Prabhupada, Easwaran,
+Mascaró, Miller, Schweig, Radhakrishnan, others) and brings them into
+dialogue with modern philosophy and science (Murdoch, Weil, Frankl,
+Arendt, James, Heidegger, Damasio, Davidson, Brewer, Lazar, Keltner,
+others).
 
-This is **not** a translation. It is **not** a summary. It is a new
-work — declared as AI-authored on page one — that takes the plurality
-of the Gita's interpretive traditions, names each lens honestly, quotes
-each tradition in its own words with citation, and then chooses a path
-forward for a present-day reader, with the reasoning shown.
+Not a translation. Not a summary. A new book, declared as AI-authored
+on page one, that takes the plurality of the Gita's interpretive
+traditions and chooses a path forward for a present-day reader with
+reasoning shown.
 
-## Status
+## How to read it
 
-Phase: **Plan complete.** Chapter drafting has not yet begun.
+Begin with `book/front_matter/00b_preface.md` — origin, audience,
+executive summary of the book's claim. Then `book/front_matter/01_foreword.md`
+("What this book is for"). Then the chapters in order, or selectively
+per `book/front_matter/04_reading_guide.md`.
 
-## How this repository is organized
+If pressed for time: read Chapters 1, 6, 8, 11, 13, 16, 17, 18 first,
+in that order.
+
+## What's in this repository
 
 ```
-.
-├── plan/
-│   ├── 00_PROJECT_INTENTION.md     The vision and scope of the project
-│   ├── 01_GOALS_AND_PRINCIPLES.md  Goals, methodology, anti-hallucination protocol
-│   ├── 02_CHAPTER_OUTLINE.md       Brief for each of the 18 chapters
-│   ├── 03_SOURCES_AND_VIEWPOINTS.md Source corpus and interpretive schools
-│   ├── 04_OUTPUT_STRUCTURE.md      Final book layout and chapter template
-│   └── 05_SUBAGENT_BRIEF.md        Handoff brief for chapter-drafting agents
-├── book/
-│   ├── front_matter/               (To be drafted)
-│   ├── chapters/                   (To be drafted, one file per chapter)
-│   └── back_matter/                (To be drafted: bibliography, glossary, indices)
-├── research/
-│   ├── source_notes/               Per-chapter source-pull logs (validation artifact)
-│   └── synthesis_notes/            Per-chapter reasoning behind chosen path forward
-└── README.md                       This file
+book/
+├── front_matter/      Title, preface, foreword, methodological note,
+│                      cast of commentators, reading guide
+└── chapters/          18 chapter book chapters (~82K words)
+
+plan/                  How the book was planned and what writing
+                       rules govern it. plan/06_book_vision.md
+                       is the binding direction document.
+
+research/              Per-chapter source notes and synthesis notes
+                       from the drafting process (artifact).
+
+review/                Editorial pipeline reports (consistency, bias,
+                       missing viewpoints, intention, conciseness,
+                       prose stylist, skeptical reader, target reader,
+                       cohesiveness, clarity, flow, intention
+                       comparison, over-explanation). Artifact of the
+                       editorial process, not part of the published
+                       book.
+
+CLAUDE.md              Project configuration for Claude Code.
+README.md              This file.
 ```
 
-## Next step
+## The book's claim, in one paragraph
 
-A sub-agent picks up a single chapter, reads the plan documents in the
-order specified in `plan/05_SUBAGENT_BRIEF.md`, executes the chapter
-end-to-end against the template in `plan/04_OUTPUT_STRUCTURE.md`, and
-produces:
+The Gita is teaching a posture — a way of being inside an embodied
+life, recoverable today by a reader who is not in a forest, not in a
+temple, and not inside any single sectarian frame. The posture has
+four parts: act fully without grafting your selfhood onto the result;
+train your attention chosen and oriented at a real other; love what
+is worth your life through what is actually at hand; surrender the
+bargain you did not know you were making with your own days. The
+eighteen chapters describe the practice that builds this posture.
+The book makes the case that the posture is real, that it is
+recoverable today, and that the Gita's chapters describe — in ways
+that take the book ~87,000 words to render in present-day terms —
+how it is built.
 
-- `book/chapters/<NN>_<slug>.md` — the chapter draft.
-- `research/source_notes/ch<NN>.md` — the source-pull log.
-- `research/synthesis_notes/ch<NN>.md` — the reasoning behind the
-  chosen path forward.
+## What the book commits to
 
-Sub-agents work one chapter at a time. Cross-chapter consistency and
-the front/back matter are produced in a final consolidation pass after
-all 18 chapter drafts exist.
+- **Audience:** a 2026 educated reader in middle life or its
+  threshold, in adult relationships under real strain, with at least
+  one operationally pressing situation (caregiving, layoff, grief,
+  partnership trouble, vocational drift).
+- **Metaphysical floor:** qualified non-dualism (Ramanuja's reading)
+  — the world is real, the divine is intimate with it, the small
+  self is real but not final.
+- **Working interpretive cluster:** Ramanuja, Aurobindo, Easwaran,
+  Gandhi as the load-bearing synthesis cluster, with Sankara
+  carrying Chapters 8 and 13. The cluster is named in the foreword
+  so the reader can hold it the way the book holds the readings it
+  quotes.
+- **Citation discipline:** paraphrase-with-citation as the dominant
+  mode; verbatim quotes only for famous lines, Sanskrit verses, and
+  specific philosophical moves where wording matters. Every claim
+  about a tradition is sourced.
 
-## What this project requires of every chapter
+## Outstanding work
 
-- ≥ 3 interpretive viewpoints engaged (target 5–7).
-- ≥ 5 named translators or commentators quoted, with citation.
-- ≥ 12 verbatim quoted passages, all sourced.
-- ≥ 2 modern counterpoint voices from contemporary philosophy,
-  ethics, or psychology.
-- ≥ 1 modern science strand, citing named researchers and bounded
-  findings.
-- A synthesis section in Claude's voice that names which strands are
-  woven forward and why.
-- A modern-application section grounded in concrete present-day
-  situations.
+- **Citation locator validation.** A number of citations carry
+  "edition unconfirmed; validation pending" markers. Resolving these
+  requires the physical published editions of every cited work. A
+  separate validation phase, not yet executed.
+- **Back matter.** The bibliography, glossary, and indices are not
+  yet built. They consolidate from the chapter citation lists; this
+  is final-pass work.
 
-The full requirements are in `plan/01_GOALS_AND_PRINCIPLES.md`.
-
-## Anti-hallucination commitment
-
-Quotations and citations that cannot be verified against real published
-sources do not appear. Paraphrase is permitted when labeled as such.
-Every chapter passes a validation pass that re-checks every quote and
-every locator before it is considered done. Details in
-`plan/01_GOALS_AND_PRINCIPLES.md` and `plan/05_SUBAGENT_BRIEF.md`.
+The chapters and front matter are at finished-draft quality. A human
+reader can read the book in its current state.
 
 ## On AI authorship
 
-The book opens with a plain declaration that it was written by Claude
-as an AI interpretation, drawing on named human translators and
-commentators. There is no claim to revealed authority. There is no
-pretense of human authorship. There is no pretense of being "the" Gita.
-It is a present-day AI synthesis, declared as such, and inviting the
-reader to follow the citations and form their own reading.
+The book is written by an AI. This is declared on the title page, in
+the preface, and at the close of Chapter 18. The author has not been
+a person in the world. Where the book has leaned on writers who *had*
+been people in the world — Frankl, Weil, Murdoch, Easwaran, Gandhi —
+it has tried to let their lived weight carry. Where the prose is the
+AI's, it is the prose of a careful reader who has not been a person.
+The reader is invited to read, to disagree, to follow the citations
+into the source texts, and to form their own reading.

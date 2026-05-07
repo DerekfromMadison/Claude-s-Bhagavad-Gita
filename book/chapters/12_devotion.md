@@ -388,7 +388,10 @@ not need you to believe anything in particular. It needs you to look
 honestly at how you treated the last person who insulted you, the
 last project that failed, the last person who could not give back
 what you gave. The diagnostic is in your hands by the time you finish
-reading.
+reading. And there is, underneath all of it, the question of who
+is doing the looking — what part of you stands a little apart
+from the day's weather and watches how you treated the person
+who could not give back what you gave.
 
 That is the chapter. Love is the moral faculty. The qualities are its
 consequences. The path is descending in demand, not in dignity. And

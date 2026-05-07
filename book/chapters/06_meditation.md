@@ -493,7 +493,9 @@ begins to act from a center that is not driven by reactivity. The
 practitioner does not typically know which is happening when. What
 the practitioner reports, across traditions and centuries, is
 something like this: the wind has not stopped, but the lamp is
-steadier, and the room is more often visible.
+steadier, and the room is more often visible. And the room, it
+turns out, is not a screen. The discipline only matters because
+what the steady attention finds in front of it is actually there.
 
 Find the window of fifteen to thirty minutes you could give to a
 chosen practice — silent breathing, *japa*, Easwaran's passage
