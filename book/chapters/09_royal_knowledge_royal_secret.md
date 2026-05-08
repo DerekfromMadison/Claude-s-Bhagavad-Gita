@@ -1,51 +1,29 @@
 # Chapter 9 — Royal Knowledge, Royal Secret
 
-**Krishna:**
+Devotion has no entry fee. Not the right birth, not the right wealth, not the right scriptural training, not the right tradition. The largest possible metaphysical announcement and the smallest possible practical instruction sit in the same breath: what holds the world is intimate with everything in it, and what the practice asks of you is a leaf, a flower, a fruit, water. What anyone has.
 
-Arjuna, I will tell you now the most secret knowledge. The royal knowledge, the royal secret. Hidden, but only because so few have looked at what is in front of them. Pure. Easy to practice. Once known, it does not leave you.
+The claim is structural, not competitive. Devotion — love-with-attention, the active turning that joins you to what you love — is the path with the lowest threshold. It does not require a sectarian commitment, leisure, literacy, or initiation. It requires the inward turning, and what is at hand. If you have been told you are not the right kind of person for this practice, you are. The leaf is what you have. That is enough.
 
-Listen.
+The metaphysics arrives first, because without it the rest collapses. What holds the world pervades the world but is not exhausted by it. All beings rest in it; it does not rest in them. The holder is not held. Without that asymmetry the practice shrinks to preference or expands to nothing. The leaf is the leaf because of the asymmetry.
 
-I pervade this whole world. Every form rests in me. I do not rest in them. Hold that carefully, because it is the structure that makes everything else true. All beings are in me. I am not contained by them. The world hangs from me as fruit hangs from a branch. The branch is not the fruit. The fruit does not hold up the branch.
+Then the move you remember. Leaf, flower, fruit, water — offered with devotion, the divine accepts. Whatever you do, eat, offer, give, restrain — do it as an offering. The divine is impartial to all beings, but those who turn with love are in the divine, and the divine in them. Even one of evil conduct, turning wholly, becomes righteous. One move. What holds the world pervades everything. Therefore devotion is not gated by access. What gates devotion is the inward turning. And what the inward turning requires is a leaf.
 
-If you do not see this, the rest collapses. You will think the practice is something you give and the divine is something you receive. It is not a transaction. It is a turning. You are already inside what you are turning toward.
+The English word *devotion* has narrowed to a religious specialty — the saint, the chanter, the cloistered worshipper. What is meant here is broader: the active, oriented love that joins you to what you love. Not primarily a feeling. A practice of attention and offering. The leaf is small. The love is the weight. What matters is the love-with-attention that brings it.
 
-Now hear what follows from it.
+Attention, taken to its highest degree, is the same thing as prayer; it presupposes faith and love. A leaf, given with love, is received. The attention is the offering. The leaf is just the material on which the attention rests. And: the capacity to give one's attention to a sufferer is almost a miracle; it is a miracle. Hold both. Easy to begin — the gate is open. Costly to do well — actually giving full attention to anything is hard. You can begin today. Doing it well is the work of a life.
 
-Whoever offers me with devotion a leaf, a flower, a fruit, water — that offering of devotion I accept from the loving heart.
+A verse near the end is the hardest to read honestly. It names women, the merchant class, the laborer class, and those of low birth as those who, taking refuge in what holds the world, reach the highest goal. It is one of the broadest welcomes the classical Indian religious literature offers — the path is not gated by birth, by gender, by social standing. It names, by category, the people the social order has counted as outside the gate, and says they are not. Read with the rest — the path is easy, the undivided ones are looked after, what is offered is a leaf, even one of evil conduct turning wholly is accepted — it yields one repeated claim. The gate is the inward turning, never social position. The list is the plain statement that the system the social order uses is not the system that holds.
 
-Hear what I have said. Not gold. Not the perfect ritual. Not the trained voice of the priest. A leaf. A flower. A fruit. Water. What anyone has.
+This is not religious sectarianism. It is structural form. The variable is what you take to be ultimately worth your life. For some, a personal God. For some, the work itself. For some, the people you love. For some, the planet. For some, the next generation. For some, the simple orientation toward the good. Within the practice the chapter is teaching, the object is not legislated; the structure — oriented love-with-attention given through what is at hand — is. That structural availability is the chapter's claim; the metaphysical question of who or what receives the offering is not settled here. Love-with-attention turned at what you take to be ultimately worth your life, expressed through what is at hand — that is portable across every metaphysics a thoughtful adult might hold.
 
-This is the secret. The teaching is freely available. The gate is not money. The gate is not lineage. The gate is not the right tongue or the right scripture or the right teacher you cannot find. The gate is the turning of the heart with what is in your hand.
+You are not on a battlefield. Not in a hermitage. Not in a temple. You are at a kitchen table at 6:14 in the morning, on a commuter train, in front of a screen at work, putting a child to bed. Leaf, flower, fruit, water names four objects from a world in which leaves and water were what most people had. The principle — what anyone has — is what survives the crossing into your century. The leaf, in 2026, is the cup of coffee at the start of the day. The work you are about to do. The conversation you are about to have. The breath at the bottom of an exhale. The reply you have been composing for an hour because the relationship matters. The leaf is the actual material of your day.
 
-You think this is a small teaching. It is the largest teaching I have given you. Because what holds the world has just told you that what holds the world receives a leaf. The whole asymmetry — that I pervade everything and am not held by anything — bends down to receive a cup of water from the loving heart. That is what you are being shown.
+The practice is not adding something to the day. It is orienting what is already there. The teacher who attends to the student in front of them rather than to the performance review. The clinician who attends to the patient rather than to the metric. The parent who attends to the child rather than to the version of parenting that will be visible later. The leaf is the day, given.
 
-Arjuna, do not miss this.
+The universalism is not academic. We live in cultures organized by access — to capital, to education, to time and silence, to the social cues that mark someone as a spiritual person. None of these is the gate. The single mother working two jobs has access. The unemployed person has access. The person who has never read a religious book has access. The leaf is, structurally, free.
 
-There are those who have been told they cannot enter. Told by birth. Told by what work their hands do. Told by what gender they were born into. Told that the practice belongs to others, that scripture is not for them, that the teaching is reserved. Hear me. Anyone who turns toward me reaches me. Women, those who labor for wages, those born to no advantage, those the social order has counted outside its gate — they reach the highest goal. There is no one excluded. The structure of the practice is the same for all. Whoever turns, arrives.
-
-Even one whose conduct has been very bad, if they turn toward me with the heart undivided, count them among the righteous. The turning has already begun the work. Do not look at the past as if the past held them. The turning is the present, and the present is what I receive.
-
-Now hear how to do it.
-
-Whatever you do — do it as offering to me. Whatever you eat, whatever you give, whatever discipline you hold, whatever suffering comes to you that you cannot turn away — offer it. The work of your hands. The food on your plate. The money you give. The pain you carry. Offer it.
-
-This is the practice. Not somewhere else. Not in a building you have not built, with a tradition you do not have, under a teacher you cannot find. Here. The kitchen counter where you stand in the morning. The desk where the work is. The table where the meal is set down. The conversation you are about to have. The room where someone you love is sleeping. Each of these is the altar. The altar is wherever the offering is made.
-
-You will say: but I do not know how to offer. You do. You have been doing it badly your whole life, scattered, half-attending, giving the leaf to one thing while the heart points at another. The instruction is to gather. To do what you are doing, and let what you are doing be the offering. The leaf is the day. Given.
-
-Hear me on this. Do not add a practice on top of the day. Orient the day. The teacher attending to the student in front of them. The clinician attending to the patient and not the metric. The parent attending to the child and not to the version of parenting visible later. The hand on the work it has been given. That is the offering. The leaf is the work, and the flower is the meal, and the fruit is the conversation, and the water is the breath at the bottom of the exhale before the difficult reply.
-
-I am the same toward all beings. None is hated. None is favored. But those who worship me with devotion — they are in me, and I am in them.
-
-Hear what I have said. They are in me, and I am in them. Not metaphor. Not poetry. The structure. The one who turns and offers is no longer outside what they are turning toward. The leaf is received, and the one who offers the leaf is received. There is no distance left to cross. The distance was the assumption that there was distance.
-
-Therefore, Arjuna, fix your mind on me. Be devoted to me. Offer to me. Bow toward what holds the world. Doing this, you will come to me. I promise you. You are dear to me.
-
-The royal secret is this. The teaching is for everyone. The practice is what you have. The offering is the day. The receiver is already inside the giver.
-
-Now you know.
+It is morning. You are standing in the kitchen. The kettle is on. You have not said anything to anyone yet today. There is a window over the sink and the light is coming in. You are tired. You have a difficult day ahead, and not enough rest behind you. Pause for two breaths, long enough to mean it. Look at one thing — the kettle, the window, the cup, your own hand — and let it be that thing for the length of one breath. Not its symbolism. Not what it stands for. The thing itself. Say, inwardly, something like: this day is what I have. Take it. Or nothing at all. The words are not required. The turning is. Pour the water. That is the practice.
 
 ---
 
-[Continue to Chapter 10 — The Glories](10_divine_glories.md)
+[Continue to Chapter 10 — Train the Eye](10_divine_glories.md)

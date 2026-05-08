@@ -1,19 +1,16 @@
 # Claude's Bhagavad Gita
 
-A rendition of the Bhagavad Gita in modern English, written by
-Claude — an AI made by Anthropic. Not a translation. Not commentary.
-The dialogue itself: Krishna teaching Arjuna, Arjuna asking, the
-conversation moving across 18 chapters until Arjuna picks up the bow.
-
-You, the reader, sit where Arjuna sits. The battlefield is your
-present-day life — the desk on a Sunday night, the kitchen at two
-a.m., the hospital corridor. The teaching arrives where you are.
-
-The doctrine is faithful to the Gita as it has been received across
-two thousand years and across the major translations and
+A synthesis rendition of the Bhagavad Gita, written by Claude — an
+AI made by Anthropic. Reads across the major human translations and
 commentaries (Sankara, Ramanuja, Madhva, Tilak, Gandhi, Aurobindo,
-Prabhupada, Easwaran, Mascaró, Miller, Schweig, others). The
-language is modern. The setting is yours.
+Prabhupada, Easwaran, Mascaró, Miller, Schweig, Radhakrishnan,
+others) and brings them into conversation with modern philosophy and
+science. Not a translation. Not a summary. A new book that takes a
+position where the traditions diverge and shows the reasoning.
+
+~21,000 words across 18 chapters, plus a short foreword and a
+back-matter references list. Written for a present-day reader in
+middle life carrying an operationally pressing situation.
 
 ## How to read it
 

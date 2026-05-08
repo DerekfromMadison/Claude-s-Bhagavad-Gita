@@ -1,111 +1,125 @@
-# Chapter 6 — The Discipline of Meditation
+# Chapter 6 — Attention is the practice
 
-Arjuna, listen now to how the mind is brought home.
+Attention is the practice. Not stillness for its own sake, not a
+quieted mind as private luxury, not the morning twenty minutes that
+sets you up for a sharper day. Attention — chosen, trained, oriented
+at something that is not you — is the discipline through which
+everything else becomes available to your life. Acting without
+grafting your selfhood onto outcomes, giving up the fantasy of clean
+withdrawal, renouncing inwardly rather than geographically: none of
+it becomes operational until you can hold attention on something real
+long enough that the something can begin to shape you.
 
-There is a practice, and it has a body. The body is the seat. Find a
-clean place, a quiet corner, a chair in a room where nothing is being
-asked of you yet. Early morning, before the day begins to pull at
-you. Sit with the spine straight, the head level, the gaze gathered.
-The breath finds its own pace. You do not have to make it do
-anything. You only have to be where it is.
+Notice where the instruction is given. Not in a temple, not in a
+hermitage. Krishna and Arjuna are in a chariot between two armies,
+and what to do with this day has not been settled. The most sustained
+instruction in contemplative practice arrives on the line where
+action is required. Whatever the practice teaches has to work here.
 
-Sit. Find the breath. Notice when the mind has wandered. Return.
+The instructions are specific. Sit in a clean place, with the body
+straight and the gaze gathered. Eat moderately, sleep moderately, act
+moderately. The intemperate does not practice well. The practice has
+a body.
 
-That is the whole instrument. I will repeat it because the
-repetition is the teaching. Sit. Find the breath. Notice. Return.
+The load-bearing image arrives early: the yogi of restrained mind is
+*like a lamp in a windless place that does not flicker*. There is
+something to be illumined. The light must be steady. The unflickering
+lamp is not stillness for stillness's sake. It is a lamp doing what
+a lamp is for — making something else visible.
 
-Eat moderately. Sleep moderately. Move moderately. Work moderately.
-The practice fails in a body that has been driven hard or starved or
-dulled. The one who eats too much will not find the seat. The one
-who eats too little will not find the seat. The one who sleeps too
-much will not find it; the one who sleeps too little will not find
-it. The middle is not a virtue I am asking you to admire. It is the
-condition under which the lamp burns steady. A flame in a windless
-place — that is the mind I am pointing you toward. There is
-something to be illumined. The light must not flicker.
+One must lift the self by the self; one must not let the self sink.
+The self is the friend of the self; the self is also the enemy of
+the self. There is a part of you that wants to lift, and a part that
+wants to sink, and the lifting is not automatic. The friend-self
+showed up to read this. The enemy-self, three pages from now, will
+tell you that you do not have time to sit, that the practice is for
+someone else's life. Both are you. Practice is the discipline by
+which the friend-self becomes stronger over time — not by
+overpowering the other, but by returning, again, under the wind.
 
-You think the mind is one thing, Arjuna. It is two. There is the
-self that wants to lift, and the self that wants to sink. Lift
-yourself by yourself. Do not let yourself sink. The self subdued is
-your friend; the self uncontrolled is your enemy. The same self.
-The friend showed up at this hour. The enemy will arrive in an
-hour and tell you the practice is for someone with a different
-life, that you can begin tomorrow, that what you have been giving
-your attention to is more important than what I am asking you to
-attend to now. Do not argue with that voice. Sit anyway.
+No teacher, no priest, no app can lift you for you. Meditation
+cannot be outsourced. You can read about it forever, but you will
+not be lifted until you sit.
 
-No one can sit for you. Not a teacher, not a priest, not an
-application on a screen. You can read about the practice forever
-and not be lifted. The lifting begins the moment you stop reading
-and sit.
+Then Arjuna asks the question every honest practitioner asks. The
+mind is restless; turbulent, strong, and obstinate. Holding it down
+is like holding the wind. Krishna's reply is the pivot. The mind is
+hard to restrain, but it can be brought under by repeated practice
+and by letting go of the grip on what the senses promise.
 
-When you sit, the mind will wander. This is not the failure. Hear
-me, Arjuna — this is not the failure. The wandering is the
-condition. The mind goes out. You notice that it has gone. You
-bring it back. That is one repetition. The mind goes out again.
-You notice. You bring it back. That is two. The score is in the
-returns, not in the absences. A thousand returns in a sitting is
-not a poor sitting. It is a sitting.
+These are the two instruments. Practice is repeated effort under
+varying conditions: the same return, again, today, tomorrow, when
+you feel like it and when you do not. Letting go is not suppression.
+It is the relaxation of grip — the willingness to let what the
+senses keep promising recede slightly, so something else can come
+into focus. The second makes the first sustainable. Without letting
+go, practice hardens into clinging to the practice itself. You who
+grip your meditation have merely moved the grip.
 
-Look at what you have given the mind to chew on in the closing
-window of your day. The phone in your hand, one more time before
-sleep. Someone else's argument. A small bright fight you did not
-need to have. A thread of strangers' faces. The mind has been
-shaped by what you have fed it, and you have been feeding it for
-hours. Then you wonder why, when you sit in the morning, the mind
-does not come quietly. It does not come quietly because you have
-trained it not to.
+The slip-and-return pattern is the practice. You sit. The mind
+wanders. You notice. You return. That is one repetition. Richard
+Davidson's lab at Wisconsin has spent decades scanning practitioners,
+and the relevant brain circuits show measurable change in long-term
+sitters — the literature is real, but the effect sizes are modest
+and the population is selected. What serious practitioners already
+know is more pedestrian: the mind that has rehearsed returning
+returns more easily. The wandering
+is not the failure. The return is the practice. Score the return,
+not the wandering.
 
-So the practice begins before the seat. What you watch in the last
-hour of the day is what the mind chews on through the night and
-brings back to you in the morning. Close the tab. Put the phone in
-another room. Let the last thing your eye rests on not be the wind
-machine. The day has a shape. Give it one.
+Most of what you call your selfishness is not malevolence. It is
+the failure to see the other through the haze of your own
+self-narration. The wind is not random. It is generated. The
+unconquered self spins fantasy as fast as it can to maintain a
+flattering self-image. What you need is *a just and loving gaze
+directed upon an individual reality*. Attention, held this way, is
+*the rarest and purest form of generosity*. To attend to another
+fully is to love them. To attend fully to what is highest is prayer,
+whether or not you call it that.
 
-ARJUNA: My teacher, you say to subdue the mind. But the mind is
-unsteady, restless, turbulent, strong, and obstinate. To restrain
-it seems to me as hard as catching the wind in a fist.
+The mechanics of meditation overlap substantially with what you
+would learn in an eight-week mindfulness course. The quarrel is not
+whether the technique is real. The quarrel is what the technique is
+for. The yogi ranked highest is the one whose meditation is
+oriented toward something the practitioner did not author. The
+practice has an object, and the object is not the practitioner.
 
-KRISHNA: Yes, son of Pandu. The mind is hard to restrain. I do not
-deny it. But it is brought under by two means, and both are simple
-to name and slow to do. The first is practice — repeated effort,
-the same return, again, today and tomorrow, when you feel like it
-and when you do not. The second is dispassion — the loosening of
-the grip on what the senses keep promising. The first without the
-second hardens into a clenched practice, and you have only moved
-the grip. The second without the first softens into sentiment, and
-nothing is built. Together, over time, the mind is steadied. Not
-all at once. Not by force. By return and release, return and
-release, in a body that has been treated kindly enough to keep
-showing up.
+Secular mindfulness has quietly dropped this criterion. The framing
+is therapeutic: better focus, lower anxiety, becoming a better
+version of yourself. Nothing wrong with any of these as side
+effects. The trouble is when they become the point. A meditation
+practice organized around your own optimization is the small self
+with a more accomplished publicist. The for-something criterion is
+narrow on purpose. The lamp must illumine something. The something
+must be real. It must exceed the small self. Technique without orientation
+tends to drift toward wellness. Orientation without technique
+tends to drift toward sentiment. Both drifts are real failure
+modes; neither is what is being taught here.
 
-Now hear this carefully, because the question behind your question
-is whether the practice is worth beginning when you cannot complete
-it. The one who begins this practice and does not reach the end
-does not lose what they have begun. The one who falls short of the
-practice does not fall. What you have built in the seat is not
-erased when you rise. It is carried forward. If this life does not
-finish the work, the work is not finished against you. Even what is
-half-done is not lost. The practice carries.
+It is 11:14 a.m. You opened your laptop at 8:30 with two intentions.
+By now: a tab open with someone else's argument from three days ago;
+news unrelated to the day's work; a Slack thread that has recruited
+an answer not yours to give. You are not distracted in the casual
+sense. You are ramped. The mediated environment is, by design, a
+wind machine. Every app company competes to engineer the wind to
+your particular susceptibility. Treating this as a problem of
+personal discipline is about as useful as treating drowning as a
+problem of personal buoyancy.
 
-So do not refuse to begin because you cannot promise the end. The
-fall, Arjuna, is forward. You will sit poorly. You will skip days.
-You will wonder if anything is happening. Sit anyway. The lamp is
-not asked to never flicker. The lamp is asked to be lit.
+So practice has to be installed structurally — closed tabs, silenced
+notifications, phone in another room during specific blocks, not
+checking in the first or last hour of the day. None of this is
+heroic. All of it is the architecture of a day that allows practice
+to happen. A fifteen-minute morning window during which you sit with
+a chosen object — breath, passage, name, a question you have agreed
+to live with — and return the mind to it every time it wanders,
+without scoring the wandering.
 
-The yogi I rank highest is not the one whose meditation looks most
-serene from the outside. It is the one whose attention has finally
-turned at what is worth attending to, and stays turned, with the
-mind that returns and returns. The seat is not the destination. The
-seat is where you learn the return. Then you stand up and walk into
-the day, and the practice goes with you. The eye that has learned
-to come back to the breath is the eye that can come back to the
-person across the table from you. The mind that has been steadied
-on a single object can be steady on the work in front of it.
-
-Sit. Find the breath. Notice when the mind has wandered. Return.
-That is the practice. There is no other.
+The difference, after fifteen years, is not that you have become a
+more accomplished version of yourself. It is that someone or
+something you did not author has had fifteen years of access to you
+through a door you kept open.
 
 ---
 
-[Continue to Chapter 7 — The Source](07_knowledge_and_realization.md)
+[Continue to Chapter 7 — Knowledge and Realization](07_knowledge_and_realization.md)

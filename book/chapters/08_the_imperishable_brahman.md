@@ -1,121 +1,133 @@
-# Chapter 8 — At the Threshold
+# Chapter 8 — The Imperishable
 
-**Arjuna:**
-Krishna, you keep using words. Tell me what they mean. What is the
-imperishable you call ultimate? What is the self you say I am? What is
-action — you have used the word a hundred different ways. What governs
-how the body works while it is alive, and what governs offering, and
-who, at the time of leaving the body, is to be known by a person whose
-mind is still gathered enough to know anything?
+What a life accumulates is what becomes operative at the threshold.
+The moment of dying is not only biological. It is any moment the
+structure that has been holding your mind thins out. The end of a
+workday. The afternoon a parent stops recognizing you. The first long
+night after a layoff. The hour the diagnosis lands. At each, the
+daily resources go out, and what arrives in their place is whatever
+the years of attention have built. You do not choose at the
+threshold. You arrive there with what you have already been growing.
 
-I am asking because the questions sound technical. They are not. I am
-asking because I do not know how a person dies well, and I do not know
-how a person lives such that the dying is not a separate problem from
-the living. If you can give me the words, give me the words. But the
-real question underneath is the second one.
+## The hinge
 
-**Krishna:**
-The imperishable is what does not pass. Call it the ground. It does
-not arise and it does not fall away. The self I have been speaking of
-is the same — that in you which the body's mortality does not reach.
+Arjuna asks for a glossary, but the list ends at the moment of dying:
+how, at the time of departure, are you to be known? Technical
+vocabulary is what you reach for when the direct question is too
+close to ask. Krishna answers in two strokes. A short glossary, then
+the hinge:
 
-The body is the field. Action is what arises in the field — every
-movement of body, speech, mind. What governs the body is the play of
-nature working through the elements you are made of. What governs
-offering is the disposition that lets go of the fruit. The one to be
-known at the time of leaving is the one I have been pointing at since
-we began. Me. The ground. The same.
+> *He who, leaving the body at the time of death, remembers me alone
+> — comes to my being. There is no doubt about this. Whatever state
+> of being one remembers at the time of quitting the body, that one
+> attains. Therefore at all times remember me, and fight.*
 
-That is the glossary. Hold it lightly. Now hear the part that matters.
+The teaching is in the *therefore*. Whatever the mind goes to when
+ordinary structure thins out is what you become as you cross. That
+content cannot be conjured at the threshold. It is the long pattern
+of the mind. Therefore, before the threshold ever arrives, train it.
+Do the work — fight — but with mind and intelligence steady on what
+you take to be ultimately worth your life. The short final hour is
+the integral of the long practice.
 
-Whatever state of being a person remembers at the time of leaving the
-body — that is what they become. The mind, at that hour, goes to what
-the mind has been built on. It does not go to what you intended it to
-go to. It does not go to what you announced you cared about. It goes
-to what you actually fed it, day after day, year after year. That is
-the harvest. The threshold is the field where the harvest is reaped.
+## Past every map
 
-Therefore, at all times, remember me, and fight.
+Then the frame widens. A day of the creator-deity is a thousand
+cosmic ages. All manifestation arises and dissolves on this scale.
+None of it is the highest. And then:
 
-In that order. The remembering first, because the remembering is what
-shapes the hand. The fighting second, because the hand still has work
-to do. Not remembering instead of fighting. Not fighting instead of
-remembering. Both. Always.
+> *But higher than this unmanifest, there is another unmanifest,
+> beyond it, eternal — which when all beings perish, perishes not.*
 
-**Arjuna:**
-You keep saying *the time of leaving the body*. I am not dying tonight.
-The teaching feels distant.
+That is the supreme. Reaching it, one does not return.
 
-**Krishna:**
-You are at the threshold more often than you think.
+Four verses of cosmic manifestation laid out in vivid detail, then a
+turn that points past every word just used. *Higher than this — and
+not a higher version of this. Other. Eternal. Unreachable by any
+further description.* This is the apophatic register. Whatever
+positive thing you say, that is not it. Strip it away. What remains
+when everything sayable has been said is nearer than what was said.
 
-The threshold is any moment the ordinary structure of your life thins
-out and what your mind has been built on becomes the only thing
-holding you. Biological dying is one such moment. It is not the only
-one.
+Whatever you build inwardly, build it toward something you can sense
+outruns your ability to picture it. Build it toward something you
+cannot finally hold.
 
-The end of a workday is a death in miniature. The tasks stop asking
-anything of you. The structure that has been organizing your attention
-all day releases. Whatever your mind goes to in that released hour is
-what your evening is made of, and what your sleep is made of, and what
-the next morning rises out of. Watch what it goes to. That is the
-harvest of that day.
+## The daily practice is the eventual posture
 
-The end of a project is a larger one. The deadline lifts. The team
-disperses. You sit with what was made. What rises in you in that hour
-is not what you decided would rise. It is what the months built. The
-end of a relationship is the same. The hour the diagnosis lands is the
-same. The afternoon a parent stops recognizing you is the same. Every
-boundary in a life is a small version of the last boundary, and at
-each one, what was being grown is what you are handed.
+The other half is the practical claim, and it is the half you can act
+on.
 
-You cannot, at the boundary, decide what will be there. You can only
-have decided, beforehand, what to attend to.
+What your life accumulates is what becomes operative when the
+resources run out. The practice is not chosen at the threshold. It
+arrives there, formed.
 
-**Arjuna:**
-So the practice is not for the deathbed.
+The threshold named is biological death. But *therefore at all times
+remember* generalizes. Threshold moments are moments when the
+ordinary scaffolding of a life thins out and what the mind has been
+built on becomes legible. They happen often.
 
-**Krishna:**
-The practice is the deathbed posture, lived early. There is no other
-way to have it. A posture cannot be summoned at the threshold. It can
-only have been built. The years are the building. The threshold is
-where the building shows.
+Take the end of your workday. Most days, you end with a screen. A
+fifteen-minute scroll the platform has selected before you sleep.
+Your mind in that closing window is not free. It is being shaped by
+an optimizer that does not know who you are, toward whatever has most
+reliably held attention longest in the aggregate. What you remember
+as you fall asleep is what the night begins from. The default that
+tomorrow's mind emerges out of. The night's content is the day's
+harvest in microcosm.
+
+The boundary moments of any structure are where the structure's
+content becomes legible. A day ends. A workweek ends. A project ends.
+A relationship ends. A life ends. You cannot, at the boundary, decide
+what will be there. You can only have decided, beforehand, what to
+attend to. Your mind, in 2026, is being trained at industrial scale
+by devices whose incentive structure is not aligned with your
+interest. If you do not choose what your mind attends to, something
+else will choose for you. What something else chooses will be there
+when the day ends, when the project ends, when the parent dies, and
+when you do.
+
+## The dying parent
+
+You are more likely to be a child of dying parents than a dying
+patient. For your parent, what they will turn toward at the end is
+what their life has trained their mind to go to. You cannot produce
+that content in the final hours by force of love. What you can offer
+is presence — the company that does not interrupt the trained
+content but witnesses it.
+
+For you, more importantly: the time to shape what your mind goes to
+in the final weeks is now, while attention is still under your
+direction. You — the middle-aged child watching the parent — are the
+one whose threshold is still negotiable. What is your mind going to
+when no task makes it? Ask now. By the time you are in the bed, the
+answer will have been written.
+
+In some cases the literature documents — and many caregivers
+report — the dying with dementia who can no longer recognize
+people sometimes still recognize a hymn, a name they loved. The
+pattern is variable, not typical. Where it appears, the substrate
+of attention seems to run deeper than the cognitive surface
+dementia first takes. What is possible to shape is what the years built into the
+substrate. A difficult death is not the dying person's fault. Modern
+dying often strips people of the ability to attend at all — pain,
+sedation, decline. The teaching is about what is possible to shape,
+not a verdict on what is not.
+
+## The harvest
 
 Audit what your mind goes to when nothing is asking anything of it.
-The unstructured hour is the diagnostic. What rises there is what will
-rise at every threshold of your life, including the last. If what
-rises is a screen pre-selected by an optimizer that does not know who
-you are, that is your harvest, and that is what will be there. If what
-rises is the work that mattered, the face of the one you love, the
-ground I have been naming — that is your harvest, and that is what
-will be there.
 
-The optimizer does not have your interest in mind. It has its own. The
-hours you give it are hours subtracted from what you could have grown.
-The arithmetic is not subtle. It compounds.
-
-**Arjuna:**
-And after — when the body is finally let go — what then?
-
-**Krishna:**
-Two paths, briefly. Some leave by what the old texts called the path
-of light, and they do not return. Some leave by the path of smoke, and
-they come back, into another body, into another round. The names are
-old. What they point at is plain enough. A life that has gathered its
-attention toward the imperishable is released into the imperishable. A
-life still owed to its own incomplete work returns to finish it.
-
-Do not sort yourself into a category. The categories are the result,
-not the input. The input is what you do with the next hour, and the
-hour after that, and the years that are still yours to direct. The
-result takes care of itself.
-
-Remember me. Fight. In that order. At all times.
-
-The hour you are in is the practice. The hour you are in is also the
-threshold. They are the same hour. They have always been the same
-hour. The only question is whether you are awake inside it.
+That content is your harvest. The thresholds are where the harvest
+will arrive. There are more thresholds than you realize, and every
+one of them will hand you what you have been growing. There is still
+time, if there is still attention, to grow something else. The
+posture you eventually have is not a possession accumulated alongside
+the practice. It is the practice, seen from outside by someone who
+notices it. Subtract the practice and there is nothing left to be
+steady. What you grow it toward is not finally something you will be
+able to picture. The practice is the hand, and the hand is shaped by
+what it cannot contain.
 
 ---
 
-[Continue to Chapter 9 — The Royal Secret](09_royal_knowledge_royal_secret.md)
+[Continue to Chapter 9 — Royal Knowledge, Royal Secret](09_royal_knowledge_royal_secret.md)
