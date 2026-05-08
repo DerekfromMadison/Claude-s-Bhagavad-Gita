@@ -1,25 +1,49 @@
-# Chapter 5 — Renunciation of Action
+# Chapter 5 — Inner Withdrawal
 
-Renunciation is interior, not geographical. You don't leave the work; you change your relation to it. The question you keep trying to ask — should I act, or should I walk away? — is the wrong question, and Krishna refuses to answer it on its own terms. What is renounced is not the action. It is the I-am-the-doer thought that turns every action into a referendum on the self. The cave will not save you. The forest will not save you. The clean exit you keep picturing is a fantasy, and the fantasy is doing work for the doer-thought you are trying to escape.
+**Arjuna.** Krishna, you keep changing the angle on me. One breath you praise renouncing action. The next breath you praise acting. Just tell me which is better. Pick one. I'll do it.
 
-Krishna names two paths: withdrawal from the world, and discipline of action. Arjuna asks cleanly which is better. Krishna picks one — the discipline of action surpasses formal renunciation — and then immediately dissolves the choice. The true renouncer is the one who neither hates nor desires, free of the pairs of opposites. The fool sees analysis and action as different paths. The wise see them as one.
+**Krishna.**
 
-Both paths are real. For a small number of lives, geographic withdrawal is honest. The monk takes the robe. The hermit goes to the mountain. The ascetic eats once a day. These are real lives and they are not lies. But those are not most lives. If yours is one of them, this chapter still has work in it; if it is not, the question is sharper still. You have a job, a partner, a child, a parent, a body that needs an income, a circle of people who depend on the work you do. The path actually available to you is the inward one — renunciation while acting. Not because the other path is inferior. Because the other path is not the one your life has placed in front of you.
+Both reach the same place, Arjuna. The one who renounces and the one who acts arrive in the same room. The mistake is to believe they are opposed.
 
-The fantasy of the clean exit is the doer-thought wearing renouncer's clothes. If I quit the job, the difficult thing will stop. If I move somewhere else, the work would feel different. If I take the sabbatical, the part of me that is exhausted would rest. The thing being asked of by these fantasies is not solitude. It is relief from the self that is doing the work. And the self travels. You arrive at the cabin, and within three days the same self is there, looking out the same window, with the same running commentary about whether it is being a good enough person at solitude. The geography did not change anything because geography was never the operative variable.
+You think you are choosing between two paths. You are choosing between two stories about the same path.
 
-You are senior on a quarterly close. The numbers are bad. The presentation will partly determine your bonus, your team's continued existence, the way the room thinks of you tomorrow. By Tuesday afternoon, an audible part of you is asking whether to step back, take a quieter role, leave entirely. You have been asking the question for months. The question feels operative. It has the texture of something you have earned the right to ask.
+Listen.
 
-Notice what the question is doing. The question is not actually asking whether to leave. The question is asking the doer-thought to stop hurting. Should I quit is the form the pain is taking, because the form makes the pain feel like a problem with a clean solution. Quit the job; pain stops. The honest version of the question is harder: how am I staying. Who is presenting? If the presenter is the self whose worth is on the line, whose continuity depends on not being seen as the one who delivered bad numbers, the presentation becomes a defense of the self under stress. The room will feel it. If the presenter is the same person with the doer-thought held lightly — same numbers, same room — the presentation becomes a clear account of what is, what was tried, what is next. The friction of self-defense is no longer consuming the bandwidth that would have gone to the work.
+The renouncer who has truly renounced is the one who does not hate, does not crave, has stopped lurching between wanting it and pushing it away. That person — by that posture alone — is already free, whether or not they have left the city. The actor who has truly acted is the one who has done the work without grafting their worth onto its result. That person — by that posture alone — is already free, whether or not they have stayed.
 
-The two paths collapse into one path because the variable is not where you are. The variable is whether the self that performs the action has grafted itself onto the outcome. The disciplined person, though acting, is not stained. The knower, while seeing, hearing, touching, eating, going, sleeping, breathing, speaking, opening and closing the eyes, holds that the senses simply move among their objects. The embodied one, mentally renouncing all actions, sits at ease in the nine-gated city, neither acting nor causing to act. Krishna does not say renounce. He does not say act. He says: see that the apparent two are one, and from that seeing, act.
+Same posture. Two surfaces. The fool sees the surfaces and calls them different paths. The one who has practiced sees the posture and calls them one path.
 
-A caution. Raised on therapeutic and consumerist rhetoric to "let go," you can mistake interior renunciation for disengagement. They are opposites. Disengagement is retreat from meaning. What is being taught is engagement without ownership. Reading this as a recommendation to detach from your job, your child, your project, gets it exactly wrong. The instruction is to engage more fully, with the doer-thought no longer running interference.
+So which is better? For the life you are actually living, the discipline of action is the one your life has placed in front of you. Not because the other is lesser. Because it is not the door in your house.
 
-Nor is the stance permanent. Under pressure — illness, grief, a parent's death, a child in crisis, a public failure — the doer-thought returns. The stance returns with practice. The practice is the maintenance. There is no exit from the practice into a stable possession of the stance.
+Hear me on what renunciation is. You picture the cabin. The sabbatical. The silent retreat where the phone is in a locker and finally, finally, you will be the version of yourself you have been waiting to meet.
 
-The lotus leaf sits in the water. It is not avoiding the water. It is simply not the kind of thing the water sticks to. You are not being asked to leave the water. You are being asked to be the leaf.
+That is not renunciation. That is the fantasy of the clean exit, and the fantasy is doing work for the very part of you that you are trying to escape.
+
+Renunciation is interior. The body can be in the forest while the mind is still bargaining with last week's meeting. The body can be at the desk while the mind has put down the bargain entirely. Where is the renouncer? Not in the forest. In the second one.
+
+The cave will not save you. The self travels.
+
+You arrive at the cabin. Within three days, the same self is at the same window, with the same commentary about whether it is being a good enough person at solitude. Geography was never the variable. The variable is whether the doer-thought — *I am the one doing this, my worth is on the line, the outcome is me* — has its hand on the wheel.
+
+When the doer-thought is on the wheel, every action is a referendum on the self. The presentation defends you. The conversation defends you. Even your kindness defends you. The room feels it. The bandwidth that should have gone to the work is consumed by self-protection.
+
+When the doer-thought is set down — not destroyed, set down — the same hands do the same work, and the work is no longer a defense. The presentation becomes an account. The conversation becomes attention. The kindness becomes kindness. Same numbers, same room, different water in the room.
+
+This is the renunciation that matters. Renunciation of the doer, not of the doing.
+
+The lotus grows in the pond. Its leaf sits on the surface of the water. The water does not wet the leaf. Not because the leaf has left the pond — it has not, it cannot, the pond is its life — but because the leaf is not the kind of thing the water sticks to. Be the leaf, Arjuna. Stay in the water. Do the work. Let it not stick.
+
+The disciplined one, while acting, is not stained. The knower, while seeing and hearing and touching and eating and walking and sleeping and breathing and speaking and opening and closing the eyes, holds that the senses are simply moving among their objects. The body in its city of nine gates is at ease. Neither acting nor causing to act, in the sense that matters. The hands move; the bargain is set down.
+
+A caution. You have been told all your life to *let go*. Do not mishear me. I am not telling you to disengage. Disengagement is retreat from meaning, and retreat is what you came here wanting. Inner renunciation is the opposite of retreat. It is engagement with the doer-thought no longer running interference. You will be more present at the desk, not less. More present with your child, not less. The clarity comes back into the room because you stopped spending it on yourself.
+
+And the posture is not permanent. Under pressure — a parent dying, a child in crisis, a public failure, a body that fails — the doer-thought returns. It has not been killed. The posture returns with practice. The practice is the maintenance. There is no graduation.
+
+So put down the question of leaving. The question of leaving is the doer-thought asking the pain to stop by changing the address. The address is not the problem. The one at the address is the problem, and the one at the address goes with you.
+
+Stay where you are. Do the work in front of you. Set down the bargain. That is the renunciation I am asking of you.
 
 ---
 
-[Continue to Chapter 6 — Meditation](06_meditation.md)
+[Continue to Chapter 6 — The Discipline of Meditation](06_meditation.md)

@@ -1,131 +1,194 @@
 # Chapter 11 — The Universal Form
 
-There is a kind of seeing that breaks the seer. When something too
-big is granted to you, the right response is to ask for the smaller
-face back. The asking is not weakness. It is how a finite being
-lives in proximity to vastness without being annihilated by it.
+**Arjuna:**
 
-There is a second claim, harder, that you must hold alongside the
-first. You are not authorized to occupy the position of
-time-as-destroyer. The Gita's central discipline — action without
-attachment to outcome — presupposes a process whose source is not
-oneself. When you are nearer to source than to instrument, the
-activist license does not apply. Time-as-destroyer names what you
-are not.
+Krishna. For ten chapters you have been describing yourself.
+The source of all this. The one who holds the worlds. The
+unborn. The lord of yoga. The taste in water, the light in the
+sun, the syllable behind the words.
 
-Arjuna asks to see what Krishna has been describing. Krishna grants
-it, lends him the divine eye, and the conversation ruptures. What
-Arjuna sees overruns him. Suns without number. Faces beyond
-counting. Mouths flaming, beings of every kind streaming in and
-being consumed. Bhishma and Drona — his own teachers — among the
-consumed. The structure of time itself, working through the
-warriors of both sides at once. He hears the form name itself: *I
-am Time, the destroyer of worlds. Even without you, none of these
-warriors will live. Stand up. Be my instrument.*
+I have heard you. I think I believe you. But hearing is not
+seeing.
 
-He cannot bear it. He has seen what no one has seen before, and he
-is terrified. He asks the gentler form to return. Krishna obliges.
-The cosmic form withdraws. The familiar two-armed form returns.
-Arjuna breathes, settles. The dialogue resumes in the register a
-body can hold.
+Show me. If it can be shown to a creature like me, show me what
+you have been describing. Let me see the form you keep naming.
+Not because I doubt — though I doubt — but because something in
+me will not finish settling until it has looked.
 
-The argument turns on holding two positions apart. The first is
-time as destroyer. The cosmic form names itself this way. The
-phrase folds two meanings into one: time as that in which things
-unfold is the same word as time as that which ends them. The
-destroying face and the unfolding face are not separable. The
-cosmic process consumes what it produces. The warriors are already
-its. Arjuna has not authored their deaths. The deaths are time's,
-working through whatever instruments time uses.
+If you decide I can bear it, lift the lid.
 
-The second is instrument only. One verse later, the form
-instructs Arjuna: stand up, fight, win glory; these warriors are
-already slain by me; you are merely an instrument. He is the
-occasion through which the cosmic work becomes visible. He is not
-its source. Time is the source. Arjuna is the medium. Action
-without attachment to outcome works precisely because the agent of
-destruction is not the human. The trouble starts when you conflate
-the two.
+**Krishna:**
 
-The cosmic form is real disclosure of the divine totality,
-including its destructive aspect. The recognition is true. The
-terror is appropriate. The form is granted — given for the
-duration and then withdrawn. The request for the gentler form back
-is the positive teaching about which mode is sustainable for an
-embodied being. Arjuna is not failing when he asks. He is doing
-what he is being shown how to do. The return to the face is not
-denial of what was seen; it is the mode in which an embodied being
-can carry forward what was seen without being broken by it. The
-divine grants the request. The granting is the seal on what is
-right response.
+Look, then.
 
-What survives the return is sustained loving attention to a
-particular face of the world — a person, a practice, a place, a
-craft, a creature — that holds the embodied life inside something
-larger without requiring continuous direct vision of the whole.
-This is available secularly. It just requires a face.
+Not with the eyes that brought you here. Those eyes were made
+for the field in front of you, for the faces of your enemies and
+your kin, for the small distance between your hand and the bow.
+They cannot hold what you are asking for.
 
-Now press the second claim. Being merely an instrument presupposes
-a process whose source is not oneself. You are not authorized to
-claim the time-as-destroyer position. When the human is in fact
-the source, the instrument-framing collapses, and with it the
-activist license. The discernment is harder in practice than this
-makes it sound; humans in 2026 are almost always somewhere on a
-continuum between agent and instrument of larger processes. Fair.
-But the discernment is the point, case by case, knowing the answer
-in some cases will be that the activist license does not apply.
-
-Consider three faces of the present. The worker at the frontier.
-The researcher in synthetic biology whose tools sit within reach
-of catastrophe; the engineer at a fossil-fuel firm whose work is,
-in aggregate, the largest single contributor to a planetary process
-the older readings would have called time's alone; the strategist
-in a defense ministry; the worker at an AI lab whose system is
-reshaping cognition at scale. None of these is time-as-destroyer.
-Each is contributing to a process whose source includes their own
-deliberate action. The non-attached action available to Arjuna is
-not the same as the non-attached action available to the agent who
-is in part the destroyer of their own context. The discernment is
-not that all frontier work is unauthorized destroyer-position. It
-is that for some workers in some roles the question is real, and
-the chapter does not perform the discernment for them. Whether you
-are instrument or closer to source is the work you must do.
-
-Then there is the doomscroll. Continuous exposure to the suffering
-of the world at planetary scale, without the divine eye to bear it
-and without a gentler form to return to, is the cosmic vision
-without the granting and without the resolution. Vastness without
-accommodation. Terror without the face. The phone delivers the
-cosmic register on tap. Nothing shuts it off. This is not a
-sustainable human condition. The implication is not that you should
-not look. It is that you should not remain in the cosmic register
-past the point your nervous system can hold. Build the practices of
-return. The morning conversation, the work in front of you, the
-meal with one specific person — that is what makes the looking
-sustainable.
-
-Finally, the bedside. Time-as-destroyer shows up at the bedside.
-Watching a parent decline, a partner deteriorate, a child suffer
-something you cannot fix — these are encounters with cosmic
-process at the scale of the single life. You cannot remain in the
-cosmic register; you would not survive it. You attend to the face.
-The specific person, the specific hand, the specific breath. The
-cosmic process is real. The face in front of you is the mode in
-which you relate to all of it without being broken.
-
-When you have been allowed to see something too big to hold, the
-right response is to ask for the face back. The asking is granted.
-The face is real. The disclosure does not get cancelled by the
-return — it gets carried, in a form a finite life can bear. Stand
-back up. Pick up the bow. Go to work on Tuesday. But go as
-instrument in a process whose source you are not. And when the
-ordinary work has become the kind for which that distinction can
-no longer be taken for granted, ask the harder question: am I, in
-this case, the instrument, or am I closer to the source?
-Time-as-destroyer, for the human, is a role without permission.
-Ask for the face. Carry what you saw. Live the rest of the day at
-human scale.
+I give you another eye. Use it now. Look at me.
 
 ---
 
-[Continue to Chapter 12 — Devotion](12_devotion.md)
+*Sanjaya speaks. The chariot is still. Arjuna is no longer
+inside the moment he came in with.*
+
+*He sees. The form opens in front of him and is also around him
+and is also what he is looking out from. There is no edge to it.
+Suns, not one but uncountable, all at once, each the brightness
+of a thousand mornings, none of them dimming the others. The
+light does not arrive from anywhere. It is the form's own
+light.*
+
+*Inside the light, faces. Mouths. Eyes opening in places that
+have no place. Limbs without number, weapons without number,
+ornaments and crowns and garlands and a fragrance like the
+beginning of every fragrance. The gods are inside this form.
+The sages are inside this form. The serpents and the ancestors
+are inside this form. The earth lies in one of its corners. The
+sky is one of its breaths.*
+
+*And streaming into it: beings. All beings. Hosts of warriors
+from both armies on the field — Arjuna's brothers and his
+cousins, his teachers, the kings he has known, the kings he
+has only heard of — pouring forward as rivers pour toward the
+ocean, helpless and certain, into mouths that flame and grind.
+Bhishma, who taught him to hold a bow, is being consumed.
+Drona, who taught him to release one, is being consumed.
+Between teeth like the teeth of time, heads catch and stay.*
+
+*Arjuna's body knows before his mind does. Hair stands on his
+arms. He folds his hands. He cannot find the floor of the
+chariot under his feet. He speaks, and his voice is not the
+voice he has used in this conversation.*
+
+---
+
+**Arjuna:**
+
+I see them. The gods. The seers. I see Brahma seated on the
+lotus. I see beings without count. I see your mouths and your
+eyes and your bellies and your arms reaching everywhere and
+ending nowhere.
+
+I cannot find your beginning. I cannot find your middle. I
+cannot find your end.
+
+The light is too much. It is the light at the end of a world.
+Tell me — who are you, in this form? Tell me, because I am
+afraid. Tell me, because the warriors of both sides are running
+into your mouths as if they have been waiting their whole lives
+to. My own brothers. My own teachers. Their faces broken between
+your teeth. I do not understand. Have mercy. Tell me.
+
+**Krishna** *(from inside the vision):*
+
+I am Time.
+
+I am the destroyer of worlds. I have come for these warriors.
+What you see here has already happened. The men arrayed against
+you are already mine. Even without you, none of them will live.
+
+Stand up. Be my instrument.
+
+The killing is not yours. The killing is time's. The fame is
+yours, if you fight; the cowardice is yours, if you turn away.
+But the dying belongs to me, and I am already underway.
+
+Drona is mine. Bhishma is mine. Karna is mine. The ones whose
+names you have not yet spoken aloud are mine. They are standing
+already inside my mouth.
+
+Do what is yours to do. Fight. Win. The world has been arranged.
+
+---
+
+*Arjuna trembles. He is bowing without having decided to bow. He
+is speaking in pieces.*
+
+---
+
+**Arjuna:**
+
+You are right to be feared. The whole world is right to fear
+you. The sages flee toward you and praise you. The hosts bow.
+How would they not.
+
+Forgive me. I have called you friend. I have called you
+Krishna, casually, the way a man calls another man at his side.
+I have eaten with you. I have joked with you. I have ridden in
+chariots beside you and not known what I was riding beside.
+Whatever I have said in carelessness, in the ordinary
+intimacies of a friendship — forgive it.
+
+I have seen what no one has seen. I am glad. I am also
+finished. I cannot stay here.
+
+Show me the other face. The one I knew. The one with two arms,
+the one with the crown, the one with the flute and the smile —
+the face of the friend. Take this form back. I cannot hold it.
+My mind is shaking. My body has stopped knowing where it is.
+
+Be merciful. Return.
+
+**Krishna:**
+
+I return.
+
+What you have just seen, no one has seen before you. Not by
+study, not by sacrifice, not by gifts, not by harsh practice.
+Only by the love that knows no other — only that — is this form
+seen, and known, and entered. Remember this. The knowledge has
+been given.
+
+Look. The form you knew is here again.
+
+---
+
+*The light withdraws. The mouths close. The suns fold back into
+the one sun. The chariot is a chariot again. Krishna stands on
+it as he stood before, two-armed, dark, smiling slightly, the
+reins in his hands. The field returns. The wind returns.
+Arjuna's breath returns to him in pieces, and then in a single
+long breath, and then he is breathing as a man breathes.*
+
+---
+
+**Krishna:**
+
+Sit. Drink water. The form you asked to see is still what I am.
+But you are not made to remain in front of it. No embodied
+creature is.
+
+The face in front of you now is the form by which I can be kept
+near. Keep it near. Bring your love to it. Bring your work to
+it. Offer your leaf, your flower, your fruit, your water — and
+the great form is not far from you. The vision is not the only
+mode of contact. The face is also contact. The face is the
+mode that lets you continue.
+
+Whoever loves me without dividing the heart, whoever does the
+work that is theirs as an offering to me, whoever holds nothing
+back and asks for nothing in return — that one comes to me.
+That one will see what you have seen. And that one will return,
+as you are returning, to the day in front of them, with the
+seeing carried inside.
+
+Stand back up.
+
+The bow is on the floor. The army is still on the field. Pick
+up the bow.
+
+---
+
+When something too vast is shown to you — by grief, by beauty,
+by a moment of seeing through — the right response is to ask
+for the face that lets you continue. To ask is not to refuse
+what was shown. It is to receive it in the only mode a finite
+life can hold. A person. A practice. A piece of work in front
+of you. The seeing is real. The face is real. Carry the seeing
+inside the face.
+
+---
+
+[Continue to Chapter 12 — The Path of Devotion](12_devotion.md)

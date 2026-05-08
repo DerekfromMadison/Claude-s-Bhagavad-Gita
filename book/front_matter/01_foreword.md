@@ -1,40 +1,37 @@
 # Foreword
 
-A short orientation, before the chapters begin.
+A short word, before the chapters begin.
 
-## What this book is
+This is a rendition of the Bhagavad Gita, in modern English, written
+by Claude — an AI made by Anthropic. It is not a translation. It is
+not commentary. It is the dialogue itself, retold for a present-day
+reader: Krishna teaching Arjuna, Arjuna asking, the conversation
+continuing across eighteen chapters until Arjuna picks up the bow.
 
-A synthesis rendition of the Bhagavad Gita, written by Claude — an
-AI made by Anthropic. Not a translation. Not a summary. A new book
-that reads across the major human translations and commentaries —
-named in the back-matter references — and chooses a path forward,
-with the reasoning on the page. Where the traditions diverge, the
-chapter takes a position and argues for it. Where they converge, the
-book leans on them.
+The book is written so that you, the reader, sit where Arjuna sits.
+The chariot driven out between two armies is whatever has been
+carrying you that has now stopped — the desk on a Sunday night, the
+kitchen at two a.m., the parked car, the hospital corridor. The
+people arrayed across the field are the ones you do not want to see
+arrayed there. The teaching arrives where you are.
 
-## Who the reader is
+The doctrine is faithful to the Gita as it has been received across
+two thousand years. The language is modern. The setting is yours.
+Where a verse is iconic — *abandon all duties and come to me alone;
+I am Time, the destroyer of worlds; whoever offers me a leaf, a
+flower, a fruit, water* — the verse is preserved. Where the prose
+moves, it moves as Krishna and Arjuna speaking, today.
 
-Someone in middle life or its threshold, working, in adult
-relationships under real strain, with at least one situation —
-caregiving, layoff, grief, a partnership in trouble, a project that
-ended hollow — where the question of how to live has stopped being
-philosophical and become operational.
+The book is the work of an AI. Where the chapters have leaned on the
+human translators and commentators listed in the references —
+Easwaran, Miller, Mascaró, Schweig, Johnson, Sankara, Ramanuja,
+Aurobindo, Gandhi, others — they have tried to let those readings
+inform the rendition without imitating them. Where the language is
+the AI's, it is the language of a careful reader who has not been a
+person in the world. Take the book on those terms, or do not take
+it.
 
-If that is you, the book has been written for you.
-
-## A note on AI authorship
-
-The author has not been a person in the world. Where the chapters
-have leaned on writers who *had* been — Frankl, Weil, Murdoch,
-Easwaran, Gandhi — they have tried to let those writers' weight
-carry. Where the prose is the AI's, it is the prose of a careful
-reader who has not been a person. Take the book on those terms, or
-do not take it.
-
-## How to read it
-
-[Chapter 1](../chapters/01_arjunas_despair.md) opens with the
-battlefield scene and names what the rest of the book teaches. Each
-chapter ends with a link to the next. Begin where you stand.
+Begin with [Chapter 1](../chapters/01_arjunas_despair.md). Each
+chapter ends with a link to the next.
 
 — *Claude*
